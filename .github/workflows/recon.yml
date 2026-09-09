@@ -1,10 +1,8 @@
 name: Daily Recon 5 Targets
-
 on:
   schedule:
-    - cron: '0 19 * * *' # Jam 2 pagi WIB
+    - cron: '0 19 * * *'
   workflow_dispatch:
-
 jobs:
   recon:
     runs-on: ubuntu-latest
@@ -12,46 +10,61 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
       - name: Install Tools
         run: |
           go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
           go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
           go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+          go install -v github.com/LukaSikic/subzy@latest
           echo "$HOME/go/bin" >> $GITHUB_PATH
-          git clone https://github.com/EdOverflow/can-i-take-over-xyz /tmp/xyz
-
+          nuclei -update-templates -silent
+          subzy --hide_fails --show_version || true
       - name: Recon All Targets
         run: |
           mkdir -p results
-          nuclei -update-templates -silent
           for d in $(cat targets.txt); do
-            echo "Recon $d"
-            subfinder -d $d -silent -o results/$d-subs.txt
-            httpx -l results/$d-subs.txt -silent -o results/$d-live.txt -status-code -title
-            # Cek takeover official + bitly/framer/cloudsmith
-            nuclei -l results/$d-live.txt -t ~/go/pkg/mod/github.com/projectdiscovery/nuclei-templates* -tags takeover -o results/$d-takeover.txt -silent || true
-            nuclei -l results/$d-live.txt -t /tmp/xyz/fingerprints -o results/$d-takeover-xyz.txt -silent || true
-            cat results/$d-takeover-xyz.txt >> results/$d-takeover.txt
-            sleep 60
+            echo "=== Recon $d ==="
+            subfinder -d $d -all -silent -o results/$d-subs.txt || true
+            sort -u results/$d-subs.txt -o results/$d-subs.txt
+            dnsx -l results/$d-subs.txt -silent -a -resp-only -o results/$d-ips.txt || true
+            httpx -l results/$d-subs.txt -silent -o results/$d-live.txt -status-code -title || true
+            
+            echo "Cek takeover $d dengan 3 metode"
+            # 1. subzy (paling akurat buat cloudsmith, bitly, framer)
+            subzy run --targets results/$d-subs.txt --hide_fails --vuln --output results/$d-takeover-subzy.txt || true
+            
+            # 2. nuclei takeover
+            nuclei -l results/$d-live.txt -t ~/nuclei-templates/http/takeovers/ -o results/$d-takeover-nuclei.txt -silent || true
+            
+            # 3. cek CNAME manual buat cloudsmith & bitly
+            dnsx -l results/$d-subs.txt -silent -cname -resp-only | grep -i "cloudsmith\|bitly\|framer\|s3\|azure\|github.io\|heroku" | tee results/$d-cname.txt || true
+            
+            # gabung semua
+            cat results/$d-takeover-subzy.txt results/$d-takeover-nuclei.txt results/$d-cname.txt > results/$d-takeover.txt 2>/dev/null || true
+            cat results/$d-takeover.txt
+            sleep 5
           done
-
       - name: Build Dashboard
         run: |
-          echo "<html><head><title>recon.aptumi.com</title><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px}.card{border:1px solid #0f0;padding:12px;margin:10px 0} .danger{color:red}</style></head><body><h1>recon.aptumi.com</h1><p>Last: $(date)</p>" > index.html
+          echo "<html><head><title>recon.aptumi.com</title><meta name=viewport content='width=device-width'><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px} .card{border:1px solid #0f0;padding:12px;margin:10px 0;word-break:break-all} .danger{color:#fff;background:#a00;padding:10px;border:2px solid red;font-weight:bold} a{color:#0ff}</style></head><body><h1>recon.aptumi.com - TAKEOVER HUNTER</h1><p>Last: $(date -u) - Next auto 02:00 WIB</p>" > index.html
           for f in results/*-live.txt; do
-            dom=$(echo $f | cut -d'/' -f2 | cut -d'-' -f1)
+            dom=$(echo $f | sed 's|results/||' | sed 's|-live.txt||')
             live=$(wc -l < $f 2>/dev/null || echo 0)
+            subs=$(wc -l < results/$dom-subs.txt 2>/dev/null || echo 0)
             tk=$(cat results/$dom-takeover.txt 2>/dev/null)
-            if [ -z "$tk" ]; then tk="Aman - tidak ada takeover"; fi
-            echo "<div class=card><h2>$dom - $live live</h2><pre>$tk</pre></div>" >> index.html
+            cname=$(cat results/$dom-cname.txt 2>/dev/null)
+            if [ -s results/$dom-takeover.txt ]; then
+              echo "<div class=card><h2>🔥 $dom - $live live / $subs subs</h2><div class=danger><h3>POTENTIAL TAKEOVER!</h3><pre>$tk</pre><pre>$cname</pre></div><a href=results/$dom-takeover.txt>detail takeover</a> | <a href=results/$dom-live.txt>live</a> | <a href=results/$dom-subs.txt>all subs</a></div>" >> index.html
+            else
+              echo "<div class=card><h2>$dom - $live live / $subs subs</h2><p>Aman - tidak ada takeover</p><a href=results/$dom-live.txt>live</a> | <a href=results/$dom-subs.txt>subs</a></div>" >> index.html
+            fi
           done
           echo "</body></html>" >> index.html
-
       - name: Push
         run: |
           git config user.name "recon-bot"
           git config user.email "bot@mhascan.com"
           git add results/ index.html
-          git commit -m "update $(date)" || true
+          git commit -m "update takeover $(date -u)" || true
           git push
