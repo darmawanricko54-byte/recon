@@ -17,8 +17,8 @@ jobs:
           go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
           go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
           go install -v github.com/PentestPad/subzy@latest
+          sudo apt-get install -y jq
           echo "$HOME/go/bin" >> $GITHUB_PATH
-          # clone takeover fingerprints
           git clone https://github.com/EdOverflow/can-i-take-over-xyz /tmp/xyz
       - name: Recon All Targets
         run: |
@@ -29,33 +29,47 @@ jobs:
             echo "=== Recon $d ==="
             subfinder -d $d -all -silent -o results/$d-subs.txt || true
             sort -u results/$d-subs.txt -o results/$d-subs.txt
+            
+            # DAPETIN CNAME LANGSUNG - ini yang lo mau
+            echo "Cek CNAME $d"
+            dnsx -l results/$d-subs.txt -silent -cname -json -o results/$d-cname.json || true
+            cat results/$d-cname.json | jq -r 'select(.cname!=null) | "\(.host) => \(.cname | join(","))"' | tee results/$d-cname.txt || true
+            
+            # FILTER CUMA YANG MENCURIGAKAN (cloudsmith/bitly/framer)
+            cat results/$d-cname.json | jq -r 'select(.cname!=null) | select(.cname[] | test("cloudsmith|bit\\.ly|bitly|framer|s3|azure|github|heroku|cargo|uptimerobot"; "i")) | "\(.host) => \(.cname | join(","))"' | tee results/$d-cname-vuln.txt || true
+
             httpx -l results/$d-subs.txt -silent -o results/$d-live.txt -status-code -title || true
             
-            echo "Cek takeover bitly/cloudsmith/framer $d"
-            # 1. subzy = paling akurat buat cloudsmith + bitly + framer
-            subzy run --targets results/$d-subs.txt --hide_fails --vuln --output results/$d-takeover-subzy.txt || true
-            # 2. nuclei takeover template resmi
-            nuclei -l results/$d-live.txt -t ~/nuclei-templates/http/takeovers/ -o results/$d-takeover-nuclei.txt -silent || true
-            nuclei -l results/$d-live.txt -t /tmp/xyz/fingerprints -o results/$d-takeover-xyz.txt -silent || true
-            # 3. cek CNAME manual
-            dnsx -l results/$d-subs.txt -silent -cname -resp-only | grep -i "cloudsmith\|bitly\|framer\|spage\|s3\|azure\|github.io\|heroku\|shopify\|readme.io" | tee results/$d-cname.txt || true
+            subzy run --targets results/$d-subs.txt --hide_fails --output results/$d-subzy.json || true
+            cat results/$d-subzy.json | jq -r '.[]? | select(.vulnerable==true) | "\(.subdomain) => CNAME: \(.cname) | Engine: \(.engine) | VULNABLE: \(.vulnerable)"' | tee results/$d-takeover-subzy.txt || true
+            cat results/$d-subzy.json | jq -r 'select(.vulnerable==true) | "\(.subdomain) => CNAME: \(.cname) | Engine: \(.engine)"' >> results/$d-takeover-subzy.txt || true
+
+            nuclei -l results/$d-live.txt -t ~/nuclei-templates/http/takeovers/ -o results/$d-nuclei.txt -silent || true
             
-            cat results/$d-takeover-subzy.txt results/$d-takeover-nuclei.txt results/$d-takeover-xyz.txt results/$d-cname.txt > results/$d-takeover.txt 2>/dev/null || true
-            cat results/$d-takeover.txt
+            cat results/$d-cname-vuln.txt results/$d-takeover-subzy.txt results/$d-nuclei.txt > results/$d-takeover.txt 2>/dev/null || true
           done
-      - name: Build Dashboard with Logo
+      - name: Build Dashboard CNAME + Logo
         run: |
-          echo "<html><head><title>recon.aptumi.com</title><meta name=viewport content='width=device-width'><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px;position:relative;min-height:100vh} body::before{content:'';position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:70vw;height:70vh;background:url('logo.png') no-repeat center;background-size:contain;opacity:0.07;z-index:-1} .header{display:flex;align-items:center;gap:15px;border-bottom:2px solid #0f0;padding-bottom:12px;margin-bottom:20px;background:rgba(0,20,0,0.9)} .header img{width:65px;height:65px;filter:drop-shadow(0 0 12px #0f0)} .card{border:1px solid #0f0;padding:12px;margin:12px 0;word-break:break-all;background:rgba(0,15,0,0.88);backdrop-filter:blur(3px)} .danger{color:#fff;background:#a00;padding:10px;border:2px solid red;font-weight:bold;box-shadow:0 0 15px red} a{color:#0ff}</style></head><body><div class=header><img src='logo.png' onerror=\"this.style.display='none'\"><div><h1 style=margin:0;letter-spacing:2px>recon.aptumi.com</h1><small>APTUMI TAKEOVER HUNTER - Last: $(date -u) - Next: 02:00 WIB auto</small></div></div>" > index.html
+          echo "<html><head><title>recon.aptumi.com</title><meta name=viewport content='width=device-width'><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px;min-height:100vh;position:relative} body::before{content:'';position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:70vw;height:70vh;background:url('logo.png') no-repeat center;background-size:contain;opacity:0.07;z-index:-1} .header{display:flex;align-items:center;gap:15px;border-bottom:2px solid #0f0;padding-bottom:12px;margin-bottom:20px} .header img{width:60px;height:60px;filter:drop-shadow(0 0 12px #0f0)} .card{border:1px solid #0f0;padding:12px;margin:12px 0;background:rgba(0,15,0,0.92);overflow-x:auto} .danger{background:#a00;color:#fff;padding:12px;border:2px solid red} table{width:100%;border-collapse:collapse;margin-top:8px} th,td{border:1px solid #0f0;padding:6px;text-align:left;font-size:12px} th{background:#0f0;color:#000} .cname{color:#0ff;word-break:break-all} a{color:#0ff}</style></head><body><div class=header><img src='logo.png' onerror=\"this.style.display='none'\"><div><h1>recon.aptumi.com</h1><small>CNAME + Takeover Hunter - Last: $(date -u)</small></div></div>" > index.html
           for f in results/*-live.txt; do
             dom=$(echo $f | sed 's|results/||' | sed 's|-live.txt||')
             live=$(wc -l < $f 2>/dev/null || echo 0)
             subs=$(wc -l < results/$dom-subs.txt 2>/dev/null || echo 0)
-            tk=$(cat results/$dom-takeover.txt 2>/dev/null)
-            if [ -s results/$dom-takeover.txt ]; then
-              echo "<div class=card><h2>🔥 $dom - $live live / $subs subs</h2><div class=danger><h3>⚠️ POTENTIAL TAKEOVER! bitly/cloudsmith/framer</h3><pre>$tk</pre></div><a href=results/$dom-takeover.txt>📄 detail takeover</a> | <a href=results/$dom-live.txt>🌐 live</a> | <a href=results/$dom-subs.txt>📋 subs</a></div>" >> index.html
+            echo "<div class=card><h2>🔥 $dom - $live live / $subs subs</h2>" >> index.html
+            echo "<h3>📋 CNAME mencurigakan (cloudsmith/bitly/framer)</h3><table><tr><th>Subdomain => CNAME</th></tr>" >> index.html
+            if [ -s results/$dom-cname-vuln.txt ]; then
+              while IFS= read -r line; do echo "<tr><td class=cname>$line</td></tr>" >> index.html; done < results/$dom-cname-vuln.txt
             else
-              echo "<div class=card><h2>$dom - $live live / $subs subs</h2><p>✅ Aman - tidak ada takeover</p><a href=results/$dom-live.txt>live</a> | <a href=results/$dom-subs.txt>subs</a></div>" >> index.html
+              echo "<tr><td>Tidak ada CNAME cloudsmith/bitly/framer</td></tr>" >> index.html
             fi
+            echo "</table>" >> index.html
+            echo "<h3>⚠️ Subzy VULN=true (CNAME + Engine)</h3>" >> index.html
+            if [ -s results/$dom-takeover-subzy.txt ]; then
+              echo "<div class=danger><pre>$(cat results/$dom-takeover-subzy.txt)</pre></div>" >> index.html
+            else
+              echo "<p>✅ 0 vulnerable true</p>" >> index.html
+            fi
+            echo "<p><a href=results/$dom-cname.txt>📄 semua CNAME</a> | <a href=results/$dom-takeover.txt>📄 detail takeover</a> | <a href=results/$dom-live.txt>🌐 live</a></p></div>" >> index.html
           done
           echo "</body></html>" >> index.html
       - name: Push
@@ -64,5 +78,5 @@ jobs:
           git config user.email "bot@aptumi.com"
           git add results/ index.html || true
           git add logo.png 2>/dev/null || true
-          git commit -m "update takeover fix cloudsmith bitly $(date -u)" || true
+          git commit -m "show CNAME cloudsmith bitly $(date -u)" || true
           git push
