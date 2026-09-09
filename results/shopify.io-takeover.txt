@@ -1,1 +1,3 @@
 cdgit.shopify.io => shopify.github.io
+cdgit.shopify.io => shopify.github.io
+ts-code-snippets.shopify.io => shopify.github.io

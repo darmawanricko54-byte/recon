@@ -11,6 +11,7 @@ api.wolt.com
 app.consumer-user.wolt.com
 app.converse-telemetry-api.wolt.com
 argo-flow-testing.internal.wolt.com
+atlantis-sandbox.prod.fg.wolt.com
 atlantis-steiger-ui.prod.fg.wolt.com
 atlantis-steiger.prod.fg.wolt.com
 atlantis-test-ui.prod.fg.wolt.com

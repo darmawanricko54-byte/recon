@@ -112,6 +112,7 @@ merchantreporting.checkout.latitudefinancial.com
 merchants.latitudefinancial.com
 merchanttraining.checkout.latitudefinancial.com
 merchanttraining.sandbox.checkout.latitudefinancial.com
+metrics.latitudefinancial.com
 mfa.latitudefinancial.com
 mobile.assets.latitudefinancial.com
 mobile.assets.test.latitudefinancial.com
@@ -208,6 +209,7 @@ test-payments-sftp.latitudefinancial.com
 test-payments.latitudefinancial.com
 test.auth.latitudefinancial.com
 test.checkout.latitudefinancial.com
+test.di.latitudefinancial.com
 test.id.latitudefinancial.com
 test.latitudefinancial.com
 test.partner.latitudefinancial.com
