@@ -1,8 +1,7 @@
-cargo-dzw2ccq83duj.cloudsmith.io
-dart-s5i8k9umsn5f.cloudsmith.io
-docker-zjzfcpc15jtv.cloudsmith.io
-golang-5ppv4gnpflea.cloudsmith.io
-npm-hxt2dtgv844k.cloudsmith.io
-python-0xibel4kb5kq.cloudsmith.io
-shops.myshopify.com
-youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+assets.acorns.com => dhaqpiqzelx8s.cloudfront.net
+cargo.pkg.acorns.com => cargo-dzw2ccq83duj.cloudsmith.io
+cdn01.acorns.com => dhaqpiqzelx8s.cloudfront.net
+dart.pkg.acorns.com => dart-s5i8k9umsn5f.cloudsmith.io
+cdn02.acorns.com => dhaqpiqzelx8s.cloudfront.net
+links.mail.acorns.com => drbq9l4w216fn.cloudfront.net
+partners.acorns.com => acorns.cakemarketing.net

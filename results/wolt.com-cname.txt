@@ -1,1 +1,25 @@
-cname.bitly.com
+email-media.wolt.com => d31n8occqtz7uc.cloudfront.net
+blog.wolt.com => wp.wpenginepowered.com
+get.wolt.com => getwolt.wolt.com
+email.comms.wolt.com => mailgun.org
+data-api-master.wolt.com => internal-ac8ab600b9e9d11e7a9f102e44f633b0-1632303135.eu-west-1.elb.amazonaws.com
+l.wolt.com => cname.bitly.com
+links.wolt.com => d8gw2y70f0zvg.cloudfront.net
+kesasyomarit.wolt.com => wolt.com
+it.wolt.com => ghs.googlehosted.com
+links1.wolt.com => spgo.io
+looker.wolt.com => wolt.cloud.looker.com
+links.woltforwork.wolt.com => e-trk-eu.customeriomail.com
+identity.wolt.com => identity.wolt.com.cdn.cloudflare.net
+links.merchant.wolt.com => e-trk-eu.customeriomail.com
+people.wolt.com => people.doordash.team
+prod-videos.wolt.com => dxndixo2f5pf3.cloudfront.net
+preferences.wolt.com => preferences.wolt.com.cdn.cloudflare.net
+retailreport.wolt.com => retailreport.wolt.paze-studios.com
+static.wolt.com => d1tsh6tzxkzs4n.cloudfront.net
+status.wolt.com => fzynwqj5zc9w.stspg-customer.com
+www.designdelivered.wolt.com => designdelivered.wolt.com
+api.wolt.com => restaurant-api.wolt.fi
+brand-insights.wolt.com => 5fc3565d-65c6-4252-964e-d2955af0b9de.cloud.looker.com
+argo-flow-testing.internal.wolt.com => nginx-internal-http2-mesh-01.net.int.tm.p132.wo.lt
+auth.wolt.com => auth-api.wolt.fi
