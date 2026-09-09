@@ -308,4 +308,3 @@
     "vulnerable": false
   }
 ]
-cname.bitly.com

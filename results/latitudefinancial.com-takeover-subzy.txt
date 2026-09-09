@@ -28,5 +28,3 @@
     "vulnerable": false
   }
 ]
-wan.yafggsk4g0ueqcmou9x553vj4.vpn.azure.com
-us33htw.ng.impervadns.net
