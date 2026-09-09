@@ -1,0 +1,57 @@
+name: Daily Recon 5 Targets
+
+on:
+  schedule:
+    - cron: '0 19 * * *' # Jam 2 pagi WIB
+  workflow_dispatch:
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Tools
+        run: |
+          go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+          go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+          git clone https://github.com/EdOverflow/can-i-take-over-xyz /tmp/xyz
+
+      - name: Recon All Targets
+        run: |
+          mkdir -p results
+          nuclei -update-templates -silent
+          for d in $(cat targets.txt); do
+            echo "Recon $d"
+            subfinder -d $d -silent -o results/$d-subs.txt
+            httpx -l results/$d-subs.txt -silent -o results/$d-live.txt -status-code -title
+            # Cek takeover official + bitly/framer/cloudsmith
+            nuclei -l results/$d-live.txt -t ~/go/pkg/mod/github.com/projectdiscovery/nuclei-templates* -tags takeover -o results/$d-takeover.txt -silent || true
+            nuclei -l results/$d-live.txt -t /tmp/xyz/fingerprints -o results/$d-takeover-xyz.txt -silent || true
+            cat results/$d-takeover-xyz.txt >> results/$d-takeover.txt
+            sleep 60
+          done
+
+      - name: Build Dashboard
+        run: |
+          echo "<html><head><title>recon.aptumi.com</title><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px}.card{border:1px solid #0f0;padding:12px;margin:10px 0} .danger{color:red}</style></head><body><h1>recon.aptumi.com</h1><p>Last: $(date)</p>" > index.html
+          for f in results/*-live.txt; do
+            dom=$(echo $f | cut -d'/' -f2 | cut -d'-' -f1)
+            live=$(wc -l < $f 2>/dev/null || echo 0)
+            tk=$(cat results/$dom-takeover.txt 2>/dev/null)
+            if [ -z "$tk" ]; then tk="Aman - tidak ada takeover"; fi
+            echo "<div class=card><h2>$dom - $live live</h2><pre>$tk</pre></div>" >> index.html
+          done
+          echo "</body></html>" >> index.html
+
+      - name: Push
+        run: |
+          git config user.name "recon-bot"
+          git config user.email "bot@mhascan.com"
+          git add results/ index.html
+          git commit -m "update $(date)" || true
+          git push
