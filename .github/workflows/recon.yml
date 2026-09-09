@@ -18,31 +18,41 @@ jobs:
           go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
           go install -v github.com/PentestPad/subzy@latest
           echo "$HOME/go/bin" >> $GITHUB_PATH
-          nuclei -update-templates -silent
+          # clone takeover fingerprints
+          git clone https://github.com/EdOverflow/can-i-take-over-xyz /tmp/xyz
       - name: Recon All Targets
         run: |
+          export PATH=$HOME/go/bin:$PATH
           mkdir -p results
+          nuclei -update-templates -silent || true
           for d in $(cat targets.txt); do
             echo "=== Recon $d ==="
             subfinder -d $d -all -silent -o results/$d-subs.txt || true
             sort -u results/$d-subs.txt -o results/$d-subs.txt
             httpx -l results/$d-subs.txt -silent -o results/$d-live.txt -status-code -title || true
+            
+            echo "Cek takeover bitly/cloudsmith/framer $d"
+            # 1. subzy = paling akurat buat cloudsmith + bitly + framer
             subzy run --targets results/$d-subs.txt --hide_fails --vuln --output results/$d-takeover-subzy.txt || true
+            # 2. nuclei takeover template resmi
             nuclei -l results/$d-live.txt -t ~/nuclei-templates/http/takeovers/ -o results/$d-takeover-nuclei.txt -silent || true
-            dnsx -l results/$d-subs.txt -silent -cname -resp-only | grep -i "cloudsmith\|bitly\|framer\|s3\|azure\|github.io\|heroku\|shopify" | tee results/$d-cname.txt || true
-            cat results/$d-takeover-subzy.txt results/$d-takeover-nuclei.txt results/$d-cname.txt > results/$d-takeover.txt 2>/dev/null || true
+            nuclei -l results/$d-live.txt -t /tmp/xyz/fingerprints -o results/$d-takeover-xyz.txt -silent || true
+            # 3. cek CNAME manual
+            dnsx -l results/$d-subs.txt -silent -cname -resp-only | grep -i "cloudsmith\|bitly\|framer\|spage\|s3\|azure\|github.io\|heroku\|shopify\|readme.io" | tee results/$d-cname.txt || true
+            
+            cat results/$d-takeover-subzy.txt results/$d-takeover-nuclei.txt results/$d-takeover-xyz.txt results/$d-cname.txt > results/$d-takeover.txt 2>/dev/null || true
             cat results/$d-takeover.txt
           done
-      - name: Build Dashboard
+      - name: Build Dashboard with Logo
         run: |
-          echo "<html><head><title>recon.aptumi.com</title><meta name=viewport content='width=device-width'><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px;position:relative;min-height:100vh} body::before{content:'';position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:70vw;height:70vh;background:url('logo.png') no-repeat center;background-size:contain;opacity:0.07;z-index:-1} .header{display:flex;align-items:center;gap:15px;border-bottom:2px solid #0f0;padding-bottom:12px;margin-bottom:20px;background:rgba(0,20,0,0.9)} .header img{width:65px;height:65px;filter:drop-shadow(0 0 12px #0f0)} .card{border:1px solid #0f0;padding:12px;margin:12px 0;word-break:break-all;background:rgba(0,15,0,0.88);backdrop-filter:blur(3px)} .danger{color:#fff;background:#a00;padding:10px;border:2px solid red;font-weight:bold;box-shadow:0 0 15px red} a{color:#0ff}</style></head><body><div class=header><img src='logo.png'><div><h1 style=margin:0;letter-spacing:2px>recon.aptumi.com</h1><small>APTUMI TAKEOVER HUNTER - Last: $(date -u) - Next: 02:00 WIB auto</small></div></div>" > index.html
+          echo "<html><head><title>recon.aptumi.com</title><meta name=viewport content='width=device-width'><style>body{font-family:monospace;background:#0a0a0a;color:#0f0;padding:15px;position:relative;min-height:100vh} body::before{content:'';position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:70vw;height:70vh;background:url('logo.png') no-repeat center;background-size:contain;opacity:0.07;z-index:-1} .header{display:flex;align-items:center;gap:15px;border-bottom:2px solid #0f0;padding-bottom:12px;margin-bottom:20px;background:rgba(0,20,0,0.9)} .header img{width:65px;height:65px;filter:drop-shadow(0 0 12px #0f0)} .card{border:1px solid #0f0;padding:12px;margin:12px 0;word-break:break-all;background:rgba(0,15,0,0.88);backdrop-filter:blur(3px)} .danger{color:#fff;background:#a00;padding:10px;border:2px solid red;font-weight:bold;box-shadow:0 0 15px red} a{color:#0ff}</style></head><body><div class=header><img src='logo.png' onerror=\"this.style.display='none'\"><div><h1 style=margin:0;letter-spacing:2px>recon.aptumi.com</h1><small>APTUMI TAKEOVER HUNTER - Last: $(date -u) - Next: 02:00 WIB auto</small></div></div>" > index.html
           for f in results/*-live.txt; do
             dom=$(echo $f | sed 's|results/||' | sed 's|-live.txt||')
             live=$(wc -l < $f 2>/dev/null || echo 0)
             subs=$(wc -l < results/$dom-subs.txt 2>/dev/null || echo 0)
             tk=$(cat results/$dom-takeover.txt 2>/dev/null)
             if [ -s results/$dom-takeover.txt ]; then
-              echo "<div class=card><h2>🔥 $dom - $live live / $subs subs</h2><div class=danger><h3>⚠️ POTENTIAL TAKEOVER FOUND!</h3><pre>$tk</pre></div><a href=results/$dom-takeover.txt>📄 detail</a> | <a href=results/$dom-live.txt>🌐 live</a> | <a href=results/$dom-subs.txt>📋 all subs</a></div>" >> index.html
+              echo "<div class=card><h2>🔥 $dom - $live live / $subs subs</h2><div class=danger><h3>⚠️ POTENTIAL TAKEOVER! bitly/cloudsmith/framer</h3><pre>$tk</pre></div><a href=results/$dom-takeover.txt>📄 detail takeover</a> | <a href=results/$dom-live.txt>🌐 live</a> | <a href=results/$dom-subs.txt>📋 subs</a></div>" >> index.html
             else
               echo "<div class=card><h2>$dom - $live live / $subs subs</h2><p>✅ Aman - tidak ada takeover</p><a href=results/$dom-live.txt>live</a> | <a href=results/$dom-subs.txt>subs</a></div>" >> index.html
             fi
@@ -54,5 +64,5 @@ jobs:
           git config user.email "bot@aptumi.com"
           git add results/ index.html || true
           git add logo.png 2>/dev/null || true
-          git commit -m "update takeover with logo $(date -u)" || true
+          git commit -m "update takeover fix cloudsmith bitly $(date -u)" || true
           git push
