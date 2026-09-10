@@ -482,6 +482,7 @@ incident-dashboard.shopify.io
 incident-goose.shopify.io
 incident-simulator.shopify.io
 incidents.shopify.io
+inference-gateway.shopify.io
 infra-central-i0.shopify.io
 infra-central-i1.shopify.io
 infra-central-staging-3.shopify.io
@@ -601,6 +602,7 @@ mail.dns.minerva.shopify.io
 mail.dns.shopify-debug.shopify.io
 mail.docs.shopify.io
 mail.flint.shopify.io
+mail.inference-gateway.shopify.io
 mail.melody-grpc-staging.shopify.io
 mail.melody-grpc.shopify.io
 mail.mock-shop-staging.shopify.io
@@ -1239,6 +1241,7 @@ www.dns.shopify-debug.shopify.io
 www.docs.shopify.io
 www.flint.shopify.io
 www.hot.shopify.io
+www.inference-gateway.shopify.io
 www.linkpop-archive-staging.shopify.io
 www.linkpop-staging-2.shopify.io
 www.linkpop-staging.shopify.io

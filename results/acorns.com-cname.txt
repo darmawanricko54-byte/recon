@@ -12,3 +12,7 @@ press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 web.acorns.com => acorns.com
 visit.acorns.com => https://www.acorns.com
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+finsys.acorns.com => internal-sm-finance-web-171551411.us-east-1.elb.amazonaws.com
+graphql-test.acorns.com => n2.shared.us-eu.fastly.net
+press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
+pkg.acorns.com => dl-tvv8oxh28ofx.cloudsmith.io
