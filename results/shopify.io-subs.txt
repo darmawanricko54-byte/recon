@@ -4,6 +4,7 @@ accio-staging.shopify.io
 accio.shopify.io
 accounts-staging.shopify.io
 adequate-desk.shopify.io
+admin-perf-guardrails-staging.shopify.io
 admin-perf-guardrails.shopify.io
 admin-playground.shopify.io
 admin-sitemap.shopify.io
@@ -271,6 +272,7 @@ definitions-manager-proto.shopify.io
 definitions-manager-stg.shopify.io
 delphi-staging.shopify.io
 delphi.shopify.io
+delta.shopify.io
 detour.shopify.io
 dev-accel.shopify.io
 dev-setup-staging.shopify.io
@@ -598,6 +600,7 @@ lumos.shopify.io
 mail.api.shopify.io
 mail.apidocs-staging.shopify.io
 mail.dart.shopify.io
+mail.delta.shopify.io
 mail.dns.minerva.shopify.io
 mail.dns.shopify-debug.shopify.io
 mail.docs.shopify.io
@@ -1176,6 +1179,7 @@ uci-learner-api.shopify.io
 ugc-library.shopify.io
 ugc-video-organizer.shopify.io
 ui-api-design.shopify.io
+unicorn-staging-saturn.shopify.io
 unicorn-staging.shopify.io
 unicorn.shopify.io
 universal-catalog-ingestion.shopify.io
@@ -1188,6 +1192,7 @@ usage-service-edge-us-east.shopify.io
 ux.shopify.io
 validation-1.gitstream.shopify.io
 vanilla.shopify.io
+vault-staging-saturn.shopify.io
 vault-staging-vytw.shopify.io
 vault-staging.shopify.io
 vault-vibe.shopify.io
@@ -1236,6 +1241,7 @@ www.apidocs-staging.shopify.io
 www.borg.shopify.io
 www.cf-experiment.shopify.io
 www.dart.shopify.io
+www.delta.shopify.io
 www.dns.minerva.shopify.io
 www.dns.shopify-debug.shopify.io
 www.docs.shopify.io

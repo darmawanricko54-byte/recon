@@ -4,3 +4,4 @@ press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
 press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 pkg.acorns.com => dl-tvv8oxh28ofx.cloudsmith.io
+youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com

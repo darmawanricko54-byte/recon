@@ -1,3 +1,4 @@
 l.wolt.com => cname.bitly.com
 l.wolt.com => cname.bitly.com
 l.wolt.com => cname.bitly.com
+l.wolt.com => cname.bitly.com

@@ -19,6 +19,7 @@ api.payments.coindesk.com
 api.trade-simnext.coindesk.com
 api.trade.coindesk.com
 api.transcripts.coindesk.com
+api2.coindesk.com
 assets.consensus.coindesk.com
 auth-api.coindesk.com
 auth.coindesk.com

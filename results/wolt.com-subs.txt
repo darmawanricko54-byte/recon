@@ -2,6 +2,7 @@ account.consumer-user.wolt.com
 account.converse-api-dd.wolt.com
 ad-server-exchange.wolt.com
 ad-server-indexing.wolt.com
+agentic-shopping.wolt.com
 airflow.wolt.com
 alpha.discovery-cdn.wolt.com
 ambassador.k.wolt.com
@@ -20,6 +21,7 @@ atlantis-testing.prod.fg.wolt.com
 atlantis-ui.prod.fg.wolt.com
 atlantis-webhook.wolt.com
 atlantis.prod.fg.wolt.com
+auditorium.wolt.com
 auth.wolt.com
 authentication.wolt.com
 autoconfig.converse-api-dd.wolt.com
@@ -29,6 +31,7 @@ azure.discovery-cdn.wolt.com
 beta.wolt.com
 blog.wolt.com
 brand-insights.wolt.com
+broker-jr.wolt.com
 cal.integrations.wolt.com
 capital.wolt.com
 careers.wolt.com
@@ -39,6 +42,7 @@ ci.converse-rtm-ps.wolt.com
 click.consumer-api.wolt.com
 click.converse-static-resources.wolt.com
 communications-service.wolt.com
+confluence.wolt.com
 consumer-api.wolt.com
 consumer-events.wolt.com
 consumer-pricing-grpc.wolt.com
@@ -52,10 +56,12 @@ converse-rtm-ps.wolt.com
 converse-static-resources.wolt.com
 converse-telemetry-api.wolt.com
 converse-web-static.wolt.com
+corp-kyb.wolt.com
 corporate-dossier.wolt.com
 corporate-psp-api.wolt.com
 corporate.wolt.com
 courier-api.wolt.com
+courier-termination-api.wolt.com
 courier.wolt.com
 daas-ecommerce-service.wolt.com
 daas-internal-api.wolt.com
