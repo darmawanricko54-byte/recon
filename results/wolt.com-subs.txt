@@ -35,6 +35,7 @@ broker-jr.wolt.com
 cal.integrations.wolt.com
 capital.wolt.com
 careers.wolt.com
+cashier.wolt.com
 cdn.consumer-user.wolt.com
 cdn.converse-rtm-api.wolt.com
 cdn.wolt.com
@@ -68,6 +69,7 @@ daas-internal-api.wolt.com
 daas.wolt.com
 dash-internal.wolt.com
 data-api-master.wolt.com
+data-api-public.wolt.com
 data.consumer-api.wolt.com
 data.consumer-user.wolt.com
 db.courier-api.wolt.com
@@ -202,6 +204,7 @@ remote.converse-static-resources.wolt.com
 remote.gatekeeper.wolt.com
 restaurant-api.wolt.com
 retailreport.wolt.com
+routemill.wolt.com
 s3.gatekeeper.wolt.com
 sandbox.consumer-events.wolt.com
 shop.converse-api.wolt.com

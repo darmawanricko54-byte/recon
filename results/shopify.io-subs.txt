@@ -11,6 +11,7 @@ admin-sitemap.shopify.io
 admin.cdp-staging.shopify.io
 admin.cdp.shopify.io
 admin.mythic.shopify.io
+admin.sys.metal.shopify.io
 ads-bidify-bg.shopify.io
 ads-bidify-state-manager.shopify.io
 ads-bidify.shopify.io
@@ -45,6 +46,7 @@ api-icinga-gce-us-central1.shopify.io
 api-icinga-gce-us-east1.shopify.io
 api-icinga.ash.shopify.io
 api-icinga.chi2.shopify.io
+api.140.api.shopify.io
 api.api.140.api.shopify.io
 api.api.shopify.io
 api.apidocs-staging.shopify.io

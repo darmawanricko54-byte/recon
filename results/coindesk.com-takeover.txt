@@ -6,3 +6,5 @@ go.coindesk.com => cname.bitly.com
 s-chart.coindesk.com => ms-api-static-charts.westeurope.cloudapp.azure.com
 go.coindesk.com => cname.bitly.com
 s-chart.coindesk.com => ms-api-static-charts.westeurope.cloudapp.azure.com
+go.coindesk.com => cname.bitly.com
+s-chart.coindesk.com => ms-api-static-charts.westeurope.cloudapp.azure.com

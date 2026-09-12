@@ -185,6 +185,7 @@ indices.coindesk.com
 institutional.coindesk.com
 int.consensus.coindesk.com
 it.coindesk.com
+jenkins.coindesk.com
 jenkins.consensus.coindesk.com
 jobs-admin.coindesk.com
 jobs-api.coindesk.com
