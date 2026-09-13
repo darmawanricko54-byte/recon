@@ -35,3 +35,5 @@ web.acorns.com => acorns.com
 web-app.acorns.com => acorns.com
 ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+finsys.acorns.com => internal-sm-finance-web-171551411.us-east-1.elb.amazonaws.com
+store.acorns.com => shops.myshopify.com

@@ -6,3 +6,5 @@ pkgs.shopify.io => dl-prd-shopify.cloudsmith.io
 cdgit.shopify.io => shopify.github.io
 cdgit.shopify.io => shopify.github.io
 npm.shopify.io => npm-prd-shopify.cloudsmith.io
+cdgit.shopify.io => shopify.github.io
+npm.shopify.io => npm-prd-shopify.cloudsmith.io

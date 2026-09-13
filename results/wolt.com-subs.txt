@@ -125,6 +125,7 @@ imap.discovery-cdn.wolt.com
 img.consumer-api.wolt.com
 integrations-authentication-service.wolt.com
 internal.wolt.com
+inventory-management-service.wolt.com
 it.wolt.com
 jenkins.converse-api.wolt.com
 k.wolt.com
