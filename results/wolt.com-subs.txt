@@ -160,6 +160,7 @@ media.converse-api.wolt.com
 media.converse-rtm-ps.wolt.com
 media.converse-web-static.wolt.com
 merchant-access-control.wolt.com
+merchant-api.wolt.com
 merchant-gateway.wolt.com
 merchant.links.wolt.com
 merchant.wolt.com
@@ -220,6 +221,7 @@ storage.gatekeeper.wolt.com
 stream.converse-rtm-api.wolt.com
 support.converse-rtm-api.wolt.com
 support.converse-static-resources.wolt.com
+team.wolt.com
 test-wolt-venue-images-cdn.wolt.com
 testing.k.wolt.com
 thanos-store-grpc.wolt.com

@@ -925,6 +925,7 @@ search-platform-test-app.shopify.io
 search-prototypes-stg.shopify.io
 search-sense-checks.shopify.io
 sec-logs.shopify.io
+security-internal.docs.shopify.io
 security-issues-tracking-staging.shopify.io
 security-issues-tracking.shopify.io
 security-portal-staging.shopify.io
