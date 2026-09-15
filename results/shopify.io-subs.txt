@@ -29,6 +29,7 @@ agent.mythic.shopify.io
 agentic-theme-gen-staging.shopify.io
 agentplane-staging-1.shopify.io
 agentplane-staging-2.shopify.io
+agentplane-staging-3.shopify.io
 agentplane.shopify.io
 airwave.shopify.io
 alittlesomething.shopify.io

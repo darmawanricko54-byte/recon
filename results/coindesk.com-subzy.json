@@ -1,19 +1,5 @@
 [
   {
-    "subdomain": "ads.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "account.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -42,7 +28,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api.ccdata.coindesk.com",
+    "subdomain": "api-old.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "ads.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -70,7 +70,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api-old.coindesk.com",
+    "subdomain": "api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -84,7 +84,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api.coindesk.com",
+    "subdomain": "api.ccdata.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -182,6 +182,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "api2.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "assets.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -197,20 +211,6 @@
   },
   {
     "subdomain": "api.fpevents.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api2.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -252,38 +252,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "access.prod.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "aws.consensus.coindesk.com",
+    "subdomain": "aws.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "akali.prod.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -308,7 +280,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "adserver.prod.events.coindesk.com",
+    "subdomain": "10.prod.events.coindesk.com",
     "status": "vulnerable",
     "engine": "Cargo Collective",
     "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
@@ -336,10 +308,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "aws.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "access.prod.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -350,7 +322,35 @@
     "vulnerable": false
   },
   {
-    "subdomain": "10.prod.events.coindesk.com",
+    "subdomain": "akali.prod.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "adserver.prod.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "2021.prod.events.coindesk.com",
     "status": "vulnerable",
     "engine": "Cargo Collective",
     "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
@@ -365,6 +365,34 @@
   },
   {
     "subdomain": "bear.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "aws.consensus.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "cex.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -406,6 +434,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "auth.coindesk.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "chatbots.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -434,8 +476,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cex.coindesk.com",
-    "status": "http error",
+    "subdomain": "cdm.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -462,49 +504,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cdm.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "cdm.uat.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "2021.prod.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "auth.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -522,20 +522,6 @@
     "status": "http error",
     "engine": "",
     "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "cms.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Gemfury",
-    "documentation": "[Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -574,7 +560,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus-hongkong.coindesk.com",
+    "subdomain": "consensus-hongkong2025.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -588,7 +574,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus-hongkong2025.coindesk.com",
+    "subdomain": "consensus-hongkong.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -630,7 +616,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus2023.uat.events.coindesk.com",
+    "subdomain": "consensus-hongkong2027.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -644,7 +630,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus-hongkong2027.coindesk.com",
+    "subdomain": "cms.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Gemfury",
+    "documentation": "[Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "consensus2023.uat.events.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -686,20 +686,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "creative.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "consensus2023.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
@@ -728,8 +714,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus2025.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "creative.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -742,7 +728,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "data.coindesk.com",
+    "subdomain": "consensus2025.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -784,6 +770,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "data.coindesk.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "desk.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -812,7 +812,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus2026.sandbox.events.coindesk.com",
+    "subdomain": "consensus2024.sandbox.events.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -868,7 +868,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensus2024.sandbox.events.coindesk.com",
+    "subdomain": "consensus2026.sandbox.events.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -910,8 +910,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.downloads.coindesk.com",
-    "status": "http error",
+    "subdomain": "dev.auth.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -938,7 +938,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.keycloak.coindesk.com",
+    "subdomain": "dev.downloads.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -952,8 +952,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consensushongkong2025.prod.events.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "dev.keycloak.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1008,7 +1008,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.auth.coindesk.com",
+    "subdomain": "consensushongkong2025.prod.events.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1120,20 +1120,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev11.static.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "dev11.sattic.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -1148,7 +1134,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev12.cms.coindesk.com",
+    "subdomain": "dev11.static.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1163,6 +1149,20 @@
   },
   {
     "subdomain": "dev11.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "dev12.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1274,6 +1274,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "data-streamer.coindesk.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "dev14.cms.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -1316,7 +1330,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev15.cms.coindesk.com",
+    "subdomain": "dev14.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1358,21 +1372,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "data-streamer.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev16.cms.coindesk.com",
+    "subdomain": "dev15.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1386,7 +1386,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev15.storybook.coindesk.com",
+    "subdomain": "dev15.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1415,6 +1415,20 @@
   },
   {
     "subdomain": "dev16.static.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "dev16.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1484,7 +1498,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev17.storybook.coindesk.com",
+    "subdomain": "dev18.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1512,21 +1526,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev18.cms.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev18.static.coindesk.com",
+    "subdomain": "dev17.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1554,7 +1554,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev18.storybook.coindesk.com",
+    "subdomain": "dev18.static.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1568,7 +1568,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev2.api.coindesk.com",
+    "subdomain": "dev18.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1596,7 +1596,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev2.static.coindesk.com",
+    "subdomain": "dev2.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1610,7 +1610,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev3.coindesk.com",
+    "subdomain": "dev2.static.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1638,7 +1638,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev4.api.coindesk.com",
+    "subdomain": "dev3.static.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1652,7 +1652,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev3.static.coindesk.com",
+    "subdomain": "dev3.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1694,21 +1694,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev5.api.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev5.static.coindesk.com",
+    "subdomain": "dev4.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1736,7 +1722,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev6.api.coindesk.com",
+    "subdomain": "dev5.static.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1750,7 +1736,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev6.cms.coindesk.com",
+    "subdomain": "dev5.api.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "dev6.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1778,35 +1778,21 @@
     "vulnerable": false
   },
   {
+    "subdomain": "dev6.cms.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "dev6.static.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev6.storybook.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev7.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1834,7 +1820,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "dev6.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "dev7.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "dev7.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1862,7 +1876,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev8.coindesk.com",
+    "subdomain": "dev8.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1876,7 +1890,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev8.cms.coindesk.com",
+    "subdomain": "dev8.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1892,6 +1906,20 @@
   {
     "subdomain": "dev8.static.coindesk.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "dev.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2016,20 +2044,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "edge.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2058,6 +2072,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "events.api.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "embed.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2072,7 +2100,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "events.api.coindesk.com",
+    "subdomain": "external.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2100,20 +2128,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "external.consensus.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "fake.api.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2128,7 +2142,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "files.consensus.coindesk.com",
+    "subdomain": "flash-production.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2142,7 +2156,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "flash-production.coindesk.com",
+    "subdomain": "files.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2268,20 +2282,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "events.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "grafana.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2338,8 +2338,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "headline-sandbox.coindesk.com",
-    "status": "http error",
+    "subdomain": "events.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2366,8 +2366,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "developers.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "headline-sandbox.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2436,7 +2436,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "indices.coindesk.com",
+    "subdomain": "developers.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2450,7 +2450,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "hotfix.cms.coindesk.com",
+    "subdomain": "indices.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2562,34 +2562,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev14.storybook.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "institutional.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "k8s.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2618,20 +2590,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "kubernetes.downloads.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "kubernetes.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2646,49 +2604,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "link.dev10.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "link.dev1.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "link.dev11.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "link.dev12.coindesk.com",
+    "subdomain": "kubernetes.downloads.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2716,7 +2632,77 @@
     "vulnerable": false
   },
   {
+    "subdomain": "link.dev1.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "institutional.coindesk.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "link.dev10.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "link.dev11.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "link.dev13.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "link.dev12.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2856,6 +2842,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "hotfix.cms.coindesk.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "link.qa.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -2926,8 +2926,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "m.consensus.coindesk.com",
-    "status": "http error",
+    "subdomain": "link.staging.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2942,6 +2942,20 @@
   {
     "subdomain": "link.local.coindesk.com",
     "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "m.consensus.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2982,8 +2996,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "link.staging.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "media.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2996,8 +3010,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "media.coindesk.com",
-    "status": "http error",
+    "subdomain": "link2.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3024,7 +3038,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "link2.coindesk.com",
+    "subdomain": "metrics.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3054,20 +3068,6 @@
   {
     "subdomain": "netlify.coindesk.com",
     "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "metrics.coindesk.com",
-    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3124,6 +3124,20 @@
   {
     "subdomain": "ns1.downloads.coindesk.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "mail.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3206,7 +3220,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "overlay.coindesk.com",
+    "subdomain": "origin.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3220,7 +3234,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "origin.coindesk.com",
+    "subdomain": "overlay.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3248,7 +3262,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "policy-regulation.coindesk.com",
+    "subdomain": "policy-regulation2025.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3262,7 +3276,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "policy-and-regulation.coindesk.com",
+    "subdomain": "policy-regulation.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3290,20 +3304,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "preview.consensus.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "print.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -3318,8 +3318,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "policy-regulation2025.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "preview.consensus.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3346,8 +3346,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "production.api.coindesk.com",
-    "status": "http error",
+    "subdomain": "policy-and-regulation.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3360,7 +3360,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "production.cms.coindesk.com",
+    "subdomain": "production.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3388,7 +3388,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "production.static.coindesk.com",
+    "subdomain": "production.cms.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3416,6 +3416,34 @@
     "vulnerable": false
   },
   {
+    "subdomain": "production.static.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "qa.api.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "public.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -3430,21 +3458,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "policy-regulation2026.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "qa.api.coindesk.com",
+    "subdomain": "qa.auth.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3472,22 +3486,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prod.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "qa.auth.coindesk.com",
-    "status": "http error",
+    "subdomain": "policy-regulation2026.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3515,20 +3515,6 @@
   },
   {
     "subdomain": "qa.static.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "qa.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3570,6 +3556,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "qa.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "qa2.static.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -3598,34 +3598,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "quest.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "recruiters.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "related.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -3640,7 +3612,49 @@
     "vulnerable": false
   },
   {
+    "subdomain": "prod.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "quest.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "relay.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "recruiters.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3738,6 +3752,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "s3.consensus.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "rfi.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
@@ -3754,20 +3782,6 @@
   {
     "subdomain": "rfd.coindesk.com",
     "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "s3.consensus.coindesk.com",
-    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3882,20 +3896,6 @@
     "status": "http error",
     "engine": "",
     "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "sandbox.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -4060,6 +4060,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "sandbox.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "services.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -4076,6 +4090,20 @@
   {
     "subdomain": "smtp.consensus.coindesk.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "s-chart.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4116,21 +4144,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "s-chart.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "staging-identity.coindesk.com",
+    "subdomain": "staging.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4144,7 +4158,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "staging.api.coindesk.com",
+    "subdomain": "staging-identity.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4173,20 +4187,6 @@
   },
   {
     "subdomain": "staging.charts.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "staging.cms.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -4312,8 +4312,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "staging2.coindesk.com",
-    "status": "http error",
+    "subdomain": "staging.cms.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4341,6 +4341,20 @@
   },
   {
     "subdomain": "staging2.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "staging2.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4382,20 +4396,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "static.c21.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "static.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -4410,8 +4410,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "state-of-crypto.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "static.c21.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4466,7 +4466,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "status.coindesk.com",
+    "subdomain": "state-of-crypto.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -4494,7 +4494,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "support.coindesk.com",
+    "subdomain": "status.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -4508,8 +4508,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "support.customer.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "support2.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4536,8 +4536,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "mail.coindesk.com",
-    "status": "not vulnerable",
+    "subdomain": "test.api.atlas.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4550,7 +4550,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "auth-api.coindesk.com",
+    "subdomain": "test.api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4592,7 +4592,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cdes.coindesk.com",
+    "subdomain": "test.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4634,7 +4634,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "support2.coindesk.com",
+    "subdomain": "test.services.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4662,8 +4662,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test.storybook.coindesk.com",
-    "status": "http error",
+    "subdomain": "support.customer.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4676,7 +4676,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "todayincrypto.coindesk.com",
+    "subdomain": "test.storybook.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4732,8 +4732,36 @@
     "vulnerable": false
   },
   {
-    "subdomain": "trade-simnext.coindesk.com",
+    "subdomain": "support.coindesk.com",
     "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "todayincrypto.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "traffic.coindesk.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4760,7 +4788,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "traffic.coindesk.com",
+    "subdomain": "auth-api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4858,7 +4886,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "uat.auth.coindesk.com",
+    "subdomain": "uat.charts.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4872,7 +4900,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "uat.charts.coindesk.com",
+    "subdomain": "uat.auth.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4928,21 +4956,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev-data-api.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "dev-developers.coindesk.com",
+    "subdomain": "uat.scripts.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4970,8 +4984,22 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.auth-api.coindesk.com",
+    "subdomain": "cdes.coindesk.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "trade-simnext.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4985,48 +5013,6 @@
   },
   {
     "subdomain": "uat.static.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "uat.scripts.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "uat.storybook.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "upload.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5068,6 +5054,76 @@
     "vulnerable": false
   },
   {
+    "subdomain": "uat.storybook.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "user.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "users.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "upload.consensus.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "vote.coindesk.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "v1.consensus.coindesk.com",
     "status": "http error",
     "engine": "",
@@ -5096,49 +5152,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "users.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "user.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "vpn.coindesk.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "vote.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5250,8 +5264,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.stock-data-streamer.coindesk.com",
-    "status": "http error",
+    "subdomain": "videos.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -5306,20 +5320,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "videos.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.coindesk.com",
     "status": "not vulnerable",
     "engine": "",
@@ -5348,8 +5348,36 @@
     "vulnerable": false
   },
   {
+    "subdomain": "wildcard.sandbox.events.coindesk.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "www.static.coindesk.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "wildcard.uat.events.coindesk.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -5390,34 +5418,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "wildcard.uat.events.coindesk.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "wildcard.sandbox.events.coindesk.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.consensus2024.sandbox.events.coindesk.com",
     "status": "vulnerable",
     "engine": "Cargo Collective",
@@ -5432,7 +5432,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test.api.atlas.coindesk.com",
+    "subdomain": "dev-data-api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5446,7 +5446,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test.api.coindesk.com",
+    "subdomain": "dev-developers.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5460,7 +5460,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test.coindesk.com",
+    "subdomain": "dev.auth-api.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5474,7 +5474,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test.services.coindesk.com",
+    "subdomain": "dev.stock-data-streamer.coindesk.com",
     "status": "http error",
     "engine": "",
     "documentation": "",

@@ -104,6 +104,7 @@ api.shipmunk.acorns.com
 api.shipmunk.staging.acorns.com
 apih1mb7api.build.acorns.com
 apistaging.build.acorns.com
+app-doc15562ssetsadminev.build.acorns.com
 app.acorns.com
 app.api-nightfall-youngmoney-admin6.build.acorns.com
 app.app.acorns.com
@@ -198,6 +199,7 @@ careers.app.acorns.com
 cargo.pkg.acorns.com
 carlisleunited.app.acorns.com
 cation-737oia-dot-gov.build.acorns.com
+ccbs.app.acorns.com
 cdn.222.build.acorns.com
 cdn.acorns.com
 cdn.api-nightfall-youngmoney-admin6.build.acorns.com
@@ -355,6 +357,7 @@ elastic.app.acorns.com
 elay1s3test-service-productions.scraper.build.acorns.com
 elay1s3test-service-productions.webinar.build.acorns.com
 elk.app.acorns.com
+emag.app.acorns.com
 email.app.acorns.com
 emailmarketing.app.acorns.com
 empikbetanawac7zefmq3.apih1mb7api.build.acorns.com
@@ -377,6 +380,7 @@ finsys-stageqa.curso.build.acorns.com
 finsys.acorns.com
 firstju1.app.acorns.com
 fmonboarding.build.acorns.com
+football.app.acorns.com
 forum.app.acorns.com
 forum.build.acorns.com
 forums.app.acorns.com
@@ -519,6 +523,7 @@ ir.acorns.com
 is1.app.acorns.com
 ishil1sanpo-shopping.papt.blogmonboarding.build.acorns.com
 italie.app.acorns.com
+jacksonville.app.acorns.com
 jenkins.apih1mb7api.build.acorns.com
 jenkins.links.notifications.acorns.com
 jenkinzmba.build.acorns.com
@@ -564,6 +569,7 @@ links.mail.acorns.com
 links.notifications.acorns.com
 links.update.acorns.com
 lists.app.acorns.com
+lit.app.acorns.com
 lite-game.acorns.com
 live.cs.build.acorns.com
 live.extension-loginw.app.acorns.com
@@ -670,6 +676,7 @@ nesswwhr-renom-errors-beta.app.acorns.com
 new.app.acorns.com
 news.app.acorns.com
 news.kns-comnetoungmoney-admin6.build.acorns.com
+newsletters.app.acorns.com
 nginx-newest.app.acorns.com
 nginx-newest1.app.acorns.com
 nginx.app.acorns.com
