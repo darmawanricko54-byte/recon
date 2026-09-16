@@ -151,6 +151,7 @@ bugbounty-staging.shopify.io
 bugbounty.shopify.io
 bundles.gitstream.shopify.io
 burst-better.shopify.io
+bursting-staging-saturn.shopify.io
 bursting-staging.shopify.io
 bursting.shopify.io
 buy-button-staging.shopify.io
@@ -207,6 +208,7 @@ chef.shopify.io
 chel.shopify.io
 chi.shopify.io
 chi2.shopify.io
+ci-controller.shopify.io
 cinder.shopify.io
 cloud-docs.docs.shopify.io
 cloud1.shopify.io
@@ -437,8 +439,10 @@ guidance-staging.shopify.io
 guidance.shopify.io
 gus-staging.shopify.io
 gus.shopify.io
+hack-days-staging-saturn.shopify.io
 hack-days-staging.shopify.io
 hack-days.shopify.io
+hackdays-staging-saturn.shopify.io
 hackdays-staging.shopify.io
 hackdays.shopify.io
 hardy-har-har.shopify.io
@@ -1169,6 +1173,7 @@ ts-code-snippets.shopify.io
 ts-snippets.shopify.io
 tunnel.shopify.io
 turing.shopify.io
+tv-staging-saturn.shopify.io
 tv-staging.shopify.io
 tv.shopify.io
 tycho-staging.shopify.io
