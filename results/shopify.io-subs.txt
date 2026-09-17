@@ -1,3 +1,4 @@
+140.api.shopify.io
 1867lt-staging.shopify.io
 accio-staging-dc1u.shopify.io
 accio-staging.shopify.io
@@ -48,6 +49,7 @@ api-icinga-gce-us-east1.shopify.io
 api-icinga.ash.shopify.io
 api-icinga.chi2.shopify.io
 api.140.api.shopify.io
+api.2.api.shopify.io
 api.api.140.api.shopify.io
 api.api.shopify.io
 api.apidocs-staging.shopify.io
@@ -142,6 +144,7 @@ brisk.shopify.io
 brochure-blog-chatbot.shopify.io
 brochure-iii.docs.shopify.io
 brochure2.docs.shopify.io
+brochure2.shopify.io
 broker-dev.shopify.io
 broker-prod.shopify.io
 broker-proto.shopify.io
@@ -208,6 +211,7 @@ chef.shopify.io
 chel.shopify.io
 chi.shopify.io
 chi2.shopify.io
+ci-controller-staging.shopify.io
 ci-controller.shopify.io
 cinder.shopify.io
 cloud-docs.docs.shopify.io
@@ -492,6 +496,7 @@ incident-goose.shopify.io
 incident-simulator.shopify.io
 incidents.shopify.io
 inference-gateway.shopify.io
+inference-production.internal-gateway.shopify.io
 infra-central-i0.shopify.io
 infra-central-i1.shopify.io
 infra-central-staging-3.shopify.io
@@ -1099,6 +1104,7 @@ talent.shopify.io
 talentsystems-staging.shopify.io
 talentsystems-uat.shopify.io
 talentsystems.shopify.io
+talespin-event-observatory.shopify.io
 talespin.shopify.io
 tangle.shopify.io
 tartarus.shopify.io
