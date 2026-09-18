@@ -977,6 +977,7 @@ track.fmonboarding.build.acorns.com
 track.links.notifications.acorns.com
 trackendaekimae-comnetoungmoneyplan.kns-comnetoungmoney-admin6.build.acorns.com
 tradech.web17711api-audience-staging.app.acorns.com
+traffsw41swd-wwwapi.build.acorns.com
 try.acorns.com
 try.build.acorns.com
 try.scraper.build.acorns.com

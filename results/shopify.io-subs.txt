@@ -1106,6 +1106,8 @@ talentsystems-uat.shopify.io
 talentsystems.shopify.io
 talespin-event-observatory.shopify.io
 talespin.shopify.io
+tangle-dw-staging.shopify.io
+tangle-dw.shopify.io
 tangle.shopify.io
 tartarus.shopify.io
 tasker.shopify.io
@@ -1251,6 +1253,7 @@ wordpress-sales-channel.shopify.io
 work01s.growth-labs.shopify.io
 world.shopify.io
 worldtree-staging.shopify.io
+worldtree.shopify.io
 www.api.shopify.io
 www.apidocs-staging.shopify.io
 www.borg.shopify.io
