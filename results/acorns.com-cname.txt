@@ -240,3 +240,7 @@ web.acorns.com => acorns.com
 support.acorns.com => sm-helpcenter-v2.acorns.io
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 web-app.acorns.com => acorns.com
+account.acorns.com => acorns.com
+api-mobile.acorns.com => api.acorns.com
+earn.acorns.com => acorns.wild.link
+ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io

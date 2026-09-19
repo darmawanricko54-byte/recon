@@ -313,6 +313,7 @@ dw-diagnosis-staging.shopify.io
 dw-diagnosis.shopify.io
 ec2.shopify.io
 ecd-testing-us-east1-b.internal-gateway.shopify.io
+eco-test-app.shopify.io
 economic-conditions.executive-insights.shopify.io
 ecosystem-security.docs.shopify.io
 ejson-keyring-staging.shopify.io
@@ -337,6 +338,7 @@ escalator-workflows.shopify.io
 escalator.shopify.io
 eureka-tools-stg.shopify.io
 ev-test.shopify.io
+event-observatory-poc.shopify.io
 eventmarketing.shopify.io
 events.shopify.io
 executive-insights.shopify.io
@@ -690,6 +692,7 @@ milestones.shopify.io
 millionstrong.shopify.io
 minerva-chatops.shopify.io
 minerva-staging.shopify.io
+mint-staging.shopify.io
 mint.shopify.io
 mint.src.shopify.io
 misp-demo.trust.shopify.io
