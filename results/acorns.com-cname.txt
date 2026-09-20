@@ -244,3 +244,7 @@ account.acorns.com => acorns.com
 api-mobile.acorns.com => api.acorns.com
 earn.acorns.com => acorns.wild.link
 ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io
+cdn04.acorns.com => dhaqpiqzelx8s.cloudfront.net
+cdn02.acorns.com => dhaqpiqzelx8s.cloudfront.net
+maven.pkg.acorns.com => maven-ojubbmpne6mq.cloudsmith.io
+partners.acorns.com => acorns.cakemarketing.net
