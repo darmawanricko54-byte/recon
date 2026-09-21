@@ -67,3 +67,7 @@ pkg.acorns.com => dl-tvv8oxh28ofx.cloudsmith.io
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io
 maven.pkg.acorns.com => maven-ojubbmpne6mq.cloudsmith.io
+dart.pkg.acorns.com => dart-s5i8k9umsn5f.cloudsmith.io
+docker.pkg.acorns.com => docker-zjzfcpc15jtv.cloudsmith.io
+go.pkg.acorns.com => golang-5ppv4gnpflea.cloudsmith.io
+npm.pkg.acorns.com => npm-hxt2dtgv844k.cloudsmith.io

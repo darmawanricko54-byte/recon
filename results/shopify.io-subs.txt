@@ -673,6 +673,7 @@ merchant-growth-recommender.shopify.io
 merchant-insights.shopify.io
 merchant-notification-platform-staging.shopify.io
 merchant-notification-platform.shopify.io
+merchant-opportunities-gke.shopify.io
 merchant-subscriptions.shopify.io
 mercury.shopify.io
 merge-garden-integration-1.shopify.io
