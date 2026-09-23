@@ -193,6 +193,7 @@ cdgit.shopify.io
 cdn.shopify.io
 cdn.shopp-e.shopify.io
 cdn2.shopify.io
+cdp-staging.shopify.io
 cert-provisioner-staging.shopify.io
 cert-provisioner.shopify.io
 cf-experiment.shopify.io
@@ -1232,6 +1233,7 @@ vpnify.ash.shopify.io
 vpnify.chi2.shopify.io
 vroom.shopify.io
 warehouse-uploader.growth-labs.shopify.io
+watchdog.shopify.io
 watchtower.shopify.io
 web-sourcemaps.shopify.io
 web.storybook.shopify.io

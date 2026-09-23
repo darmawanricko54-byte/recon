@@ -1,3 +1,4 @@
+_dmarc.wolt.com
 account.consumer-user.wolt.com
 account.converse-api-dd.wolt.com
 ad-server-exchange.wolt.com
@@ -42,6 +43,7 @@ cdn.wolt.com
 ci.converse-rtm-ps.wolt.com
 click.consumer-api.wolt.com
 click.converse-static-resources.wolt.com
+comms.wolt.com
 communications-service.wolt.com
 confluence.wolt.com
 consumer-api.wolt.com
