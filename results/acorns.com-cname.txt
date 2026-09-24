@@ -313,3 +313,7 @@ swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 web.acorns.com => acorns.com
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
 visit.acorns.com => https://www.acorns.com
+account.acorns.com => acorns.com
+auth.acorns.com => sm-auth-old.acorns.io
+docker.pkg.acorns.com => docker-zjzfcpc15jtv.cloudsmith.io
+get.acorns.com => f257e127a8ea4dad8acc6fa777f76a46.unbouncepages.com

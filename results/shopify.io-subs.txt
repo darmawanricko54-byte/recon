@@ -140,6 +140,7 @@ bourgeois.shopify.io
 braincell-router.shopify.io
 braincell.shopify.io
 brand.shopify.io
+brisk-staging.shopify.io
 brisk.shopify.io
 brochure-blog-chatbot.shopify.io
 brochure-iii.docs.shopify.io
@@ -1128,6 +1129,7 @@ test.gitstream.shopify.io
 testability.shopify.io
 testing-1.gitstream.shopify.io
 testing-ssd.gitstream.shopify.io
+textstring.quick.shopify.io
 thehive-staging.shopify.io
 thehive.shopify.io
 theme-identifier.shopify.io

@@ -84,3 +84,4 @@ maven.pkg.acorns.com => maven-ojubbmpne6mq.cloudsmith.io
 npm.pkg.acorns.com => npm-hxt2dtgv844k.cloudsmith.io
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+docker.pkg.acorns.com => docker-zjzfcpc15jtv.cloudsmith.io

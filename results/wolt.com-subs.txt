@@ -95,6 +95,7 @@ email.comms.wolt.com
 eu-dd-internal.wolt.com
 explore.wolt.com
 ext.wolt.com
+external.wolt.com
 fg.wolt.com
 files.discovery-cdn.wolt.com
 forum.converse-static-resources.wolt.com
@@ -175,6 +176,7 @@ ns1.ns1.util.wolt.com
 ns1.util.wolt.com
 ns2.courier-api.wolt.com
 ns3.converse-telemetry-api.wolt.com
+o365.wolt.com
 offering-platform.wolt.com
 offering-service.wolt.com
 ops.wolt.com
