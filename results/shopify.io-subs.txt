@@ -615,6 +615,7 @@ lumos-staging.shopify.io
 lumos.shopify.io
 mail.api.shopify.io
 mail.apidocs-staging.shopify.io
+mail.brisk.shopify.io
 mail.dart.shopify.io
 mail.delta.shopify.io
 mail.dns.minerva.shopify.io
@@ -1265,6 +1266,7 @@ worldtree.shopify.io
 www.api.shopify.io
 www.apidocs-staging.shopify.io
 www.borg.shopify.io
+www.brisk.shopify.io
 www.cf-experiment.shopify.io
 www.dart.shopify.io
 www.delta.shopify.io
