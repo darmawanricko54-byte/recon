@@ -98,3 +98,6 @@ press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 python.pkg.acorns.com => python-0xibel4kb5kq.cloudsmith.io
 ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
+dart.pkg.acorns.com => dart-s5i8k9umsn5f.cloudsmith.io
+docker.pkg.acorns.com => docker-zjzfcpc15jtv.cloudsmith.io
+swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
