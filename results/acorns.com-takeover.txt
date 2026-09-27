@@ -101,3 +101,6 @@ swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 dart.pkg.acorns.com => dart-s5i8k9umsn5f.cloudsmith.io
 docker.pkg.acorns.com => docker-zjzfcpc15jtv.cloudsmith.io
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
+aag.acorns.com => aag.acorns.com.s3-website-us-east-1.amazonaws.com
+press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
+youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com

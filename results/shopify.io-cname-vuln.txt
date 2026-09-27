@@ -45,3 +45,4 @@ npm.shopify.io => npm-prd-shopify.cloudsmith.io
 pkgs.shopify.io => dl-prd-shopify.cloudsmith.io
 ts-code-snippets.shopify.io => shopify.github.io
 cdgit.shopify.io => shopify.github.io
+cdgit.shopify.io => shopify.github.io
