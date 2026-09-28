@@ -214,6 +214,7 @@ routemill.wolt.com
 s3.gatekeeper.wolt.com
 sandbox.consumer-events.wolt.com
 shop.converse-api.wolt.com
+sourcemaps.internal.wolt.com
 sso.wolt.com
 staging.converse-web-static.wolt.com
 static.imageproxy.wolt.com
