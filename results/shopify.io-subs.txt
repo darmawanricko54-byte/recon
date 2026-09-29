@@ -169,6 +169,7 @@ campaign-manager.shopify.io
 canary.banking.shopify.io
 canary.beacon.shopify.io
 canary.notify-service.shopify.io
+canonical-app-playground.shopify.io
 capn-crunch.shopify.io
 captain-crunch.shopify.io
 captain-hook-staging.shopify.io
