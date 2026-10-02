@@ -645,6 +645,7 @@ marketingguidelines.shopify.io
 marketplace-connectors-staging.shopify.io
 marketplace-connectors.shopify.io
 markup.shopify.io
+marvin-staging.shopify.io
 mas.shopify.io
 matrix.shopify.io
 mcp-proxy.shopify.io
@@ -885,6 +886,7 @@ revenue-funnel.shopify.io
 review.aquifer.shopify.io
 rewardswallet-staging.shopify.io
 rewardswallet.shopify.io
+rex-experiment-platform-staging.shopify.io
 ris-management-stg.shopify.io
 ris-management.shopify.io
 riskyclick.shopify.io
@@ -979,6 +981,7 @@ shipit-production-ruby-upgrade.shopify.io
 shipit.ash.shopify.io
 shipit.shopify.io
 shipping-to-production.shopify.io
+shop-cash-investigator.shopify.io
 shop-chat-ai.shopify.io
 shop-docs.docs.shopify.io
 shop-js.storybook.shopify.io
@@ -1158,7 +1161,9 @@ tool-gateway.shopify.io
 tophat.shopify.io
 topic-sampler.shopify.io
 torrent-api-staging.shopify.io
+torrent-api.shopify.io
 torrent-staging.shopify.io
+torrent.shopify.io
 townhall-staging.shopify.io
 trace.shopify.io
 tracing-api-staging.shopify.io
