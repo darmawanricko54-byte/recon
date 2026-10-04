@@ -165,6 +165,7 @@ media.converse-web-static.wolt.com
 merchant-access-control.wolt.com
 merchant-api.wolt.com
 merchant-gateway.wolt.com
+merchant-onboarding-service.wolt.com
 merchant.links.wolt.com
 merchant.wolt.com
 mop-scheduler.wolt.com

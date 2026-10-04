@@ -269,3 +269,7 @@ access.github.latitudefinancial.com => github.buildfactory.lfscnp.com
 servicecentre.latitudefinancial.com => us33htw.ng.impervadns.net
 admin.github.latitudefinancial.com => github.buildfactory.lfscnp.com
 2014eaccess.github.latitudefinancial.com => github.buildfactory.lfscnp.com
+admin.github.latitudefinancial.com => github.buildfactory.lfscnp.com
+2014eaccess.github.latitudefinancial.com => github.buildfactory.lfscnp.com
+2014-social.github.latitudefinancial.com => github.buildfactory.lfscnp.com
+access.github.latitudefinancial.com => github.buildfactory.lfscnp.com
