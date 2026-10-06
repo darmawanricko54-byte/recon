@@ -698,6 +698,7 @@ milestones.shopify.io
 millionstrong.shopify.io
 minerva-chatops.shopify.io
 minerva-staging.shopify.io
+minerva.shopify.io
 mint-staging.shopify.io
 mint.shopify.io
 mint.src.shopify.io
