@@ -785,6 +785,7 @@ patdown-staging.shopify.io
 patdown.shopify.io
 pay-internal-admin.shopify.io
 payments-platform.docs.shopify.io
+peek.shopify.io
 pixel-validator.shopify.io
 pkgs.shopify.io
 pla.shopify.io

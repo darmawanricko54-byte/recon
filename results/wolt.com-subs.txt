@@ -92,6 +92,7 @@ edge.converse-rtm-ps.wolt.com
 elasticsearch1.wolt.com
 email-media.wolt.com
 email.comms.wolt.com
+enterpriseregistration.external.wolt.com
 eu-dd-internal.wolt.com
 explore.wolt.com
 ext.wolt.com
