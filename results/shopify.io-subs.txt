@@ -111,6 +111,7 @@ batch.melody-grpc-staging.shopify.io
 batch.melody-grpc.shopify.io
 batch.rpc.cdp-staging.shopify.io
 batch.rpc.cdp.shopify.io
+bb.shopify.io
 beacon-staging-2.shopify.io
 beacon-staging-5.shopify.io
 beacon-staging.shopify.io

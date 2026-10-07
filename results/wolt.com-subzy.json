@@ -1,20 +1,6 @@
 [
   {
-    "subdomain": "account.consumer-user.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "ad-server-exchange.wolt.com",
+    "subdomain": "_dmarc.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -42,77 +28,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "airflow.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "_dmarc.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "account.converse-api-dd.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "analytics.consumer-events.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "ambassador.k.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "analytics.converse-rtm-ps.wolt.com",
+    "subdomain": "ad-server-exchange.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -154,7 +70,91 @@
     "vulnerable": false
   },
   {
+    "subdomain": "airflow.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "analytics.consumer-events.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "account.consumer-user.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "account.converse-api-dd.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "app.consumer-user.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "ambassador.k.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "analytics.converse-rtm-ps.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -170,6 +170,20 @@
   {
     "subdomain": "atlantis-sandbox.prod.fg.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -210,34 +224,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "agentic-shopping.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "auth.wolt.com",
     "status": "not vulnerable",
     "engine": "",
@@ -252,7 +238,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "authentication.wolt.com",
+    "subdomain": "agentic-shopping.wolt.com",
     "status": "vulnerable",
     "engine": "Cargo Collective",
     "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
@@ -294,6 +280,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "aws.consumer-events.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "azure.discovery-cdn.wolt.com",
     "status": "http error",
     "engine": "",
@@ -322,10 +322,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "aws.consumer-events.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "authentication.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -406,10 +406,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cashier.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "subdomain": "capital.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -448,24 +448,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "capital.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "brand-insights.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "cashier.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -490,7 +476,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "click.converse-static-resources.wolt.com",
+    "subdomain": "click.consumer-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -504,7 +490,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "click.consumer-api.wolt.com",
+    "subdomain": "click.converse-static-resources.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -546,10 +532,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "careers.wolt.com",
-    "status": "vulnerable",
-    "engine": "Gemfury",
-    "documentation": "[Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)",
+    "subdomain": "brand-insights.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -574,6 +560,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "consumer-api.wolt.com",
+    "status": "vulnerable",
+    "engine": "Uptimerobot",
+    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "consumer-pricing-grpc.wolt.com",
     "status": "http error",
     "engine": "",
@@ -588,10 +588,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "consumer-api.wolt.com",
+    "subdomain": "careers.wolt.com",
     "status": "vulnerable",
-    "engine": "Uptimerobot",
-    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
+    "engine": "Gemfury",
+    "documentation": "[Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -756,20 +756,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "converse-telemetry-api.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "corporate-psp-api.wolt.com",
     "status": "http error",
     "engine": "",
@@ -784,10 +770,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "converse-web-static.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "converse-telemetry-api.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -812,7 +798,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "corporate.wolt.com",
+    "subdomain": "converse-web-static.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -840,8 +826,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "daas-ecommerce-service.wolt.com",
-    "status": "http error",
+    "subdomain": "corporate.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -854,8 +840,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "courier-termination-api.wolt.com",
-    "status": "not vulnerable",
+    "subdomain": "daas-ecommerce-service.wolt.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -884,6 +870,20 @@
   {
     "subdomain": "dash-internal.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "courier-termination-api.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -994,20 +994,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "daas.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "dev.k.wolt.com",
     "status": "http error",
     "engine": "",
@@ -1050,7 +1036,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "courier.wolt.com",
+    "subdomain": "daas.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "developer-portal-static-assets.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1064,7 +1064,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "developer-portal-static-assets.wolt.com",
+    "subdomain": "developer.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1092,7 +1092,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "developer.wolt.com",
+    "subdomain": "discovery-cdn.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1134,20 +1134,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "discovery-cdn.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "edge.converse-rtm-ps.wolt.com",
     "status": "http error",
     "engine": "",
@@ -1162,7 +1148,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "email-media.wolt.com",
+    "subdomain": "courier.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1190,7 +1176,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "enterpriseregistration.external.wolt.com",
+    "subdomain": "email.comms.wolt.com",
+    "status": "vulnerable",
+    "engine": "Uptimerobot",
+    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "email-media.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1204,10 +1204,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "email.comms.wolt.com",
-    "status": "vulnerable",
-    "engine": "Uptimerobot",
-    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
+    "subdomain": "enterpriseregistration.external.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -1276,20 +1276,6 @@
   {
     "subdomain": "files.discovery-cdn.wolt.com",
     "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "explore.wolt.com",
-    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1388,6 +1374,20 @@
   {
     "subdomain": "gcp.consumer-api.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "explore.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1512,20 +1512,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "home.converse-web-static.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "help.converse-telemetry-api.wolt.com",
     "status": "http error",
     "engine": "",
@@ -1554,6 +1540,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "home.converse-web-static.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "hub.consumer-user.wolt.com",
     "status": "http error",
     "engine": "",
@@ -1568,7 +1568,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "hub.imageproxy.wolt.com",
+    "subdomain": "hub.converse-web-static.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1582,7 +1582,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "hub.converse-web-static.wolt.com",
+    "subdomain": "hub.imageproxy.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1890,7 +1890,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "links.woltforwork.wolt.com",
+    "subdomain": "it.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1904,10 +1904,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "it.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "links1.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -1946,10 +1946,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "links1.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "subdomain": "links.woltforwork.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2058,7 +2058,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "argo-flow-testing.internal.wolt.com",
+    "subdomain": "mail.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2072,7 +2072,147 @@
     "vulnerable": false
   },
   {
-    "subdomain": "atlantis-steiger-ui.prod.fg.wolt.com",
+    "subdomain": "mail1.converse-telemetry-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "mail2.converse-rtm-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "mail2.converse-telemetry-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "mars-grpc.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "master.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "media.converse-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "media.converse-rtm-ps.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "media.converse-web-static.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "merchant-access-control.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "merchant-api.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "argo-flow-testing.internal.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2100,7 +2240,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "atlantis-test-ui.prod.fg.wolt.com",
+    "subdomain": "atlantis-steiger-ui.prod.fg.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2114,7 +2254,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "mail1.converse-telemetry-api.wolt.com",
+    "subdomain": "atlantis-test-ui.prod.fg.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2143,132 +2283,6 @@
   },
   {
     "subdomain": "atlantis-ui.prod.fg.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "mail2.converse-rtm-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "mail.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "mars-grpc.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "mail2.converse-telemetry-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "merchant-access-control.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "master.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "media.converse-web-static.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "media.converse-rtm-ps.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "media.converse-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2324,7 +2338,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "news.converse-rtm-api.wolt.com",
+    "subdomain": "neural-search-inference-server.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2338,7 +2352,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "neural-search-inference-server.wolt.com",
+    "subdomain": "news.converse-rtm-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2366,7 +2380,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "ns2.courier-api.wolt.com",
+    "subdomain": "ns3.converse-telemetry-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2380,7 +2394,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "ns3.converse-telemetry-api.wolt.com",
+    "subdomain": "ns2.courier-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2422,36 +2436,36 @@
     "vulnerable": false
   },
   {
-    "subdomain": "merchant-api.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "merchant-onboarding-service.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "offering-service.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "origin.courier-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "merchant.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2478,10 +2492,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "merchant.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "ns1.util.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2492,10 +2506,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "origin.courier-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "merchant-onboarding-service.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2534,21 +2548,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "ns1.util.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "portal.authentication.wolt.com",
+    "subdomain": "pop.converse-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2562,7 +2562,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "pop.converse-api.wolt.com",
+    "subdomain": "portal.authentication.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2604,49 +2604,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "picker-api.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "private.converse-rtm-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "payments-tips-service.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "prod.consumer-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2688,7 +2646,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prod.consumer-events.wolt.com",
+    "subdomain": "prod.consumer-api.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2702,7 +2660,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prod.k.wolt.com",
+    "subdomain": "prod.consumer-events.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2730,6 +2688,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "prod.k.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "prod2.k.wolt.com",
     "status": "http error",
     "engine": "",
@@ -2744,10 +2716,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prometheus-main-thanos-sidecar.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "payments-tips-service.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2758,7 +2730,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "r-api-grpc-consumer.wolt.com",
+    "subdomain": "prometheus-main-thanos-sidecar.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2786,8 +2758,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prod-videos.wolt.com",
-    "status": "not vulnerable",
+    "subdomain": "r-api-grpc-consumer.wolt.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2802,6 +2774,34 @@
   {
     "subdomain": "r-api-grpc-internal.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "reconciliation-service.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "prod-videos.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2842,20 +2842,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "prod-wolt-venue-images-cdn.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "remote.gatekeeper.wolt.com",
     "status": "http error",
     "engine": "",
@@ -2870,10 +2856,24 @@
     "vulnerable": false
   },
   {
-    "subdomain": "reconciliation-service.wolt.com",
+    "subdomain": "people.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "picker-api.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2912,10 +2912,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "profile-avatar-cdn.wolt.com",
-    "status": "vulnerable",
-    "engine": "Uptimerobot",
-    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
+    "subdomain": "shop.converse-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -2926,8 +2926,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "shop.converse-api.wolt.com",
-    "status": "http error",
+    "subdomain": "prod-wolt-venue-images-cdn.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2954,8 +2954,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "people.wolt.com",
-    "status": "not vulnerable",
+    "subdomain": "sso.wolt.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2972,34 +2972,6 @@
     "status": "http error",
     "engine": "",
     "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "sso.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "regatta.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -3038,10 +3010,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "storage.discovery-cdn.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "profile-avatar-cdn.wolt.com",
+    "status": "vulnerable",
+    "engine": "Uptimerobot",
+    "documentation": "[Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -3052,7 +3024,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "stream.converse-rtm-api.wolt.com",
+    "subdomain": "storage.discovery-cdn.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3080,6 +3052,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "stream.converse-rtm-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "support.converse-rtm-api.wolt.com",
     "status": "http error",
     "engine": "",
@@ -3094,7 +3080,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "routemill.wolt.com",
+    "subdomain": "support.converse-static-resources.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "regatta.wolt.com",
     "status": "vulnerable",
     "engine": "Cargo Collective",
     "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
@@ -3108,10 +3108,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "support.converse-static-resources.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "routemill.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -3178,7 +3178,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "status.wolt.com",
+    "subdomain": "test-wolt-venue-images-cdn.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3206,22 +3206,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test-wolt-venue-images-cdn.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "team.wolt.com",
-    "status": "not vulnerable",
+    "subdomain": "v2.discovery-cdn.wolt.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3248,7 +3234,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "v2.discovery-cdn.wolt.com",
+    "subdomain": "video.converse-api-dd.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3263,20 +3249,6 @@
   },
   {
     "subdomain": "video.converse-rtm-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "video.converse-api-dd.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3332,7 +3304,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "uranium.wolt.com",
+    "subdomain": "status.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3374,20 +3346,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "webmail.converse-api.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "webmail.converse-api-dd.wolt.com",
     "status": "http error",
     "engine": "",
@@ -3402,10 +3360,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "util.wolt.com",
-    "status": "vulnerable",
-    "engine": "Cargo Collective",
-    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
+    "subdomain": "webmail.converse-api.wolt.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -3418,6 +3376,48 @@
   {
     "subdomain": "wiki.converse-telemetry-api.wolt.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "team.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "press.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "uranium.wolt.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3444,24 +3444,10 @@
     "vulnerable": false
   },
   {
-    "subdomain": "retailreport.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "www.dash-internal.wolt.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
+    "subdomain": "util.wolt.com",
+    "status": "vulnerable",
+    "engine": "Cargo Collective",
+    "documentation": "[Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)",
     "discussion": "",
     "cicd_pass": false,
     "cname": null,
@@ -3500,7 +3486,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.designdelivered.wolt.com",
+    "subdomain": "www.dash-internal.wolt.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3514,22 +3500,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "wolt-menu-images-cdn.wolt.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "webfonts.wolt.com",
-    "status": "not vulnerable",
+    "subdomain": "www.designdelivered.wolt.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3570,7 +3542,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "wolt-com-static-assets.wolt.com",
+    "subdomain": "retailreport.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3584,7 +3556,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "press.wolt.com",
+    "subdomain": "webfonts.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3599,6 +3571,34 @@
   },
   {
     "subdomain": "wolf.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "wolt-menu-images-cdn.wolt.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "wolt-com-static-assets.wolt.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
