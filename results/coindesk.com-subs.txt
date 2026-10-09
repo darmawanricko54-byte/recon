@@ -258,7 +258,11 @@ identity.coindesk.com
 identityi.coindesk.com
 images.consensus.coindesk.com
 indices.coindesk.com
+institutional-hongkong.coindesk.com
+institutional-hongkong2027.coindesk.com
 institutional.coindesk.com
+institutional2026.coindesk.com
+institutional2027.coindesk.com
 int.consensus.coindesk.com
 it.coindesk.com
 jenkins.coindesk.com
@@ -509,6 +513,7 @@ www.api.payments.coindesk.com
 www.auth.coindesk.com
 www.coindesk.com
 www.consensus.coindesk.com
+www.consensus2023.coindesk.com
 www.consensus2024.coindesk.com
 www.consensus2024.sandbox.events.coindesk.com
 www.desk.coindesk.com
