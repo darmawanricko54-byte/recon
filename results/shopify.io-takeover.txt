@@ -89,3 +89,4 @@ pkgs.shopify.io => dl-prd-shopify.cloudsmith.io
 cdgit.shopify.io => shopify.github.io
 npm.shopify.io => npm-prd-shopify.cloudsmith.io
 ts-code-snippets.shopify.io => shopify.github.io
+pkgs.shopify.io => dl-prd-shopify.cloudsmith.io
