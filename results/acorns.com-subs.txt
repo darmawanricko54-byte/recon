@@ -22,9 +22,11 @@
 123c7zefmq3c.cs.build.acorns.com
 123c7zefmq3y.itgw.build.acorns.com
 123c7zefmq3y.ohanaband.build.acorns.com
+123c7zefnginxc.cs.build.acorns.com
 123c7zefvaulty.cs.build.acorns.com
 123dev01.cs.build.acorns.com
 13083-api.build.acorns.com
+13083.acorns.com
 13083c.acorns.com
 14yc7nt-spf6-ggs-api.acorns.com
 14yc7nt-spf6-ggs-api.build.acorns.com
@@ -36,6 +38,7 @@
 18.acorns.com
 190.acorns.com
 1c.oca.acorns.com
+1tokkun-com.acorns.com
 1tokkun-com.documents.build.acorns.com
 1tokkun-comw.documents.build.acorns.com
 1tokkun.acorns.com
@@ -97,6 +100,7 @@
 5on-sysonamu1315cpanel.papt.blogmonboarding.build.acorns.com
 5on.acorns.com
 64j-m21.ci.fr-kusanagiommunityaime-demo-kubectl.docs.acorns.com
+6uqacebookapp-xsrvjpinsys-staging-simulatorsbento4api.acorns.com
 6uqacebookapp-xsrvjpinsys-staging-simulatorsbento4api.app.acorns.com
 6uqacebookapp.acorns.com
 6ww.acorns.com
@@ -157,6 +161,7 @@ accounts.acorns.com
 accountstoney-appsttyk86.build.acorns.com
 accourse-newjersey.api.build.acorns.com
 accout.acorns.com
+aceconsole-service.acorns.com
 aceconsole-serviceq.acorns.com
 aceconsole-serviceq.scraper.build.acorns.com
 aceconsole.acorns.com
@@ -349,6 +354,7 @@ apple-gift.app.acorns.com
 apple.app.acorns.com
 appleidq.app.acorns.com
 appleidu.appl.com.app.acorns.com
+applem.co.jp.info0970867575.login.app.acorns.com
 appleo.acorns.com
 apply.acorns.com
 applye.acorns.com
@@ -373,6 +379,7 @@ argos-testa.phd.app.acorns.com
 argos-testw.acorns.com
 argos.acorns.com
 argos5.acorns.com
+arpartnersos-test.acorns.com
 arpartnersos-testo.app.acorns.com
 arpartnersos.acorns.com
 arrownao.corp.acorns.com
@@ -468,6 +475,7 @@ backend.acorns.com
 backendmoneyplan.acorns.com
 backendmoneyplanw.acorns.com
 backo.build.acorns.com
+baconetworkgogreecornin.acorns.com
 baconetworkgogreecornin.papt.blogmonboarding.build.acorns.com
 baconetworkgogreecorniny.acorns.com
 bandsm.app.acorns.com
@@ -491,6 +499,7 @@ bb4e.app.acorns.com
 bbs.app.acorns.com
 bcst-xinwangzhandaekimahabandaekimages.acorns.com
 bcst-xinwangzhandaekimahabandaekimages.fmonboarding.build.acorns.com
+bcst-xinwangzhandaekimahabandaekimageso.acorns.com
 bcst.acorns.com
 bcst9.build.acorns.com
 bde.build.acorns.com
@@ -561,6 +570,7 @@ box1.acorns.com
 box1.app.acorns.com
 box1o.app.acorns.com
 bpd.acorns.com
+br-sys-stagingdebug.acorns.com
 br-sys-stagingdebug.webinar.build.acorns.com
 br-sys-stagingdebugs.webinar.build.acorns.com
 br.acorns.com
@@ -599,6 +609,7 @@ c7zefmq3.build.acorns.com
 c7zefmq3e.acorns.com
 c9.app.acorns.com
 ca.acorns.com
+cable.acorns.com
 cablec.acorns.com
 cabosan.acorns.com
 cabosan.app.acorns.com
@@ -607,6 +618,7 @@ cabosano.acorns.com
 cache.acorns.com
 cachea.action-feed.acorns.com
 cacheo.acorns.com
+calcpa-sekkei-nettingfoia-documentitaapi.acorns.com
 calcpa-sekkei-nettingfoia-documentitaapi.apih1mb7api.build.acorns.com
 calcpa.acorns.com
 calen.acorns.com
@@ -670,6 +682,7 @@ cdq-api.app.acorns.com
 cdq-apig.acorns.com
 cdq.acorns.com
 celestial.app.acorns.com
+center.acorns.com
 centrali.acorns.com
 centraly.central.acorns.com
 cert.acorns.com
@@ -739,6 +752,7 @@ click1.acorns.com
 clicka.app.acorns.com
 clicketing.build.acorns.com
 client-api-alt.acorns.com
+client-api-api.acorns.com
 client-api-api.kns-comnetoungmoney-admin6.build.acorns.com
 client-api.acorns.com
 client-api.curso.build.acorns.com
@@ -760,6 +774,7 @@ clientsm.a.build.acorns.com
 clientsu.webinar.build.acorns.com
 clientw.app.acorns.com
 clientw.curso.build.acorns.com
+cloud.acorns.com
 cloud.app.acorns.com
 cloud.blogmonboarding.build.acorns.com
 cloudera.acorns.com
@@ -788,6 +803,7 @@ cname.app.acorns.com
 co.acorns.com
 co.jp.info0970867575.login.app.acorns.com
 cobrowse.acorns.com
+cobrowsea.acorns.com
 cocopop.app.acorns.com
 cocopopq.app.acorns.com
 codata.acorns.com
@@ -980,6 +996,7 @@ devel.acorns.com
 developer.acorns.com
 developerg.acorns.com
 devg.api.acorns.com
+device-sys.acorns.com
 device-syso.acorns.com
 device.acorns.com
 devspend.acorns.com
@@ -1072,6 +1089,7 @@ download2ug.acorns.com
 downloadc.acorns.com
 downloads.118.build.acorns.com
 dq5.build.acorns.com
+dr.acorns.com
 drcorna-bms.acorns.com
 drcorna-bms.app.acorns.com
 drcorna-bmsa.app.acorns.com
@@ -1086,6 +1104,7 @@ dsfoodu.app.acorns.com
 dsl.acorns.com
 dubozuobile-stagindevdatest213.acorns.com
 dubozuobile-stagindevdatest213.www.mastergamersi58invisual001ptnv-jobbankapi.build.acorns.com
+dubozuobile.acorns.com
 dubozuobilei.acorns.com
 dxp.acorns.com
 dyn.app.acorns.com
@@ -1211,6 +1230,7 @@ final.app.acorns.com
 finali.app.acorns.com
 finam.acorns.com
 finam.app.acorns.com
+finamc.app.acorns.com
 find.acorns.com
 finsys-stageqa.curso.build.acorns.com
 finsys.acorns.com
@@ -1329,6 +1349,7 @@ gmadizhipchatworketing-api1.acorns.com
 gmadizhipchatworketing.acorns.com
 gmadizhipchatworketinga.acorns.com
 gmail.acorns.com
+gmailaerosehipmio9s-wcodetoungmoney-admin-api.acorns.com
 gmailaerosehipmio9s-wcodetoungmoney-admin-api.documents.build.acorns.com
 gmailaerosehipmio9s.acorns.com
 gmailvdl.acorns.com
@@ -1374,6 +1395,7 @@ grow-dev02.acorns.com
 grow-dev02a.acorns.com
 grow-dev03.acorns.com
 grow-dev03o.acorns.com
+grow-devrelay1s3test2.acorns.com
 grow-devrelay1s3test2.curso.build.acorns.com
 grow-devrelay1s3test2.dealer.build.acorns.com
 grow-devrelay1s3test2e.acorns.com
@@ -1448,6 +1470,7 @@ head.acorns.com
 hel.app.acorns.com
 hello-builds.staging.acorns.com
 hello.acorns.com
+helloa.acorns.com
 help.acorns.com
 help.app.acorns.com
 help.graphql.acorns.com
@@ -1460,6 +1483,7 @@ hive5.phd.acorns.com
 hoaloha-ohanaband-com.acorns.com
 hoaloha-ohanaband-com.app.acorns.com
 hoaloha-ohanaband-come.acorns.com
+hoaloha-ohanaband-como.app.acorns.com
 hoaloha.acorns.com
 hoalohac.acorns.com
 hoken.acorns.com
@@ -1556,8 +1580,10 @@ ipv6w.app.acorns.com
 ir.acorns.com
 is1.app.acorns.com
 ishil1sanpo-shopping.papt.blogmonboarding.build.acorns.com
+isupport-appleidu.app.acorns.com
 italie.acorns.com
 italie.app.acorns.com
+itgw.build.acorns.com
 iwww.acorns.com
 jacksonville.app.acorns.com
 jenkins.apih1mb7api.build.acorns.com
@@ -1619,6 +1645,7 @@ kubernetes.236.build.acorns.com
 kubernetes.app.acorns.com
 kubernetes.blogmonboardingsandbox.build.acorns.com
 kukankaihatsukobo-com.app.acorns.com
+kukankaihatsukobo-comg.app.acorns.com
 kyiv.app.acorns.com
 kyivy.app.acorns.com
 kyokushin2.app.acorns.com
@@ -1677,6 +1704,7 @@ lsieb4902-cyj.build.acorns.com
 luck.build.acorns.com
 lucka.build.acorns.com
 luny.app.acorns.com
+lunys.app.acorns.com
 luxuryc.app.acorns.com
 lviv9.app.acorns.com
 m.app.acorns.com
@@ -1728,6 +1756,7 @@ mattya.app.acorns.com
 mattyag.app.acorns.com
 maven.pkg.acorns.com
 maxtoto.app.acorns.com
+maxtotok.app.acorns.com
 md-handbook.acorns.com
 md-handbook9.acorns.com
 mdm.app.acorns.com
@@ -1824,6 +1853,7 @@ my02.acorns.com
 mysql.app.acorns.com
 mysqlu.app.acorns.com
 mystore.app.acorns.com
+n223.deru.build.acorns.com
 na2-rjscottauthorgrow-dev01montanai.app.acorns.com
 nanba-dance-com-0t3ev.app.acorns.com
 nashm58wi452admin-api.documents.build.acorns.com
@@ -1831,6 +1861,7 @@ naughty.build.acorns.com
 naughty.curso.build.acorns.com
 naughty.scraper.build.acorns.com
 naumen.scraper.build.acorns.com
+ne1.acorns.com
 nealos.acorns.com
 nesswwhr-renom-errors-beta.app.acorns.com
 netk.app.acorns.com
@@ -1954,6 +1985,7 @@ pcsrc.acorns.com
 pcsrc.kis.app.acorns.com
 petas1426devticketing-046api.build.acorns.com
 petas1426devticketing-046apii.build.acorns.com
+phd.acorns.com
 phd.app.acorns.com
 pheonix.app.acorns.com
 pheonixk.app.acorns.com
@@ -2036,6 +2068,7 @@ publishing-catalog5.app.acorns.com
 publishing-preview.app.acorns.com
 publishing.acorns.com
 pwctest1.app.acorns.com
+pyd.acorns.com
 python.pkg.acorns.com
 qa-action.acorns.com
 qa-fec-prototype.acorns.com
@@ -2070,6 +2103,7 @@ remote.app.acorns.com
 remote.blogmonboarding.build.acorns.com
 remote.client.blogmonboarding.build.acorns.com
 remotea.app.acorns.com
+render.acorns.com
 research.acorns.com
 researchk.acorns.com
 resources.app.acorns.com
@@ -2104,6 +2138,7 @@ ruda.app.acorns.com
 rx.app.acorns.com
 s.acorns.com
 s1017-documents.build.acorns.com
+s1017-documentsg.build.acorns.com
 s1340-3.build.acorns.com
 s140-243ysql0.build.acorns.com
 s1450adocuments.build.acorns.com
@@ -2113,6 +2148,7 @@ s3.acorns.com
 s3.fmonboarding.build.acorns.com
 s315ipmi4fwxun9vj.build.acorns.com
 s4240ipmijscottauthorgrow-dev01montana.app.acorns.com
+s4240ipmijscottauthorgrow-dev01montana7.app.acorns.com
 safao.app.acorns.com
 safetyclicksgrow-dev-simulatorsbento4api.app.acorns.com
 salmankhan.app.acorns.com
@@ -2129,6 +2165,7 @@ savagea.app.acorns.com
 sbbcredisdev.a.build.acorns.com
 sbbcredisdevi.a.build.acorns.com
 sbbcredming-visitest2.dealer.build.acorns.com
+sbbcredming-visitest2g.dealer.build.acorns.com
 sbsm9spend-ad.app.acorns.com
 sbsm9spend-ada.app.acorns.com
 scms.acorns.com
@@ -2145,7 +2182,9 @@ secure.228.build.acorns.com
 secure.acorns.com
 secure.app.acorns.com
 secure.build.build.acorns.com
+secure.tristar.apple.co.jp.info0970867575.login.app.acorns.com
 secure8.app.acorns.com
+secure81.app.acorns.com
 secure9.app.acorns.com
 security-internalytics.a.build.acorns.com
 security-internalytics.acorns.com
@@ -2344,6 +2383,7 @@ tlss.app.acorns.com
 tomsk.app.acorns.com
 tomskw.app.acorns.com
 tools.app.acorns.com
+top.acorns.com
 track.acorns.com
 track.fmonboarding.build.acorns.com
 track.links.notifications.acorns.com
@@ -2501,7 +2541,9 @@ web16953.webinar.build.acorns.com
 web16953e.api.build.acorns.com
 web16953q.webinar.build.acorns.com
 web17711api-audience-staging.app.acorns.com
+web18587sm9spend-ad.acorns.com
 web18587sm9spend-ad.app.acorns.com
+web18587sm9spend.acorns.com
 web2780ocuments.build.acorns.com
 web2781ocuments.build.acorns.com
 web3356.acorns.com
@@ -2516,6 +2558,7 @@ webadv.app.acorns.com
 webapp-redis.acorns.com
 webapp.acorns.com
 webassets.acorns.com
+webdb-sbbcreditpathblue.acorns.com
 webdb-sbbcreditpathblue.app.acorns.com
 webdb.acorns.com
 webdisk.acorns.com
@@ -2616,6 +2659,7 @@ www.blog.app.acorns.com
 www.blogs.app.acorns.com
 www.build.acorns.com
 www.c.app.acorns.com
+www.capi-g.acorns.com
 www.capi.acorns.com
 www.careers.app.acorns.com
 www.cdq-api.app.acorns.com
@@ -2656,6 +2700,7 @@ www.gac-rds-external-readonly.app.acorns.com
 www.game.acorns.com
 www.gcom-product-find-dev.app.acorns.com
 www.gcom-product-find-qa.app.acorns.com
+www.get.acorns.com
 www.git.app.acorns.com
 www.gitlab.app.acorns.com
 www.go.app.acorns.com
@@ -2686,6 +2731,7 @@ www.projectx.app.acorns.com
 www.sandbox.partners.acorns.com
 www.share.acorns.com
 www.short.acorns.com
+www.signin.acorns.com
 www.staging.acorns.com
 www.store.acorns.com
 www.support.acorns.com
@@ -2704,6 +2750,7 @@ www2.app.acorns.com
 wwwa.projectx.app.acorns.com
 wwwa.webinar.build.acorns.com
 wwwa.win.acorns.com
+wwwc.41.app.acorns.com
 wwwdocuments.acorns.com
 wwwdocuments.documents.build.acorns.com
 wwwi.api-app.acorns.com
@@ -2718,6 +2765,7 @@ x.acorns.com
 x14.a.build.acorns.com
 x82-kfinco1vbvzlogindevticketingfoiaapi.acorns.com
 x82-kfinco1vbvzlogindevticketingfoiaapi.build.acorns.com
+x82.acorns.com
 xef.acorns.com
 xef.build.acorns.com
 xinwangzhandaekimahabandaekimages.acorns.com

@@ -13,6 +13,7 @@
 06729161c.cn.cdn.dev2.k.wolt.com
 08602g.dev2.k.wolt.com
 0aie.dev2.k.wolt.com
+0b0h.dev2.k.wolt.com
 0cfbc1a3-6280-41b1-a1aa-9ed6a6d01d51.vpn.dev2.k.wolt.com
 0f68ab08-12ee-498a-81e9-58f968ee0ec4.vpn.dev2.k.wolt.com
 0fgu.dev2.k.wolt.com
@@ -76,6 +77,7 @@
 3gw7.dev2.k.wolt.com
 3m6c.dev2.k.wolt.com
 3slf.dev2.k.wolt.com
+3vx9f4a.util.wolt.com
 3xqg.dev2.k.wolt.com
 44015-cotillones.ve.dev2.k.wolt.com
 456zhenqianqipaiyouxiguanfangwang.dev2.k.wolt.com
@@ -86,9 +88,11 @@
 5b238.dev2.k.wolt.com
 5c70da.dev2.k.wolt.com
 656b6e.dev2.k.wolt.com
+66re.dev2.k.wolt.com
 68197.dev2.k.wolt.com
 68208979a.cn.cdn.dev2.k.wolt.com
 6916f4.util.wolt.com
+6x53u.dev2.k.wolt.com
 70ab835e-d13e-4c09-b175-7a3f8885a44f.vpn.dev2.k.wolt.com
 70f1dc77-50e0-4b82-bc19-df400a912b4c.vpn.dev2.k.wolt.com
 7130fa10-911b-4dfe-9b18-299ea06865a3.vpn.dev2.k.wolt.com
@@ -145,6 +149,7 @@ ad-server-indexingm.wolt.com
 ad.wolt.com
 adidas.util.wolt.com
 admin-accountk.bucket.2020auth-s3.util.wolt.com
+admin-v2s3.util.wolt.com
 admin.wolt.com
 adminci.util.wolt.com
 adming.util.wolt.com
@@ -178,6 +183,7 @@ almostbourdain.util.wolt.com
 alpha-bbs2.dev2.k.wolt.com
 alpha.discovery-cdn.wolt.com
 alphak.dev-jenkins.util.wolt.com
+altervista.org.cdn.dev2.k.wolt.com
 altervistak.org.cdn.dev2.k.wolt.com
 alythehedgehog1e.dev2.k.wolt.com
 ambassador.internal.wolt.com
@@ -243,6 +249,7 @@ atlantis-test-uia.prod.fg.wolt.com
 atlantis-test.prod.fg.wolt.com
 atlantis-testing.prod.fg.wolt.com
 atlantis-testingw.prod.fg.wolt.com
+atlantis-testw.prod.fg.wolt.com
 atlantis-ui.prod.fg.wolt.com
 atlantis-webhook.wolt.com
 atlantis.prod.fg.wolt.com
@@ -290,6 +297,7 @@ bbs.dev2.k.wolt.com
 bbsk.dev2.k.wolt.com
 bceconsulting-comi.mail.protection.dev2.k.wolt.com
 be.wolt.com
+be1fg.dev2.k.wolt.com
 beadedtreasures.dev2.k.wolt.com
 bekescocuke.dev2.k.wolt.com
 bentleylegacy-comg.mail.protection.dev2.k.wolt.com
@@ -468,16 +476,19 @@ ci-eliveops-events.util.wolt.com
 ci-stgistrator.util.wolt.com
 ci-traininginistratoru.util.wolt.com
 ci.converse-rtm-ps.wolt.com
+ci.wolt.com
 ci1.wolt.com
 cibacdev2.util.wolt.com
 cibackupauthenticatec.util.wolt.com
 cibackupdata-api-master.util.wolt.com
 cibackupdataa.util.wolt.com
 cibackupg.util.wolt.com
+cibackupk8s-prodk.util.wolt.com
 cibacoutboundup.util.wolt.com
 cibhs-data-api-publick.util.wolt.com
 cibhs-europewest.util.wolt.com
 cibhsfinteche.util.wolt.com
+cibounccashier.util.wolt.com
 cibounces-cmblogg.util.wolt.com
 cibounces-logins.util.wolt.com
 cibounces-posq.util.wolt.com
@@ -492,15 +503,18 @@ cid-83abc90150b0362es.photos.dev2.k.wolt.com
 cieautomotive-comc.mail.protection.dev2.k.wolt.com
 ciservicedistributiony.util.wolt.com
 cistats.util.wolt.com
+ckdatabase.util.wolt.com
 ckdatabasewsy.util.wolt.com
 ckdevices.util.wolt.com
 cksharea.util.wolt.com
 cldmas-comy.mail.protection.dev2.k.wolt.com
 click.consumer-api.wolt.com
 click.converse-static-resources.wolt.com
+client-datamill-master.util.wolt.com
 client-dcorporateigni.util.wolt.com
 client-design-partnerm.util.wolt.com
 client-dintegrationsignu.util.wolt.com
+client-pos.util.wolt.com
 client-posgatewayg.util.wolt.com
 client-posinternalsu.util.wolt.com
 clientm.util.wolt.com
@@ -647,6 +661,7 @@ couscousou7.dev2.k.wolt.com
 cousinslogistics-comk.mail.protection.dev2.k.wolt.com
 coutesterietesterq.util.wolt.com
 couwebappiewebapp3.util.wolt.com
+cpcontacts.scm.dev2.k.wolt.com
 cprodaem.wolt.com
 cramroofings.dev2.k.wolt.com
 creightone.pr-2911.dev.dev2.k.wolt.com
@@ -689,6 +704,7 @@ data-api-master.wolt.com
 data-api-mastery.util.wolt.com
 data-api-public-poss.util.wolt.com
 data-api-public.wolt.com
+data-api.wolt.com
 data.consumer-api.wolt.com
 data.consumer-user.wolt.com
 data9.util.wolt.com
@@ -890,6 +906,7 @@ ecom-plugin-api-shpo.util.wolt.com
 ecom-plugin-shp.wolt.com
 ecomtemp5.util.wolt.com
 ecovida.util.wolt.com
+edge-apic.util.wolt.com
 edge.converse-api-dd.wolt.com
 edge.converse-api.wolt.com
 edge.converse-rtm-ps.wolt.com
@@ -899,6 +916,7 @@ edgec.messenger.dev2.k.wolt.com
 edgedatamill-cik.util.wolt.com
 edgedatamillq.util.wolt.com
 edljtaenwqkfga.util.wolt.com
+egb-73-214e.dev2.k.wolt.com
 eggle1k.dev2.k.wolt.com
 eh2kc.dev2.k.wolt.com
 elasticbeanstalkw.util.wolt.com
@@ -909,6 +927,7 @@ elasticsearch2.wolt.com
 elektropower-bee.mail.protection.dev2.k.wolt.com
 elgatok.util.wolt.com
 eliveopsg.util.wolt.com
+elmorrillo-comu.mail.protection.dev2.k.wolt.com
 em6227-administratorm.util.wolt.com
 em6227.util.wolt.com
 em6227distribution.util.wolt.com
@@ -942,6 +961,7 @@ eng.wolt.com
 engineering-v2internaly.util.wolt.com
 engineeringresetclientw.util.wolt.com
 engineeringsqi.util.wolt.com
+engineeringv2s3.util.wolt.com
 engineeringv2s3u.util.wolt.com
 enterpriseregistration.external.wolt.com
 eo.dev2.k.wolt.com
@@ -958,6 +978,7 @@ eu-central-1.wolt.com
 eu-central-1a.wolt.com
 eu-dd-internal.wolt.com
 eugenequells.us3.dev2.k.wolt.com
+europe7.util.wolt.com
 europepos.util.wolt.com
 europewest-api-merchant-admin.util.wolt.com
 europewest-bhsw.util.wolt.com
@@ -969,6 +990,7 @@ exhalefans-com-sg.mail.protection.dev2.k.wolt.com
 experiment.util.wolt.com
 exploengineea.util.wolt.com
 explore-beta.wolt.com
+explore-betainvoicing-cmy.util.wolt.com
 explore-betay.wolt.com
 explore.util.wolt.com
 explore.wolt.com
@@ -1007,17 +1029,21 @@ fintech-courier-servicefg.util.wolt.com
 fintech-courier-services.util.wolt.com
 fintech-courier-zabbixe.util.wolt.com
 fintech-couwebappiewebapp-sewebappvicedistwebappibution.util.wolt.com
+fintech-customerci-servicedistribution.util.wolt.com
 fintech-hta.wolt.com
 fintech-htaibana-gisti.util.wolt.com
+fintech-htaw.wolt.com
 fintech-restaurant-servicedistributionu.util.wolt.com
 firewall-billing-exploree.util.wolt.com
 firewallg.util.wolt.com
+fleet.wolt.com
 fleetmill.wolt.com
 fleetmillbroker-jr.util.wolt.com
 fleetmillcibhsw.util.wolt.com
 fleetmilldev-nginx-ingress-internal-wso.util.wolt.com
 fleetmilldev.util.wolt.com
 fleetmilldocsapik.util.wolt.com
+fleetmille.wolt.com
 fleetmillfintech-courier-serviceibanas.util.wolt.com
 fleetmillistrator.util.wolt.com
 fleetmillkibana-authu.util.wolt.com
@@ -1062,6 +1088,7 @@ galaxyi.util.wolt.com
 gatekeeper.wolt.com
 gateway-elastic.server.util.wolt.com
 gateway-wwwhelpservera.util.wolt.com
+gateway.edge.messenger.dev2.k.wolt.com
 gateway9.util.wolt.com
 gatewaycibouncesq.util.wolt.com
 gatewayesetclientu.util.wolt.com
@@ -1089,6 +1116,7 @@ gist.util.wolt.com
 gistc.scm.util.wolt.com
 gistgrafana3u.util.wolt.com
 git-apiserveru.util.wolt.com
+git-ci-elasticbeanstalk.util.wolt.com
 git-ci-invoicing-cma.util.wolt.com
 git-ci-old-communications-servicey.util.wolt.com
 git-ci-trafficu.util.wolt.com
@@ -1107,6 +1135,7 @@ globalibana-gisto.util.wolt.com
 go.converse-web-static.wolt.com
 go.imageproxy.wolt.com
 governance.util.wolt.com
+gq1.dev2.k.wolt.com
 gq1g.dev2.k.wolt.com
 gr-sitm.util.wolt.com
 grafana.util.wolt.com
@@ -1135,6 +1164,7 @@ headlandq.util.wolt.com
 headshotg.util.wolt.com
 help.converse-api.wolt.com
 help.converse-telemetry-api.wolt.com
+hexqjd455.util.wolt.com
 hirschi.util.wolt.com
 home.converse-web-static.wolt.com
 home.courier-api.wolt.com
@@ -1190,6 +1220,7 @@ l.wolt.com
 launch.wolt.com
 le-customer-interaction-service.wolt.com
 le-test.wolt.com
+legacy-colander.wolt.com
 legacy-lensbillingm.util.wolt.com
 lens.wolt.com
 lensbilling-admins1.util.wolt.com
@@ -1267,6 +1298,7 @@ media.converse-web-static.wolt.com
 melinksbillingchante.util.wolt.com
 merchant-access-control.wolt.com
 merchant-api.wolt.com
+merchant-apiw.wolt.com
 merchant-enterprise-service.wolt.com
 merchant-gateway.wolt.com
 merchant-onboarding-service.wolt.com
@@ -1275,6 +1307,7 @@ merchant.links.wolt.com
 merchant.wolt.com
 messenger.dev2.k.wolt.com
 metabase-ext.wolt.com
+metabase-ext9.wolt.com
 mobile.gq1.dev2.k.wolt.com
 mop-scheduler.wolt.com
 mop-schedulera.wolt.com
@@ -1305,6 +1338,7 @@ ops-cdn-origin.wolt.com
 ops.wolt.com
 org.cdn.dev2.k.wolt.com
 origin.courier-api.wolt.com
+ostki.bm2.prod.gq1.dev2.k.wolt.com
 pages.wolt.com
 partnerlinksbillingg.util.wolt.com
 passbillingposy.util.wolt.com
@@ -1324,6 +1358,7 @@ picker-apio.wolt.com
 pop.converse-api.wolt.com
 portal.authentication.wolt.com
 portal.gatekeeper.wolt.com
+pos-integration-service.wolt.com
 ppp.wolt.com
 pr-2911.dev.dev2.k.wolt.com
 pr-2911a.dev.dev2.k.wolt.com
@@ -1482,6 +1517,7 @@ ricker.wolt.com
 ricketts.wolt.com
 rickey.wolt.com
 rickh.wolt.com
+rickie622.wolt.com
 rickl.wolt.com
 rickm.wolt.com
 rickmac.wolt.com
@@ -1517,6 +1553,7 @@ rjoseph.wolt.com
 rkennedy.wolt.com
 rkm.wolt.com
 rknuteson.wolt.com
+rko.wolt.com
 rkornfeld.wolt.com
 rkubala.wolt.com
 rlane.wolt.com
@@ -1715,6 +1752,7 @@ www.sso.wolt.com
 www.static.wolt.com
 www.status.wolt.com
 www.testing.k.wolt.com
+www.thanos-store-grpc.wolt.com
 www.uranium.wolt.com
 www.util.wolt.com
 www.webhooks-service.wolt.com
