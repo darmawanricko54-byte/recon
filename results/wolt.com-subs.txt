@@ -10,6 +10,7 @@
 03jx.dev2.k.wolt.com
 0429415b-7498-466f-9f7e-48095b41b8ec.vpn.dev2.k.wolt.com
 06051966.dev2.k.wolt.com
+061608g.dev2.k.wolt.com
 06729161c.cn.cdn.dev2.k.wolt.com
 08602g.dev2.k.wolt.com
 0aie.dev2.k.wolt.com
@@ -45,6 +46,7 @@
 192-146-192-205.isdesktop.dev2.k.wolt.com
 1gy.dev2.k.wolt.com
 1ia4.dev2.k.wolt.com
+1p0n.dev2.k.wolt.com
 2.wolt.com
 2018.engineeringv2s3.util.wolt.com
 2019jenkins.util.wolt.com
@@ -103,6 +105,7 @@
 8-5-249-202.dev2.k.wolt.com
 82ea7c4c-3e59-43e1-a30b-65970fa003a1.vpn.dev2.k.wolt.com
 88yulechengxinaobo.dev2.k.wolt.com
+9035.dev2.k.wolt.com
 95686623.cn.cdn.dev2.k.wolt.com
 964ku.dev2.k.wolt.com
 9cb5c2da-0866-4cdf-acbe-8e0b48b830b4.vpn.dev2.k.wolt.com
@@ -236,6 +239,7 @@ ascendcorp-co-jp01eq.mail.protection.dev2.k.wolt.com
 asdf1998.dev2.k.wolt.com
 asegurotucarrog.dev2.k.wolt.com
 asp4ui.dev2.k.wolt.com
+assets9.util.wolt.com
 assetsbhsmedia.util.wolt.com
 assistenzadecodera.altervista.org.cdn.dev2.k.wolt.com
 assisti.util.wolt.com
@@ -391,6 +395,7 @@ ca.wolt.com
 caat.dev2.k.wolt.com
 cahabag.util.wolt.com
 cal.integrations.wolt.com
+calikfrance-com.mail.protection.dev2.k.wolt.com
 calvarylibrary-com-bru.mail.eo.dev2.k.wolt.com
 campmailk.util.wolt.com
 cannibal-corpseq.dev2.k.wolt.com
@@ -559,6 +564,7 @@ cmpicker-api-merchant-supportinu.util.wolt.com
 cmpicker-api-merchant-webhookq.util.wolt.com
 cmpicker-colander-merchant-admine.util.wolt.com
 cmpicker-staging-merchant-admins.util.wolt.com
+cmpickerbillingq.util.wolt.com
 cmpickerci-ecomq.util.wolt.com
 cmpicprder-api-merchant-admin9.util.wolt.com
 cmpicr7.util.wolt.com
@@ -655,6 +661,7 @@ courier-events9.util.wolt.com
 courier-payment-service2.wolt.com
 courier-payment-service2s.wolt.com
 courier-termination-api.wolt.com
+courier.util.wolt.com
 courier.wolt.com
 couriere.wolt.com
 couscousou7.dev2.k.wolt.com
@@ -879,10 +886,12 @@ distwolfibution.util.wolt.com
 divsune.dev2.k.wolt.com
 dns2.authentication.wolt.com
 dockerbouncescm.util.wolt.com
+dockerc.util.wolt.com
 docsapi-prod-wolt-venue-images-cdnbhse.util.wolt.com
 docsapie.util.wolt.com
 docscustomercic.util.wolt.com
 document-service.wolt.com
+document-verification.util.wolt.com
 document-verification.wolt.com
 documentationq.util.wolt.com
 documentg.util.wolt.com
@@ -953,11 +962,13 @@ emea.wolt.com
 emeastageci.util.wolt.com
 emptyquarter.dev2.k.wolt.com
 emsbrotherprintero.dev2.k.wolt.com
+en.dev2.k.wolt.com
 en.wolt.com
 enc2y.dev2.k.wolt.com
 ene.dev2.k.wolt.com
 eng.util.wolt.com
 eng.wolt.com
+enginec.util.wolt.com
 engineering-v2internaly.util.wolt.com
 engineeringresetclientw.util.wolt.com
 engineeringsqi.util.wolt.com
@@ -994,6 +1005,7 @@ explore-betainvoicing-cmy.util.wolt.com
 explore-betay.wolt.com
 explore.util.wolt.com
 explore.wolt.com
+explorea.wolt.com
 ext.wolt.com
 external-lensbillingk.util.wolt.com
 external.wolt.com
@@ -1024,6 +1036,7 @@ fintech-courier-servicedistributionecom-plugin-api-shp.util.wolt.com
 fintech-courier-servicedistributionlinks.util.wolt.com
 fintech-courier-servicedistributionliveops.util.wolt.com
 fintech-courier-servicedistributionold-communications-service.util.wolt.com
+fintech-courier-servicedistributionprofiles.util.wolt.com
 fintech-courier-servicedistributionrentmeester-webhook.util.wolt.com
 fintech-courier-servicefg.util.wolt.com
 fintech-courier-services.util.wolt.com
@@ -1109,6 +1122,7 @@ gettercustomerci.util.wolt.com
 gettest.wolt.com
 getwolt.wolt.com
 getwolt7.wolt.com
+gg-teste.util.wolt.com
 ghcpiapp7.util.wolt.com
 ghnginxs.util.wolt.com
 gift-card-shop-http-api.wolt.com
@@ -1472,6 +1486,7 @@ rhod.wolt.com
 rhode.wolt.com
 rhodium.wolt.com
 rhone.wolt.com
+rht.wolt.com
 rhudson.wolt.com
 rhumatologie.wolt.com
 rhumba.wolt.com
@@ -1538,6 +1553,7 @@ ricsun.wolt.com
 riddik-worldhacker.wolt.com
 riddle.wolt.com
 riddler.wolt.com
+rideau.wolt.com
 ridertua.wolt.com
 ridgeback.wolt.com
 ridgeline.wolt.com
@@ -1557,6 +1573,7 @@ rko.wolt.com
 rkornfeld.wolt.com
 rkubala.wolt.com
 rlane.wolt.com
+rlb.wolt.com
 rle.wolt.com
 rll.wolt.com
 rlmc.wolt.com
@@ -1649,6 +1666,7 @@ tw.cdn.dev2.k.wolt.com
 twq.cdn.dev2.k.wolt.com
 u.wolt.com
 uranium.wolt.com
+uraniume.wolt.com
 us3.dev2.k.wolt.com
 us3u.dev2.k.wolt.com
 util.wolt.com
@@ -1741,6 +1759,7 @@ www.offering-service.wolt.com
 www.ops.wolt.com
 www.people.wolt.com
 www.personalisation-api.wolt.com
+www.press.wolt.com
 www.prod-wolt-venue-images-cdn.wolt.com
 www.prod.fg.wolt.com
 www.prod.k.wolt.com

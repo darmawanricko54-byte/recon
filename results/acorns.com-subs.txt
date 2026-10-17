@@ -11,6 +11,7 @@
 0t3ev.acorns.com
 0t3ev9.acorns.com
 1.acorns.com
+112.acorns.com
 118.acorns.com
 118.build.acorns.com
 119.acorns.com
@@ -157,6 +158,7 @@ account.api.build.acorns.com
 account.links.notifications.acorns.com
 accounting.acorns.com
 accountprofile.acorns.com
+accountprofile.app.acorns.com
 accounts.acorns.com
 accountstoney-appsttyk86.build.acorns.com
 accourse-newjersey.api.build.acorns.com
@@ -291,6 +293,7 @@ aningaui-cstagingfoiagrafana.acorns.com
 aningaui-cstagingfoiagrafana.nightfall-youngmoney-admin6.build.acorns.com
 aningaui.acorns.com
 aningauie.acorns.com
+antivirc.app.acorns.com
 antivirussistobrbrjbr-pwmbvigsvc.g.gi81.v1-7.docs.acorns.com
 apac.acorns.com
 ape.acorns.com
@@ -370,6 +373,7 @@ arbuckle.acorns.com
 arbuckle.app.acorns.com
 archive.acorns.com
 archive.build.acorns.com
+argolite-game-telite-gamet.acorns.com
 argolite-game-telite-gametk.acorns.com
 argolite.acorns.com
 argolitei.acorns.com
@@ -529,6 +533,7 @@ bigbrother.app.acorns.com
 bigfarmkarloroduction-737oia-dot-govapi.build.acorns.com
 billing.acorns.com
 biniwni.app.acorns.com
+bins9.barnet.app.acorns.com
 bio.acorns.com
 bisniscepatc.docs.canary.acorns.com
 bj.acorns.com
@@ -645,6 +650,7 @@ cargo.pkg.acorns.com
 carlisleunited.acorns.com
 carlisleunited.app.acorns.com
 carlisleunitede.app.acorns.com
+carrier.acorns.com
 carrier.app.acorns.com
 cart.acorns.com
 cas02fincom.acorns.com
@@ -683,6 +689,7 @@ cdq-apig.acorns.com
 cdq.acorns.com
 celestial.app.acorns.com
 center.acorns.com
+central.acorns.com
 centrali.acorns.com
 centraly.central.acorns.com
 cert.acorns.com
@@ -923,6 +930,7 @@ dance7.acorns.com
 danieapp.acorns.com
 danieapp.app.acorns.com
 danieappw.acorns.com
+dapi.acorns.com
 dart.pkg.acorns.com
 data.41.app.acorns.com
 data.acorns.com
@@ -1107,6 +1115,7 @@ dubozuobile-stagindevdatest213.www.mastergamersi58invisual001ptnv-jobbankapi.bui
 dubozuobile.acorns.com
 dubozuobilei.acorns.com
 dxp.acorns.com
+dyn.acorns.com
 dyn.app.acorns.com
 dyn9.app.acorns.com
 dz3.acorns.com
@@ -1322,6 +1331,7 @@ gcom-product-find-qa.app.acorns.com
 gcom.acorns.com
 gcp.a.app.acorns.com
 gcp.build.acorns.com
+geo.acorns.com
 get.acorns.com
 getaws.acorns.com
 gf.acorns.com
@@ -1344,6 +1354,7 @@ gitlab.deru.build.acorns.com
 gitlabc.app.acorns.com
 givpi.build.acorns.com
 global.acorns.com
+gmadizhipchatworketing-api.acorns.com
 gmadizhipchatworketing-api.mec-youngmoney-admin6.build.acorns.com
 gmadizhipchatworketing-api1.acorns.com
 gmadizhipchatworketing.acorns.com
@@ -1413,6 +1424,7 @@ grow-qa11.acorns.com
 grow-qa11y.acorns.com
 grow-qa13.acorns.com
 grow-qa13.build.acorns.com
+grow-qa13c.acorns.com
 grow-qa14.acorns.com
 grow-qa14k.build.acorns.com
 grow-s-dev012ouzhouzhouzhouzuqiubeiaomenpeilvapi.acorns.com
@@ -1426,6 +1438,7 @@ grow.acorns.com
 grow2.acorns.com
 growtest.acorns.com
 gslb.acorns.com
+gslb2.acorns.com
 gslb25.acorns.com
 gtm.acorns.com
 gts.acorns.com
@@ -1880,6 +1893,7 @@ nginx.app.acorns.com
 nightfall-youngmoney-admin6.build.acorns.com
 nightfall-youngmoney-admin67.build.acorns.com
 nish.app.acorns.com
+nishw.app.acorns.com
 nodejs-dev.app.acorns.com
 nodejs.app.acorns.com
 non-prod.app.acorns.com
@@ -1997,6 +2011,7 @@ pixe.app.acorns.com
 pixey.app.acorns.com
 pkg.acorns.com
 playlist.app.acorns.com
+pms.app.acorns.com
 pmsg.app.acorns.com
 pop.app.acorns.com
 pop.cs.build.acorns.com
@@ -2113,6 +2128,8 @@ rest2m.curso.build.acorns.com
 restorenadmin6.build.acorns.com
 restrict-security-internalytics.scraper.build.acorns.com
 retail.app.acorns.com
+retailc.app.acorns.com
+rev.acorns.com
 ribi.app.acorns.com
 ribik.app.acorns.com
 riv-amxmodero.roslin.app.acorns.com
@@ -2251,9 +2268,11 @@ sm5.app.acorns.com
 sm5k.app.acorns.com
 smail21-admin.acorns.com
 smail21-admin.build.acorns.com
+smail21.acorns.com
 smnetworkgogreecorenadmin6.papt.blogmonboarding.build.acorns.com
 smtp.app.acorns.com
 smtp.graphql.acorns.com
+smtpk.app.acorns.com
 snappring.app.acorns.com
 sohokorea22.app.acorns.com
 sohokorea22a.app.acorns.com
@@ -2322,6 +2341,7 @@ status.acorns.com
 stella-sr-net.app.acorns.com
 stella-sr-netu.app.acorns.com
 stg.acorns.com
+stickwar.app.acorns.com
 storage.227.build.acorns.com
 storage.236.build.acorns.com
 store.acorns.com
@@ -2662,6 +2682,7 @@ www.c.app.acorns.com
 www.capi-g.acorns.com
 www.capi.acorns.com
 www.careers.app.acorns.com
+www.cdn.acorns.com
 www.cdq-api.app.acorns.com
 www.check.app.acorns.com
 www.cim-api-dev.app.acorns.com
