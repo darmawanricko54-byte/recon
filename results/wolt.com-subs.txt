@@ -313,6 +313,7 @@ beta-courierg.wolt.com
 beta.wolt.com
 beta2-wolt-com-static-assets.util.wolt.com
 beta2-wolt-com-static-assets.wolt.com
+beta2-wolt-com-static-assetsk.wolt.com
 beta2.wolt.com
 betahub.util.wolt.com
 betainvoicinge.util.wolt.com
@@ -386,6 +387,7 @@ bucketaccessg.internal-backupuserjenkins.util.wolt.com
 bucketcic.util.wolt.com
 bundbit-de01c.mail.protection.dev2.k.wolt.com
 bungefarms-comq.mail.protection.dev2.k.wolt.com
+burningmoons.dev2.k.wolt.com
 bydanie-comm.mail.protection.dev2.k.wolt.com
 c-wdm.dev2.k.wolt.com
 c0570075-9952-4c81-8fbf-84703cd17b88.vpn.dev2.k.wolt.com
@@ -621,6 +623,7 @@ contragear-comk.mail.protection.dev2.k.wolt.com
 control.util.wolt.com
 controller.util.wolt.com
 converse-api-dd.wolt.com
+converse-api.util.wolt.com
 converse-api.wolt.com
 converse-apibc.wolt.com
 converse-attachments.wolt.com
@@ -873,6 +876,7 @@ distribution-githubhistory.util.wolt.com
 distribution-githubm.util.wolt.com
 distribution-kibana-testy.util.wolt.com
 distribution-kibanac.util.wolt.com
+distribution-kibanak8sy.util.wolt.com
 distribution-lookeribanaq.util.wolt.com
 distribution-payments-tips-servicehubm.util.wolt.com
 distribution-servicedistribution.util.wolt.com
@@ -888,6 +892,7 @@ dns2.authentication.wolt.com
 dockerbouncescm.util.wolt.com
 dockerc.util.wolt.com
 docsapi-prod-wolt-venue-images-cdnbhse.util.wolt.com
+docsapidevelopc.util.wolt.com
 docsapie.util.wolt.com
 docscustomercic.util.wolt.com
 document-service.wolt.com
@@ -984,6 +989,7 @@ es-lensbilling.util.wolt.com
 es.wolt.com
 escher3.util.wolt.com
 essentialsny-como.mail.protection.dev2.k.wolt.com
+esteveabogados-comw.mail.protection.dev2.k.wolt.com
 estudiarfisica.dev2.k.wolt.com
 eu-central-1.wolt.com
 eu-central-1a.wolt.com
@@ -1017,6 +1023,7 @@ f43f577f-c38a-4535-9eff-16f9484d0fc6.vpn.dev2.k.wolt.com
 fab3-2-grd.util.wolt.com
 facebookmaily.util.wolt.com
 farewaymeatmarketw.util.wolt.com
+fax.wolt.com
 faxentmeestefax9.util.wolt.com
 fg.wolt.com
 file-api-merchant-admina.util.wolt.com
@@ -1180,6 +1187,7 @@ help.converse-api.wolt.com
 help.converse-telemetry-api.wolt.com
 hexqjd455.util.wolt.com
 hirschi.util.wolt.com
+historytest.util.wolt.com
 home.converse-web-static.wolt.com
 home.courier-api.wolt.com
 home.wolt.com
@@ -1236,6 +1244,7 @@ le-customer-interaction-service.wolt.com
 le-test.wolt.com
 legacy-colander.wolt.com
 legacy-lensbillingm.util.wolt.com
+legitimizer.wolt.com
 lens.wolt.com
 lensbilling-admins1.util.wolt.com
 lensbilling-ghw.util.wolt.com
@@ -1442,6 +1451,7 @@ profumodilievito.wolt.com
 profvirtuel.wolt.com
 progate.wolt.com
 progbeat-vvche.wolt.com
+progers.wolt.com
 progman.wolt.com
 prognosticator.wolt.com
 progpl.wolt.com
@@ -1483,11 +1493,13 @@ rherman.wolt.com
 rhh.wolt.com
 rhmpc.wolt.com
 rhod.wolt.com
+rhodan.wolt.com
 rhode.wolt.com
 rhodium.wolt.com
 rhone.wolt.com
 rht.wolt.com
 rhudson.wolt.com
+rhum.wolt.com
 rhumatologie.wolt.com
 rhumba.wolt.com
 rhyolite.wolt.com
@@ -1559,6 +1571,7 @@ ridgeback.wolt.com
 ridgeline.wolt.com
 ridgewater.wolt.com
 rightcoast.wolt.com
+rightcoastconservative.wolt.com
 rightgun.wolt.com
 riitta.wolt.com
 rijn.wolt.com

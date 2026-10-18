@@ -52,6 +52,7 @@
 222.build.acorns.com
 223.acorns.com
 226.acorns.com
+227.acorns.com
 227.build.acorns.com
 227s.app.acorns.com
 228.acorns.com
@@ -194,6 +195,7 @@ adamforcongress-com.app.acorns.com
 adamforcongress-comu.app.acorns.com
 addy.acorns.com
 addy.users.app.acorns.com
+adev.acorns.com
 adev012ouzuqiubeiaomenpeilvapi-mobile-app.build.acorns.com
 adfines.app.acorns.com
 adh.app.acorns.com
@@ -365,6 +367,7 @@ apps.acorns.com
 appsc.us.acorns.com
 appse.dev.acorns.com
 apptemp.acorns.com
+apptempw.acorns.com
 appv1-7.docs.acorns.com
 appweb.acorns.com
 appweb.deru.build.acorns.com
@@ -408,6 +411,7 @@ assetsmoneyplafuzhoubanjiagongsi.api.build.acorns.com
 assetsmoneyplafuzhoubanjiagongsi.build.acorns.com
 assetsmoneyplafuzhoubanjiagongsi.curso.build.acorns.com
 assetsmoneyplafuzhoubanjiagongsii.acorns.com
+assetsmoneyplafuzhoubanjiagongsiu.build.acorns.com
 assetsmoneyplan.a.build.acorns.com
 assetsmoneyplan.acorns.com
 assetsmoneyplan.scraper.build.acorns.com
@@ -506,8 +510,10 @@ bcst-xinwangzhandaekimahabandaekimages.fmonboarding.build.acorns.com
 bcst-xinwangzhandaekimahabandaekimageso.acorns.com
 bcst.acorns.com
 bcst9.build.acorns.com
+bdc.acorns.com
 bde.build.acorns.com
 bdek.build.acorns.com
+be.acorns.com
 bemarvest.app.acorns.com
 bents.deru.build.acorns.com
 bentsc.deru.build.acorns.com
@@ -638,6 +644,7 @@ calis.app.acorns.com
 calis7.acorns.com
 callingservicesdev-appwebsite.acorns.com
 campaign.acorns.com
+campaigna.acorns.com
 canary.acorns.com
 candbox.acorns.com
 cap.acorns.com
@@ -712,6 +719,7 @@ chat.documents.build.acorns.com
 chat.graphql.acorns.com
 chata.api.acorns.com
 chatyjjang1-254finsys-staging.app.acorns.com
+chatyjjangsubnet-254finsys-preprodgo.app.acorns.com
 chatyjjangsubnet-254finsys-staging.app.acorns.com
 chatyjjangyoungmoney-254finsys-staging.app.acorns.com
 check.acorns.com
@@ -748,6 +756,7 @@ cisco-uds.tcp.app.acorns.com
 cisco-udsa.tcp.app.acorns.com
 citg-m.acorns.com
 citg-s.acorns.com
+citrix.acorns.com
 citrix.app.acorns.com
 citrix5.app.acorns.com
 clc-cif-dcfcust213assetsadmin.app.acorns.com
@@ -823,6 +832,7 @@ collab-edge.app.acorns.com
 collab-edge.tls.app.acorns.com
 collab-edgea.tls.app.acorns.com
 collab.app.acorns.com
+collabe.app.acorns.com
 collie.app.acorns.com
 collieg.app.acorns.com
 com-errors-betaciento4api.app.acorns.com
@@ -870,6 +880,7 @@ connect.acorns.com
 connect.eks.acorns.com
 connectm.eks.acorns.com
 console-service.acorns.com
+console-servicey.acorns.com
 console.acorns.com
 console7.acorns.com
 consul.acorns.com
@@ -913,6 +924,7 @@ cursoa.build.acorns.com
 cust.acorns.com
 cust115.acorns.com
 cust2u.acorns.com
+cust65.acorns.com
 cust90.acorns.com
 customer.acorns.com
 cveapi.acorns.com
@@ -1091,6 +1103,7 @@ dottermotwittere.acorns.com
 dottermotwitterk.app.acorns.com
 download.acorns.com
 download.app.acorns.com
+download2u-sanpo-shopping-com.acorns.com
 download2u-sanpo-shopping-com.papt.blogmonboarding.build.acorns.com
 download2u.acorns.com
 download2ug.acorns.com
@@ -1150,6 +1163,7 @@ elay1s3test-service-productions.scraper.build.acorns.com
 elay1s3test-service-productions.webinar.build.acorns.com
 elay1s3test-service-productionsa.acorns.com
 elay1s3test.acorns.com
+elay1s3testk.acorns.com
 elayphds3test-service-produc.acorns.com
 elayphds3test-service-productions.acorns.com
 elayphds3test-service-productionso.acorns.com
@@ -1168,6 +1182,7 @@ emailmarketingg.app.acorns.com
 emea.acorns.com
 empikbetanawac7zefmq3.acorns.com
 empikbetanawac7zefmq3.apih1mb7api.build.acorns.com
+empikbetanawac7zefmq3a.apih1mb7api.build.acorns.com
 employeebenefits.acorns.com
 employeebenefits7.acorns.com
 employeebenefitss.acorns.com
@@ -1265,15 +1280,18 @@ found-money-admin-assets-devi.build.acorns.com
 found-money-admin-assets-staging.acorns.com
 found-money-admin-assets.acorns.com
 found-money-admin-assetsc.acorns.com
+found.acorns.com
 found5.acorns.com
 foungmoney-ad.build.acorns.com
 foungmoney-ad.webinar.build.acorns.com
+foungmoney-adk.webinar.build.acorns.com
 foungmontanalyticketing-appfile-apizmba.webinar.build.acorns.com
 fount.acorns.com
 fount.deru.build.acorns.com
 fountc.deru.build.acorns.com
 fountm.acorns.com
 foxnet.app.acorns.com
+fr-kusanagiommunityaime-demo-kubectl.docs.acorns.com
 fr.acorns.com
 fragile.app.acorns.com
 frends.acorns.com
@@ -1500,6 +1518,7 @@ hoaloha-ohanaband-como.app.acorns.com
 hoaloha.acorns.com
 hoalohac.acorns.com
 hoken.acorns.com
+hokenm.acorns.com
 home.222.build.acorns.com
 home.236.build.acorns.com
 home.acorns.com
@@ -1592,6 +1611,7 @@ ipv6.app.acorns.com
 ipv6w.app.acorns.com
 ir.acorns.com
 is1.app.acorns.com
+is19.app.acorns.com
 ishil1sanpo-shopping.papt.blogmonboarding.build.acorns.com
 isupport-appleidu.app.acorns.com
 italie.acorns.com
@@ -1889,6 +1909,7 @@ newu.app.acorns.com
 nginx-newest.app.acorns.com
 nginx-newest1.app.acorns.com
 nginx-newest1w.app.acorns.com
+nginx-newest9.app.acorns.com
 nginx.app.acorns.com
 nightfall-youngmoney-admin6.build.acorns.com
 nightfall-youngmoney-admin67.build.acorns.com
@@ -1995,8 +2016,10 @@ patmos1.app.acorns.com
 patmos1g.app.acorns.com
 pcf.acorns.com
 pciento4api.app.acorns.com
+pciento4apig.app.acorns.com
 pcsrc.acorns.com
 pcsrc.kis.app.acorns.com
+pec.app.acorns.com
 petas1426devticketing-046api.build.acorns.com
 petas1426devticketing-046apii.build.acorns.com
 phd.acorns.com
@@ -2026,6 +2049,7 @@ portal.a.build.acorns.com
 portal.app.acorns.com
 portal.apple.app.acorns.com
 portal5.app.acorns.com
+porti.acorns.com
 postmaster.app.acorns.com
 ppls.app.acorns.com
 pplsa.app.acorns.com
@@ -2371,6 +2395,7 @@ symac.app.acorns.com
 t.acorns.com
 t01ptnv-jobbankapi.build.acorns.com
 taiyuanjinhongyulechengets-staticketis.staging.comoday242api.build.acorns.com
+tcp.app.acorns.com
 tcpw.app.acorns.com
 teacera.app.acorns.com
 tealohanages.fmonboarding.build.acorns.com
@@ -2683,7 +2708,9 @@ www.capi-g.acorns.com
 www.capi.acorns.com
 www.careers.app.acorns.com
 www.cdn.acorns.com
+www.cdn.app.acorns.com
 www.cdq-api.app.acorns.com
+www.certificate.app.acorns.com
 www.check.app.acorns.com
 www.cim-api-dev.app.acorns.com
 www.cim-api-qa.app.acorns.com
@@ -2705,6 +2732,7 @@ www.collab-edge.app.acorns.com
 www.collab-edge.tls.app.acorns.com
 www.collab.app.acorns.com
 www.consul.app.acorns.com
+www.cp.app.acorns.com
 www.cpanel.app.acorns.com
 www.cuplogin.app.acorns.com
 www.cuplogin.tcp.app.acorns.com
@@ -2772,6 +2800,7 @@ wwwa.projectx.app.acorns.com
 wwwa.webinar.build.acorns.com
 wwwa.win.acorns.com
 wwwc.41.app.acorns.com
+wwwc.app.acorns.com
 wwwdocuments.acorns.com
 wwwdocuments.documents.build.acorns.com
 wwwi.api-app.acorns.com
