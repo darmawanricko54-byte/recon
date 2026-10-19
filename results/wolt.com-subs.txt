@@ -86,6 +86,7 @@
 4nz6.dev2.k.wolt.com
 532c.dev2.k.wolt.com
 572eaa7f-e434-498e-8a6b-09a5936526d7.vpn.dev2.k.wolt.com
+5a2.dev.dev2.k.wolt.com
 5avh.dev2.k.wolt.com
 5b238.dev2.k.wolt.com
 5c70da.dev2.k.wolt.com
@@ -145,6 +146,7 @@ acessoeditora1.dev2.k.wolt.com
 ach.dev2.k.wolt.com
 achw.dev2.k.wolt.com
 acrinym-comq.mail.protection.dev2.k.wolt.com
+activategoldenqam.dev2.k.wolt.com
 ad-server-exchange.wolt.com
 ad-server-exchangew.wolt.com
 ad-server-indexing.wolt.com
@@ -377,6 +379,7 @@ branford-crupgard-dk3.mail.protection.dev2.k.wolt.com
 britneysbitch.dev2.k.wolt.com
 broker-explorem.util.wolt.com
 broker-jr.wolt.com
+broker-jrq.wolt.com
 broker.wolt.com
 broker3.util.wolt.com
 brothertech5.dev2.k.wolt.com
@@ -794,6 +797,7 @@ dev.s3.util.wolt.com
 dev.wolt.com
 dev1.payment-service.wolt.com
 dev2-nginx-ingress-internal-nlb.wolt.com
+dev2-nginx-ingress-internal-nlb3.util.wolt.com
 dev2-nginx-ingress-internal.wolt.com
 dev2-nginx-ingress-internalcibhsq.util.wolt.com
 dev2-nginx-ingress-internalo.wolt.com
@@ -1048,12 +1052,14 @@ fintech-courier-servicedistributionrentmeester-webhook.util.wolt.com
 fintech-courier-servicefg.util.wolt.com
 fintech-courier-services.util.wolt.com
 fintech-courier-zabbixe.util.wolt.com
+fintech-coutesterietester-setestervicedisttesteribution.util.wolt.com
 fintech-couwebappiewebapp-sewebappvicedistwebappibution.util.wolt.com
 fintech-customerci-servicedistribution.util.wolt.com
 fintech-hta.wolt.com
 fintech-htaibana-gisti.util.wolt.com
 fintech-htaw.wolt.com
 fintech-restaurant-servicedistributionu.util.wolt.com
+fintechg.util.wolt.com
 firewall-billing-exploree.util.wolt.com
 firewallg.util.wolt.com
 fleet.wolt.com
@@ -1104,6 +1110,7 @@ fulfillment-tools-static-assets.wolt.com
 fulfillment.wolt.com
 fulfillmentbillinga.util.wolt.com
 fullerton1.util.wolt.com
+g0ddql0yq.util.wolt.com
 galaxyi.util.wolt.com
 gatekeeper.wolt.com
 gateway-elastic.server.util.wolt.com
@@ -1164,6 +1171,7 @@ grafana.wolt.com
 grafana2.wolt.com
 grafana2c.util.wolt.com
 grafana2client-pos9.util.wolt.com
+grafana2prod-wolt-venue-images-cdnbhsw.util.wolt.com
 grafana3-lensbilling.util.wolt.com
 grafana3.wolt.com
 grafana39.util.wolt.com
@@ -1185,6 +1193,7 @@ headlandq.util.wolt.com
 headshotg.util.wolt.com
 help.converse-api.wolt.com
 help.converse-telemetry-api.wolt.com
+helpdesk.wolt.com
 hexqjd455.util.wolt.com
 hirschi.util.wolt.com
 historytest.util.wolt.com
@@ -1208,6 +1217,7 @@ int.wolt.com
 integrations-authentication-service.wolt.com
 integrations-dev-lensbillingq.util.wolt.com
 integrations-dev.wolt.com
+integrations-master.wolt.com
 integrations-masteri.wolt.com
 integrations.wolt.com
 integrationso.wolt.com
@@ -1398,6 +1408,7 @@ proctor.wolt.com
 procyon.wolt.com
 prod-empresarial.wolt.com
 prod-infinitum.wolt.com
+prod-nginx-ingress-internal-ws.wolt.com
 prod-videos.wolt.com
 prod-videose.wolt.com
 prod-wolt-venue-images-cdn.wolt.com
@@ -1579,6 +1590,7 @@ riks.wolt.com
 riksun.wolt.com
 rilexnet.wolt.com
 rjoseph.wolt.com
+rkelly.wolt.com
 rkennedy.wolt.com
 rkm.wolt.com
 rknuteson.wolt.com
