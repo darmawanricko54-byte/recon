@@ -24,6 +24,7 @@
 107priorefa.dev2.k.wolt.com
 10kwizard.dev2.k.wolt.com
 114426g.dev2.k.wolt.com
+11xkg.dev2.k.wolt.com
 12011996.dev2.k.wolt.com
 121248g.dev2.k.wolt.com
 121group-io.mail.protection.dev2.k.wolt.com
@@ -147,12 +148,14 @@ ach.dev2.k.wolt.com
 achw.dev2.k.wolt.com
 acrinym-comq.mail.protection.dev2.k.wolt.com
 activategoldenqam.dev2.k.wolt.com
+activec.util.wolt.com
 ad-server-exchange.wolt.com
 ad-server-exchangew.wolt.com
 ad-server-indexing.wolt.com
 ad-server-indexingm.wolt.com
 ad.wolt.com
 adidas.util.wolt.com
+adm.b.db.dev2.k.wolt.com
 admin-accountk.bucket.2020auth-s3.util.wolt.com
 admin-v2s3.util.wolt.com
 admin.wolt.com
@@ -235,6 +238,7 @@ arkon-servicesw.mail.protection.dev2.k.wolt.com
 armin2afm92s.dev2.k.wolt.com
 arohabahugunam.dev2.k.wolt.com
 artifactory.util.wolt.com
+artq.seduction.dev2.k.wolt.com
 artsamuse-comi.mail.protection.dev2.k.wolt.com
 asanaa.util.wolt.com
 ascendcorp-co-jp01eq.mail.protection.dev2.k.wolt.com
@@ -442,6 +446,7 @@ cdndistributiona.util.wolt.com
 cdnkibana.util.wolt.com
 cebulon-com.mail.protection.dev2.k.wolt.com
 cec.dev2.k.wolt.com
+cecm.dev2.k.wolt.com
 cedarbaycapital-com.mail.protection.dev2.k.wolt.com
 celeste-cibackupm.util.wolt.com
 celeste.wolt.com
@@ -460,6 +465,7 @@ chefdatamill-ci.util.wolt.com
 chefdatamillq.util.wolt.com
 chem.wolt.com
 chenanan.dev2.k.wolt.com
+chinaannog.en.dev2.k.wolt.com
 chopini.lib.dev2.k.wolt.com
 ci-administinvoicingatoinvoicingg.util.wolt.com
 ci-administrator-docker.util.wolt.com
@@ -546,6 +552,7 @@ cm-daas-self-service-manage.util.wolt.com
 cm-people-self-service-api.util.wolt.com
 cm-trumpvshillary.util.wolt.com
 cmblog-development.util.wolt.com
+cmblog-europew.util.wolt.com
 cmblog-merchant-data-apim.util.wolt.com
 cmblogc.util.wolt.com
 cmcontrollere.util.wolt.com
@@ -610,6 +617,7 @@ consumer-api.wolt.com
 consumer-apio.util.wolt.com
 consumer-events-ci-administratork.util.wolt.com
 consumer-events.wolt.com
+consumer-gateway.util.wolt.com
 consumer-pricing-grpc.wolt.com
 consumer-pricing-grpcg.wolt.com
 consumer-static-assets.wolt.com
@@ -734,6 +742,7 @@ datamill-ci.util.wolt.com
 datamill-ciinvoicing-servicei.util.wolt.com
 datamill-cipicassok.util.wolt.com
 datamill-ciservicedistributionw.util.wolt.com
+datamill-client-poso.util.wolt.com
 datamill-master-cmpicker-api-merchant-admin.util.wolt.com
 datamill-master.util.wolt.com
 datamill-master.wolt.com
@@ -942,6 +951,7 @@ elastice.util.wolt.com
 elasticibanaa.util.wolt.com
 elasticsearch1.wolt.com
 elasticsearch2.wolt.com
+elasticsearch2k.util.wolt.com
 elektropower-bee.mail.protection.dev2.k.wolt.com
 elgatok.util.wolt.com
 eliveopsg.util.wolt.com
@@ -1649,6 +1659,7 @@ search-billing.util.wolt.com
 sec.util.wolt.com
 seduction.dev2.k.wolt.com
 selfhost.corp.dev2.k.wolt.com
+server.util.wolt.com
 servero.util.wolt.com
 serviceo.account.server.util.wolt.com
 services.wolt.com

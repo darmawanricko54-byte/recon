@@ -60,6 +60,7 @@
 229.acorns.com
 231.acorns.com
 232.acorns.com
+234.acorns.com
 236.acorns.com
 236.build.acorns.com
 238.acorns.com
@@ -79,6 +80,7 @@
 2k.dev-disco.acorns.com
 3-17.chatyjjangsubnet-254finsys-staging.app.acorns.com
 3-17e.chatyjjangsubnet-254finsys-staging.app.acorns.com
+3.acorns.com
 3.build.acorns.com
 33-73zubong1-logindevticketingfoia-dot-gov.app.acorns.com
 33.acorns.com
@@ -185,6 +187,7 @@ acrylhoaloha-oha-oha-oha-oha-ohanabandaekimage-dev01.papt.blogmonboarding.build.
 action-feed.acorns.com
 action.acorns.com
 actionfeedsrv.acorns.com
+ad.acorns.com
 ad32ana.acorns.com
 ad32ana.dealer.build.acorns.com
 ad32anau.dealer.build.acorns.com
@@ -356,6 +359,7 @@ appfile.build.acorns.com
 appi.build.acorns.com
 appl.com.app.acorns.com
 apple-gift.app.acorns.com
+apple.acorns.com
 apple.app.acorns.com
 appleidq.app.acorns.com
 appleidu.appl.com.app.acorns.com
@@ -469,6 +473,7 @@ awsdashboard.app.acorns.com
 awsdashboard7.app.acorns.com
 awww1.app.acorns.com
 azdev.acorns.com
+azdevu.acorns.com
 azure.build.acorns.com
 azure.documents.build.acorns.com
 b.acorns.com
@@ -480,6 +485,7 @@ back.acorns.com
 back.build.acorns.com
 backend-redis.acorns.com
 backend.acorns.com
+backend9.acorns.com
 backendmoneyplan.acorns.com
 backendmoneyplanw.acorns.com
 backo.build.acorns.com
@@ -728,6 +734,7 @@ chem.acorns.com
 chuangye.app.acorns.com
 ci.acorns.com
 ci.fr-kusanagiommunityaime-demo-kubectl.docs.acorns.com
+cica.acorns.com
 cica.app.acorns.com
 cicac.app.acorns.com
 cim-api-dev.app.acorns.com
@@ -1194,8 +1201,10 @@ employeebenefitss.acorns.com
 employeebento2-ad.acorns.com
 employeebento2-ad.api.build.acorns.com
 employeebento2-ad.dealer.build.acorns.com
+employeebento2-ada.api.build.acorns.com
 employeebento2-adm.acorns.com
 employeebento2-adminesearch.a.build.acorns.com
+employeebento2-adminesearch.acorns.com
 employeebento2-adminesearcha.a.build.acorns.com
 employeebento2-adminesearcho.acorns.com
 employeebento2.acorns.com
@@ -1296,6 +1305,7 @@ fount.acorns.com
 fount.deru.build.acorns.com
 fountc.deru.build.acorns.com
 fountm.acorns.com
+foxnet.acorns.com
 foxnet.app.acorns.com
 fr-kusanagiommunityaime-demo-kubectl.docs.acorns.com
 fr.acorns.com
@@ -1819,6 +1829,7 @@ meteo.app.acorns.com
 meteos.app.acorns.com
 metis.acorns.com
 metrics.app.acorns.com
+metricsa.app.acorns.com
 mgi.dealer.build.acorns.com
 mgie.dealer.build.acorns.com
 mgmt.acorns.com
@@ -1866,6 +1877,7 @@ mpc.acorns.com
 mrs.acorns.com
 mrs.app.acorns.com
 mrsm.app.acorns.com
+ms-exchange.acorns.com
 msc.acorns.com
 msierrors-beta.a.build.acorns.com
 msierrors-betam.a.build.acorns.com
@@ -1982,6 +1994,7 @@ office5.app.acorns.com
 ohanaband.build.acorns.com
 oilotaku.app.acorns.com
 okta.app.acorns.com
+ol.acorns.com
 old.app.acorns.com
 oldhost.app.acorns.com
 omdesignkr-tubepinkdevfinco1vbvzlogindevticketingfoiaapi.build.acorns.com
@@ -2176,6 +2189,7 @@ rocking.app.acorns.com
 root.app.acorns.com
 roota.app.acorns.com
 roslin.app.acorns.com
+roslinightfall-youngmoney-admin6.build.acorns.com
 roslinightfall-youngmoney-admin67.build.acorns.com
 rrze.acorns.com
 rsonline.app.acorns.com
@@ -2708,6 +2722,7 @@ www.assets.app.acorns.com
 www.auth.acorns.com
 www.auth.app.acorns.com
 www.autoconfig.app.acorns.com
+www.awsdashboard.app.acorns.com
 www.b.app.acorns.com
 www.basic-nodejs-dev.app.acorns.com
 www.basic.app.acorns.com
