@@ -279,6 +279,7 @@ ameet.app.acorns.com
 ameetw.app.acorns.com
 amer.acorns.com
 amicus.app.acorns.com
+ams.acorns.com
 amxmodero.acorns.com
 amxmodero5.acorns.com
 analytics.41.app.acorns.com
@@ -341,6 +342,7 @@ apis.acorns.com
 apistaging.acorns.com
 apistaging.build.acorns.com
 apistaginga.build.acorns.com
+apistagingc.acorns.com
 apiu.uat.acorns.com
 apiweb.acorns.com
 apiweb.build.acorns.com
@@ -594,6 +596,7 @@ br.acorns.com
 brasil.acorns.com
 brass.acorns.com
 btpspicpend.api.build.acorns.com
+btpspicpendi.api.build.acorns.com
 btr.acorns.com
 bu.acorns.com
 bubuild3.app.acorns.com
@@ -1150,6 +1153,7 @@ e.app.acorns.com
 early.acorns.com
 earn.acorns.com
 east.acorns.com
+ecs.acorns.com
 eddocuments.build.acorns.com
 edge.228.build.acorns.com
 edge.app.acorns.com
@@ -1326,6 +1330,7 @@ ftpa.app.acorns.com
 fw.app.acorns.com
 fx.acorns.com
 g.acorns.com
+g.gi81.v1-7.docs.acorns.com
 g0k.build.acorns.com
 g0kg.build.acorns.com
 ga.app.acorns.com
@@ -1344,6 +1349,7 @@ gamec.app.acorns.com
 gameserversogindevticketingfoia-dot-gov.acorns.com
 gameserversogindevticketingfoia-dot-gov.app.acorns.com
 gameserversogindevticketingfoia-dot-gove.app.acorns.com
+gameserversogindevticketingfoia.acorns.com
 gamestore.acorns.com
 gamestorem.acorns.com
 gamet.acorns.com
@@ -1467,6 +1473,7 @@ grow-stg01.acorns.com
 grow-stg01s.acorns.com
 grow-stg02.acorns.com
 grow-stg02c.acorns.com
+grow-stg03.acorns.com
 grow-stg03a.acorns.com
 grow.acorns.com
 grow2.acorns.com
@@ -1664,6 +1671,7 @@ k8s.links.notifications.acorns.com
 kafka-4.acorns.com
 kafka.acorns.com
 kafka.dev.acorns.com
+kafkac.dev.acorns.com
 kbnco1vbvzlogindevticketiyudq5.cs.build.acorns.com
 kbnco1vbvzlogindevticketiyudq5e.cs.build.acorns.com
 khainestar.users.app.acorns.com
@@ -2050,6 +2058,7 @@ phd.app.acorns.com
 pheonix.app.acorns.com
 pheonixk.app.acorns.com
 phoebe.app.acorns.com
+phoebei.app.acorns.com
 phongvu.app.acorns.com
 phylab.app.acorns.com
 physics.acorns.com
@@ -2198,6 +2207,7 @@ rtasched1fec-staging.curso.build.acorns.com
 rtasched1fec-staginge.build.acorns.com
 rtasched1fec-stagingm.curso.build.acorns.com
 rtaswww.deru.build.acorns.com
+rtpnc.acorns.com
 ruby.pkg.acorns.com
 ruda.app.acorns.com
 rx.app.acorns.com
@@ -2214,6 +2224,7 @@ s3.fmonboarding.build.acorns.com
 s315ipmi4fwxun9vj.build.acorns.com
 s4240ipmijscottauthorgrow-dev01montana.app.acorns.com
 s4240ipmijscottauthorgrow-dev01montana7.app.acorns.com
+safa.app.acorns.com
 safao.app.acorns.com
 safetyclicksgrow-dev-simulatorsbento4api.app.acorns.com
 salmankhan.app.acorns.com
@@ -2597,6 +2608,7 @@ wap.app.acorns.com
 wapy.app.acorns.com
 warehouse.acorns.com
 wcodetoungmoney.acorns.com
+wd.acorns.com
 web-api-money-admin-assets-stagin-asset4s-dev.ns.signin.acorns.com
 web-app.acorns.com
 web-appa.acorns.com
@@ -2790,6 +2802,7 @@ www.home.app.acorns.com
 www.horo.app.acorns.com
 www.hsl.app.acorns.com
 www.ir.acorns.com
+www.isupport-appleid.app.acorns.com
 www.laser.app.acorns.com
 www.liga.app.acorns.com
 www.lit.app.acorns.com

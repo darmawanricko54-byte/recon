@@ -1010,6 +1010,7 @@ eu-central-1a.wolt.com
 eu-dd-internal.wolt.com
 eugenequells.us3.dev2.k.wolt.com
 europe7.util.wolt.com
+europeanw.util.wolt.com
 europepos.util.wolt.com
 europewest-api-merchant-admin.util.wolt.com
 europewest-bhsw.util.wolt.com
@@ -1074,6 +1075,7 @@ firewall-billing-exploree.util.wolt.com
 firewallg.util.wolt.com
 fleet.wolt.com
 fleetmill.wolt.com
+fleetmillavataribana.util.wolt.com
 fleetmillbroker-jr.util.wolt.com
 fleetmillcibhsw.util.wolt.com
 fleetmilldev-nginx-ingress-internal-wso.util.wolt.com
@@ -1255,6 +1257,7 @@ k8s.wolt.com
 kayz.util.wolt.com
 kenna.util.wolt.com
 kesasyomarit.wolt.com
+kibana.wolt.com
 kubernetes.discovery-cdn.wolt.com
 kubernetes.wolt.com
 kunden.wolt.com
@@ -1395,6 +1398,7 @@ personalisation-api.wolt.com
 personalisation-api5.wolt.com
 photos.dev2.k.wolt.com
 photosm.dev2.k.wolt.com
+physics.wolt.com
 picker-api-merchant-admin.wolt.com
 picker-api.wolt.com
 picker-apio.wolt.com
