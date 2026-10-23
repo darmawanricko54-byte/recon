@@ -41,6 +41,7 @@
 1c.oca.acorns.com
 1tokkun-com.acorns.com
 1tokkun-com.documents.build.acorns.com
+1tokkun-comg.acorns.com
 1tokkun-comw.documents.build.acorns.com
 1tokkun.acorns.com
 1tokkunc.acorns.com
@@ -145,6 +146,7 @@ a.acorns.com
 a.app.acorns.com
 a.build.acorns.com
 a1.top.acorns.com
+aae.ad.acorns.com
 aag.acorns.com
 aag.deru.build.acorns.com
 abenetoungmonetworkgogreecorns.build.acorns.com
@@ -971,6 +973,7 @@ dbmaster.finsys.acorns.com
 dbmaster.notificationsys.acorns.com
 dbmaster.offersys.acorns.com
 dbmaster.stage.acorns.com
+dbmastero.acorns.com
 dc.app.acorns.com
 dc3.acorns.com
 dcfcust213assetsadmin.build.acorns.com
@@ -1028,6 +1031,7 @@ devel.acorns.com
 developer.acorns.com
 developerg.acorns.com
 devg.api.acorns.com
+devi.dev.acorns.com
 device-sys.acorns.com
 device-syso.acorns.com
 device.acorns.com
@@ -1214,6 +1218,7 @@ employeebento2-adminesearcho.acorns.com
 employeebento2.acorns.com
 en.acorns.com
 en.app.acorns.com
+en7.acorns.com
 en7.build.acorns.com
 en7.scraper.build.acorns.com
 en7.webinar.build.acorns.com
@@ -1320,6 +1325,7 @@ frendsq.app.acorns.com
 frontend-qa.acorns.com
 frontend.acorns.com
 frontendu.acorns.com
+fsd.acorns.com
 ftl.acorns.com
 ftp.118.build.acorns.com
 ftp.227.build.acorns.com
@@ -1492,8 +1498,10 @@ gwilddev.acorns.com
 gwilddevg.acorns.com
 gws-api-sandbox.acorns.com
 gws-api-sandbox.app.acorns.com
+gws-api-sandboxu.acorns.com
 gws-dev.acorns.com
 gws-dev.app.acorns.com
+gws-dev3.app.acorns.com
 gws-deve.acorns.com
 gws-qa.acorns.com
 gws-qa.app.acorns.com
@@ -1558,6 +1566,7 @@ horeca.app.acorns.com
 horo.app.acorns.com
 host-209-149-114-97.api.build.acorns.com
 host.app.acorns.com
+host7.app.acorns.com
 hostmaster.app.acorns.com
 hsl.acorns.com
 hsl.app.acorns.com
@@ -1717,6 +1726,7 @@ learn.acorns.com
 ledgeapi.acorns.com
 ledgeapi.curso.build.acorns.com
 ledgeapia.curso.build.acorns.com
+lena.acorns.com
 les.app.acorns.com
 lesy.app.acorns.com
 lg2010shil1sandaekimagpie-014.papt.blogmonboarding.build.acorns.com
@@ -2157,6 +2167,7 @@ r.r.app.acorns.com
 r2482.webinar.build.acorns.com
 r24869076.a.build.acorns.com
 r24869076.scraper.build.acorns.com
+r24869076a.a.build.acorns.com
 r24869136.webinar.build.acorns.com
 raritan1.app.acorns.com
 redis-backend-moneyplanredisdevel.deru.build.acorns.com
@@ -2777,6 +2788,7 @@ www.cpanel.app.acorns.com
 www.cuplogin.app.acorns.com
 www.cuplogin.tcp.app.acorns.com
 www.curso.build.acorns.com
+www.dev.acorns.com
 www.dmarc.app.acorns.com
 www.early.acorns.com
 www.earn.acorns.com

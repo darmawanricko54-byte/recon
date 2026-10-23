@@ -54,6 +54,7 @@ analytics.storybook.shopify.io
 analyticsi.storybook.shopify.io
 angry-owl.shopify.io
 antoniam-staging.shopify.io
+antoniam-staging7.shopify.io
 antoniam.shopify.io
 antoniamg.shopify.io
 api-gateway-sandbox-store.cf-experiment.shopify.io
@@ -110,6 +111,7 @@ aquifer.shopify.io
 ar.ci1.shopify.io
 ar.shopify.io
 arfy.shopify.io
+argus.chi2.shopify.io
 argus9.ash.shopify.io
 argus9.chi.shopify.io
 artifact.shopify.io
@@ -217,6 +219,7 @@ blogs-infrasec-normalizer.shopify.io
 blogs-internal-identity-graph.shopify.io
 blogs-superset-worker-staging-monitor.shopify.io
 blogs-superset-worker-staging-monitori.shopify.io
+blogs-tracing-api-staging.shopify.io
 blogs-tracing-api-stagingy.shopify.io
 blogs-vegas-registry.macstadium.shopify.io
 blogs.ejson-keyring-staging.shopify.io
@@ -285,6 +288,7 @@ boards-angry-owl.shopify.io
 boards-clouddo-ui-staging.shopify.io
 boards-clouddo-ui-stagingo.shopify.io
 boards-dev-success-training.shopify.io
+boards-gradle-build-cache.shopify.io
 boards-mobile-polaris-coverage.shopify.io
 boards-mobile-staging.shopify.io
 boards-mobile-stagingi.shopify.io
@@ -308,6 +312,7 @@ boards7.mobile-staging.shopify.io
 boards9.admin-nav-prototype.shopify.io
 boardsafer-staging.shopify.io
 boardsafer-stagingq.shopify.io
+boardsangry-owl.shopify.io
 boardsangry-owls.shopify.io
 boardsbladerunner-staging.shopify.io
 boardsbladerunner-staging1.shopify.io
@@ -384,6 +389,7 @@ book-unicorn-stagingg.shopify.io
 book1.sdp-metadata-stg.shopify.io
 book5.openai-proxy.shopify.io
 book7.trust-battery-staging.shopify.io
+booka.plus-website-staging5.shopify.io
 bookangry-owl.shopify.io
 bookbladerunner-staging.shopify.io
 bookbladerunner-staginga.shopify.io
@@ -580,6 +586,7 @@ box-melody.shopify.io
 box-mozart-staging.shopify.io
 box-notary-staging.shopify.io
 box-notary-stagingw.shopify.io
+box-obliviate.shopify.io
 box-plinko.shopify.io
 box-shop-chat-ai.shopify.io
 box-shop.shopify.io
@@ -655,6 +662,7 @@ brand-mozart-stagingk.shopify.io
 brand-obliviate.shopify.io
 brand-plinko.shopify.io
 brand-rpck.melody.shopify.io
+brand-smtp-relay.shopify.io
 brand-smtp-relayc.shopify.io
 brand-speedscope.shopify.io
 brand-stream.shopify.io
@@ -844,6 +852,7 @@ broadcast-ipm.km-tech.shopify.io
 broadcast-ipottawau.shopify.io
 broadcast-ipq.explainify.shopify.io
 broadcast-ips.beacon.shopify.io
+broadcast-ipu.chatsql.shopify.io
 broadcast-ipw.arfy.shopify.io
 broadcast-ipw.ottawa.shopify.io
 brochure-blog-chatbot.shopify.io
@@ -1298,6 +1307,7 @@ github-app-catalogs.shopify.io
 gitstream-k8s-hackdays-env1.gitstream.shopify.io
 gitstream.shopify.io
 globe-sse-central.shopify.io
+globe-sse-east.shopify.io
 globe-sse-sphere-central.shopify.io
 globe-sse-sphere-east.shopify.io
 globe.shopify.io
@@ -1641,6 +1651,7 @@ memory.aquifer-staging-7.shopify.io
 memory.aquifer-staging-8.shopify.io
 memory.aquifer-staging.shopify.io
 memory.aquifer.shopify.io
+merchant-account-email-relay.shopify.io
 merchant-explorer-staging.shopify.io
 merchant-explorer.shopify.io
 merchant-growth-recommender-inference-sandbox.shopify.io
@@ -2194,6 +2205,7 @@ shop-docs.docs.shopify.io
 shop-js.storybook.shopify.io
 shop-llm-email-parsing.shopify.io
 shop-llm-email-parsingc.shopify.io
+shop-next-staging.shopify.io
 shop-promise-tools.shopify.io
 shop-promise-toolsk.shopify.io
 shop-server-rusty-staging.shopify.io
@@ -2509,6 +2521,8 @@ usage-service-edge-eu-netherlandsu.shopify.io
 usage-service-edge-us-central.shopify.io
 usage-service-edge-us-east.shopify.io
 usage-service-edge-us-east1.shopify.io
+usenet-api.shopify.io
+usenet.shopify.io
 ux.shopify.io
 validation-1.gitstream.shopify.io
 vanilla.shopify.io

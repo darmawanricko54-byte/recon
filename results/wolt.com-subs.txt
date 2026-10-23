@@ -583,6 +583,7 @@ cmpicr7.util.wolt.com
 cmprod.util.wolt.com
 cmsecurity.util.wolt.com
 cmsmill-ci.util.wolt.com
+cmwm-vendor-api-merchant-admin7.util.wolt.com
 cn.cdn.dev2.k.wolt.com
 cn.wolt.com
 cnu.cdn.dev2.k.wolt.com
@@ -1008,6 +1009,7 @@ estudiarfisica.dev2.k.wolt.com
 eu-central-1.wolt.com
 eu-central-1a.wolt.com
 eu-dd-internal.wolt.com
+eu.wolt.com
 eugenequells.us3.dev2.k.wolt.com
 europe7.util.wolt.com
 europeanw.util.wolt.com
@@ -1402,6 +1404,7 @@ physics.wolt.com
 picker-api-merchant-admin.wolt.com
 picker-api.wolt.com
 picker-apio.wolt.com
+pl.wolt.com
 pop.converse-api.wolt.com
 portal.authentication.wolt.com
 portal.gatekeeper.wolt.com
@@ -1436,6 +1439,7 @@ prod2-nginx-ingress-public-nlb.wolt.com
 prod2-nginx-ingress-public.wolt.com
 prod2.k.wolt.com
 prodaem.wolt.com
+prodemge.wolt.com
 prodeng.wolt.com
 prodev.wolt.com
 prodigal.wolt.com
@@ -1449,6 +1453,7 @@ products.wolt.com
 productsummary.wolt.com
 produkttestblog-evi.wolt.com
 produkttesterin86.wolt.com
+prody.fg.wolt.com
 proexport.wolt.com
 profacero.wolt.com
 profashionall.wolt.com

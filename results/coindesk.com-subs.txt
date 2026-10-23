@@ -301,6 +301,7 @@ m.consensus.coindesk.com
 mail.coindesk.com
 mail1.consensus.coindesk.com
 mail2.downloads.coindesk.com
+mcp-staging.coindesk.com
 mcp.coindesk.com
 media-stage.coindesk.com
 media.coindesk.com
