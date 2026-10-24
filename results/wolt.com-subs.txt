@@ -184,6 +184,7 @@ air.test.dev2.k.wolt.com
 airflow-master.wolt.com
 airflow.util.wolt.com
 airflow.wolt.com
+airflowe.wolt.com
 alcea-consulting7.mail.protection.dev2.k.wolt.com
 alessandrow.dev2.k.wolt.com
 alliance4loans-comk.mail.protection.dev2.k.wolt.com
@@ -526,6 +527,7 @@ cksharea.util.wolt.com
 cldmas-comy.mail.protection.dev2.k.wolt.com
 click.consumer-api.wolt.com
 click.converse-static-resources.wolt.com
+client-apidocs.util.wolt.com
 client-datamill-master.util.wolt.com
 client-dcorporateigni.util.wolt.com
 client-design-partnerm.util.wolt.com
@@ -1773,6 +1775,7 @@ www.delivery-settings-grpc.wolt.com
 www.designdelivered.wolt.com
 www.dev.k.wolt.com
 www.dev.wolt.com
+www.dev2.k.wolt.com
 www.developer.wolt.com
 www.email.comms.wolt.com
 www.eu-dd-internal.wolt.com

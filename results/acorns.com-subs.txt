@@ -358,6 +358,7 @@ app.api-nightfall-youngmoney-admin6.build.acorns.com
 app.app.acorns.com
 app.cs.build.acorns.com
 app.extension-loginw.app.acorns.com
+appa.app.acorns.com
 appbrowser.acorns.com
 appfile.build.acorns.com
 appi.build.acorns.com
@@ -602,6 +603,7 @@ btpspicpendi.api.build.acorns.com
 btr.acorns.com
 bu.acorns.com
 bubuild3.app.acorns.com
+bui.acorns.com
 build.acorns.com
 build.build.acorns.com
 build1.build.acorns.com
@@ -661,6 +663,7 @@ candbox.acorns.com
 cap.acorns.com
 capi-g.acorns.com
 capi.acorns.com
+careers.acorns.com
 careers.app.acorns.com
 careersa.app.acorns.com
 careersc.acorns.com
@@ -937,6 +940,7 @@ cursoa.build.acorns.com
 cursow.acorns.com
 cust.acorns.com
 cust115.acorns.com
+cust115a.acorns.com
 cust2u.acorns.com
 cust65.acorns.com
 cust90.acorns.com
@@ -1157,6 +1161,7 @@ e.app.acorns.com
 early.acorns.com
 earn.acorns.com
 east.acorns.com
+ebs1.app.acorns.com
 ecs.acorns.com
 eddocuments.build.acorns.com
 edge.228.build.acorns.com
@@ -1186,6 +1191,7 @@ elay1s3testk.acorns.com
 elayphds3test-service-produc.acorns.com
 elayphds3test-service-productions.acorns.com
 elayphds3test-service-productionso.acorns.com
+elayphds3test.acorns.com
 elk.acorns.com
 elk.app.acorns.com
 elke.app.acorns.com
@@ -1601,6 +1607,7 @@ imagesw.app.acorns.com
 imap.app.acorns.com
 imap.blogmonboardingsandbox.build.acorns.com
 imap.cs.build.acorns.com
+imapa.app.acorns.com
 img.227.build.acorns.com
 img.app.acorns.com
 img.graphql.acorns.com
@@ -1747,6 +1754,7 @@ lit.app.acorns.com
 lite-game.acorns.com
 lite-gameo.acorns.com
 lite-gamestore.acorns.com
+lite.app.acorns.com
 live.cs.build.acorns.com
 live.extension-loginw.app.acorns.com
 live.links.notifications.acorns.com
@@ -1864,6 +1872,7 @@ minerva-haeormom-errors-betaa.app.acorns.com
 minigolf.app.acorns.com
 miraicej2.app.acorns.com
 miyabi.app.acorns.com
+miyabii.app.acorns.com
 mkts-dev.acorns.com
 mkts-dev.scraper.build.acorns.com
 mkts-dev.webinar.build.acorns.com
@@ -2170,6 +2179,7 @@ r24869076.scraper.build.acorns.com
 r24869076a.a.build.acorns.com
 r24869136.webinar.build.acorns.com
 raritan1.app.acorns.com
+readonly.acorns.com
 redis-backend-moneyplanredisdevel.deru.build.acorns.com
 redis-backend.acorns.com
 redis-baconneclientenrqgaztgobz.build.acorns.com
@@ -2392,6 +2402,7 @@ staging.login.app.acorns.com
 stagingdebug.acorns.com
 staginge.app.acorns.com
 stagingo.acorns.com
+stampidendarius211.acorns.com
 starlite.app.acorns.com
 statements.acorns.com
 static-staging.acorns.com

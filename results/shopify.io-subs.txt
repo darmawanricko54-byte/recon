@@ -231,6 +231,7 @@ blogsa.superset-worker-staging-monitor.shopify.io
 blogsadmin-nav-prototype.shopify.io
 blogsapp-orderprinter-staging.shopify.io
 blogsc.cluster-lifecycle-staging.shopify.io
+blogscluster-lifecycle-staging.shopify.io
 blogsdomains-dobby.shopify.io
 blogsejson-keyring-staging.shopify.io
 blogsg.infrasec-normalizer.shopify.io
@@ -246,6 +247,7 @@ blogsu.shopify.io
 blogsuperset-worker-staging-monitor.shopify.io
 blogsuperset-worker-staging-monitorm.shopify.io
 bmxsp-9da-c4bc-rj.shopify.io
+bmxsp-9da-c4bc-rjs.shopify.io
 board-admin-nav-prototype.shopify.io
 board-app-orderprinter-staging.shopify.io
 board-clouddo-ui-staging.shopify.io
@@ -849,6 +851,7 @@ broadcast-ipgsslearn.shopify.io
 broadcast-ipkm-tech.shopify.io
 broadcast-ipkm-techc.shopify.io
 broadcast-ipm.km-tech.shopify.io
+broadcast-ipottawa.shopify.io
 broadcast-ipottawau.shopify.io
 broadcast-ipq.explainify.shopify.io
 broadcast-ips.beacon.shopify.io
@@ -1453,6 +1456,7 @@ infra-central.shopify.io
 infrasec-dashboard.shopify.io
 infrasec-identity-graph.shopify.io
 infrasec-normalizer.shopify.io
+infrasec-normalizer1.shopify.io
 infrasec-reviewer-prod.shopify.io
 infrasec-reviewer-prod9.shopify.io
 infrasec-reviewer-stg.shopify.io
@@ -1695,6 +1699,7 @@ minerva-chatopso.shopify.io
 minerva-staging.shopify.io
 minerva.shopify.io
 mint-dns-test.shopify.io
+mint-gw-staging.shopify.io
 mint-staging.shopify.io
 mint.shopify.io
 mint.src.shopify.io
@@ -2154,6 +2159,7 @@ selogdivingq.shopify.io
 sentinel-alpha-staging.shopify.io
 sentinel-alpha-stagingq.shopify.io
 sentinel-staging.shopify.io
+sentinel-stagingi.shopify.io
 sentinel.shopify.io
 sentineli.shopify.io
 sentral-staging.shopify.io
@@ -2439,6 +2445,7 @@ tool-gateway-toga-runner.shopify.io
 tool-gateway.shopify.io
 tophat.shopify.io
 topic-sampler.shopify.io
+tor0420.net.shopify.io
 torrent-api-staging.shopify.io
 torrent-api.shopify.io
 torrent-staging.shopify.io
@@ -2712,6 +2719,7 @@ www.rpc.cdp.shopify.io
 www.russbot-staging.shopify.io
 www.russbot.shopify.io
 www.sbomasum-staging.shopify.io
+www.sbominator-production.shopify.io
 www.sbominator-staging.shopify.io
 www.scaling.shopify.io
 www.screenshot-service.shopify.io
