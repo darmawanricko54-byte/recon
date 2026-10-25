@@ -835,6 +835,7 @@ co.acorns.com
 co.jp.info0970867575.login.app.acorns.com
 cobrowse.acorns.com
 cobrowsea.acorns.com
+cochat.acorns.com
 cocopop.app.acorns.com
 cocopopq.app.acorns.com
 codata.acorns.com
@@ -918,6 +919,7 @@ cpanel.acorns.com
 cpanel.app.acorns.com
 cray.app.acorns.com
 cray7.app.acorns.com
+crm.acorns.com
 crm.app.acorns.com
 crm7.app.acorns.com
 cs-xndevice.build.acorns.com
@@ -1242,6 +1244,7 @@ eu.acorns.com
 eu1.acorns.com
 events.acorns.com
 ewi.acorns.com
+ex.acorns.com
 exams.acorns.com
 examsk.acorns.com
 exchange.acorns.com
@@ -1284,6 +1287,7 @@ final.app.acorns.com
 finali.app.acorns.com
 finam.acorns.com
 finam.app.acorns.com
+finama.acorns.com
 finamc.app.acorns.com
 find.acorns.com
 finsys-stageqa.curso.build.acorns.com
@@ -2908,6 +2912,8 @@ yjwone1.acorns.com
 yjwone1.app.acorns.com
 yjwone1i.app.acorns.com
 youngmoney-admin.build.acorns.com
+youngmoney-adminy.build.acorns.com
+youngmoney.acorns.com
 youngmoneyplan-proxy.acorns.com
 youngmoneyplan-proxy.scraper.build.acorns.com
 youngmoneyplan-proxye.scraper.build.acorns.com

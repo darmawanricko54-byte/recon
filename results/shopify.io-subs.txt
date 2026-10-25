@@ -198,6 +198,7 @@ blackboardvegas-registryo.macstadium.shopify.io
 blacklisted-credentials-service.shopify.io
 blacklisted-credentials-servicey.shopify.io
 bladerunner-staging.shopify.io
+bladerunner-stagingy.shopify.io
 blobk.core.shopify.io
 blog-infrasec-normalizer.shopify.io
 blog-internal-links.growth-labs.shopify.io
@@ -224,6 +225,7 @@ blogs-tracing-api-stagingy.shopify.io
 blogs-vegas-registry.macstadium.shopify.io
 blogs.ejson-keyring-staging.shopify.io
 blogs.helpdesk-qr-staging.shopify.io
+blogs.internal-identity-graph.shopify.io
 blogs.shopify.io
 blogs5.vegas-registry.macstadium.shopify.io
 blogsa.domains-dobby.shopify.io
@@ -291,6 +293,7 @@ boards-clouddo-ui-staging.shopify.io
 boards-clouddo-ui-stagingo.shopify.io
 boards-dev-success-training.shopify.io
 boards-gradle-build-cache.shopify.io
+boards-identity-graph-api-hyzf.shopify.io
 boards-mobile-polaris-coverage.shopify.io
 boards-mobile-staging.shopify.io
 boards-mobile-stagingi.shopify.io
@@ -605,6 +608,7 @@ box5.bogus-marketplace-app.shopify.io
 box5.turing.shopify.io
 boxa.shop-chat-ai.shopify.io
 boxapp-qa-bot.shopify.io
+boxbogus-marketplace-app.shopify.io
 boxbursting.shopify.io
 boxburstingk.shopify.io
 boxdevelopment-staging.shopify.io
@@ -613,6 +617,7 @@ boxemojiserver.shopify.io
 boxg.marketingguidelines.shopify.io
 boxhelp-content.shopify.io
 boxhelp-contentm.shopify.io
+boxi.accio-staging.shopify.io
 boxincentives.shopify.io
 boxm.melody.shopify.io
 boxm.shop.shopify.io
@@ -718,6 +723,7 @@ brandsmtp-relayq.shopify.io
 brandstream.shopify.io
 brandstreami.shopify.io
 brandtrace.shopify.io
+brandtraceo.shopify.io
 brandusage-service-api.shopify.io
 brandw.clouddo-bot.shopify.io
 brandw.development-staging.shopify.io
@@ -995,6 +1001,7 @@ ci1.shopify.io
 cinder.shopify.io
 cinderq.shopify.io
 ciostage.shopify.io
+ciostagea.shopify.io
 client.shopify.io
 cloud-docs.docs.shopify.io
 cloud-docs9.docs.shopify.io
@@ -1410,6 +1417,7 @@ i-need-another-tool.it.shopify.io
 ice-cream-customers.shopify.io
 ice-cream-customersc.shopify.io
 icinga.ash.shopify.io
+icinga.chi.shopify.io
 icinga.chi2.shopify.io
 icingaa.chi2.shopify.io
 identity-global-staging.shopify.io
@@ -2117,6 +2125,7 @@ sbomasum-staging.shopify.io
 sbomasum.shopify.io
 sbomasume.shopify.io
 sbominator-production.shopify.io
+sbominator-productionk.shopify.io
 sbominator-staging.shopify.io
 sbominator-staging1.shopify.io
 scaling-with-apps.docs.shopify.io
