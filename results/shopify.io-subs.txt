@@ -11,6 +11,7 @@ accio5.shopify.io
 accounts-staging.shopify.io
 ad.shopify.io
 adequate-desk.shopify.io
+adhoc.shopify.io
 admin-nav-prototype.shopify.io
 admin-os.shopify.io
 admin-perf-guardrails-staging.shopify.io
@@ -145,6 +146,7 @@ atlantis-staginge.shopify.io
 atlantis.shopify.io
 atlantisw.shopify.io
 au.shopify.io
+aurora.shopify.io
 austin.shopify.io
 authme.shopify.io
 authn-gw-poc.shopify.io
@@ -256,6 +258,7 @@ board-clouddo-ui-staging.shopify.io
 board-domains-dobby.shopify.io
 board-domains-dobbyk.shopify.io
 board-ejson-keyring-staging.shopify.io
+board-gradle-build-cache.shopify.io
 board-gradle-build-cachea.shopify.io
 board-helpdesk-qr-staging.shopify.io
 board-identity-graph-api-hyzf.shopify.io
@@ -1167,6 +1170,7 @@ dw-diagnosis.shopify.io
 e.shopify.io
 ec2.shopify.io
 ecd-testing-us-east1-b.internal-gateway.shopify.io
+ece.shopify.io
 eco-test-app.shopify.io
 economic-conditions.executive-insights.shopify.io
 ecosystem-security.docs.shopify.io
@@ -1531,6 +1535,7 @@ km-tech9.shopify.io
 knowl-edge-slack.shopify.io
 knowledgebrowser.shopify.io
 knowlify.shopify.io
+knowlifyo.shopify.io
 kr.shopify.io
 kunden.shopify.io
 languagetool.shopify.io
@@ -1713,6 +1718,8 @@ mint.shopify.io
 mint.src.shopify.io
 misp-demo.trust.shopify.io
 misp-demom.trust.shopify.io
+ml-control-plane-staging.shopify.io
+ml-control-plane.shopify.io
 mobile-polaris-coverage.shopify.io
 mobile-polaris-coverage5.shopify.io
 mobile-rn-coverage.shopify.io
@@ -1966,6 +1973,7 @@ revenue-funnel-accept.shopify.io
 revenue-funnel-search.shopify.io
 revenue-funnel-staging.shopify.io
 revenue-funnel.shopify.io
+revenue-rules-engine-staging.shopify.io
 review.aquifer.shopify.io
 rewardswallet-staging.shopify.io
 rewardswallet-stagingk.shopify.io
@@ -2277,6 +2285,7 @@ soar-prods.shopify.io
 soar-stg.shopify.io
 soar-stgg.shopify.io
 solid-track.shopify.io
+solid-trackc.shopify.io
 speedscope-staging.shopify.io
 speedscope.shopify.io
 speedscopec.shopify.io

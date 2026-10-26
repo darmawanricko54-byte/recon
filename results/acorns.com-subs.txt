@@ -823,6 +823,7 @@ cmhqa2o.k8s.acorns.com
 cmhqa3o.k8s.acorns.com
 cmkt-mms3.acorns.com
 cmkt-mms3.build.acorns.com
+cmkt-mms35.acorns.com
 cmkt-mms3m.build.acorns.com
 cmkt.acorns.com
 cms.acorns.com
@@ -2028,6 +2029,7 @@ okta.app.acorns.com
 ol.acorns.com
 old.app.acorns.com
 oldhost.app.acorns.com
+olms.acorns.com
 omdesignkr-tubepinkdevfinco1vbvzlogindevticketingfoiaapi.build.acorns.com
 oneclick.app.acorns.com
 onsen1126-xsrvjp.pciento4api.app.acorns.com
