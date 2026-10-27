@@ -169,6 +169,7 @@ batch.melody-grpc-staging.shopify.io
 batch.melody-grpc.shopify.io
 batch.rpc.cdp-staging.shopify.io
 batch.rpc.cdp.shopify.io
+bb-staging.shopify.io
 bb.shopify.io
 bbox-shop.shopify.io
 be.shopify.io
@@ -436,6 +437,7 @@ booking-notify-serviceg.shopify.io
 booking-nzupdates.shopify.io
 booking-openai-proxy.shopify.io
 booking-openai-proxyk.shopify.io
+booking-prodebug.shopify.io
 booking-prodebugy.shopify.io
 booking-rare-emojis-staging.shopify.io
 booking-rare-emojis-staging7.shopify.io
@@ -1055,6 +1057,7 @@ core-mysql-staging.shopify.io
 core-mysql-stagingw.shopify.io
 core-mysql.shopify.io
 core-mysqla.shopify.io
+core.shopify.io
 corp.shopify.io
 coverage.polaris.shopify.io
 coverageg.polaris.shopify.io

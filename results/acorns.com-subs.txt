@@ -360,6 +360,7 @@ app.cs.build.acorns.com
 app.extension-loginw.app.acorns.com
 appa.app.acorns.com
 appbrowser.acorns.com
+appbrowserg.acorns.com
 appfile.build.acorns.com
 appi.build.acorns.com
 appl.com.app.acorns.com
@@ -777,6 +778,7 @@ citrix5.app.acorns.com
 clc-cif-dcfcust213assetsadmin.app.acorns.com
 clc-cif-dcfcust213assetsadmino.app.acorns.com
 click.227.build.acorns.com
+click.acorns.com
 click.app.acorns.com
 click.build.acorns.com
 click1.acorns.com
@@ -1530,6 +1532,7 @@ handbook.acorns.com
 handbooki.acorns.com
 hayl-czqcpwocumentity.app.acorns.com
 hayl.app.acorns.com
+haylc.app.acorns.com
 hb-fa-dev.acorns.com
 hb-fa-devg.acorns.com
 hc3.acorns.com
@@ -1680,6 +1683,7 @@ joker.app.acorns.com
 jokers.app.acorns.com
 jp.acorns.com
 jp.info0970867575.login.app.acorns.com
+jsna.acorns.com
 jump.acorns.com
 jump.apiweb.build.acorns.com
 jumpa.apiweb.build.acorns.com
@@ -2276,6 +2280,7 @@ scooby.build.acorns.com
 scooby.curso.build.acorns.com
 scooby.webinar.build.acorns.com
 scoobyo.curso.build.acorns.com
+scoobys.webinar.build.acorns.com
 scraper.build.acorns.com
 sctjobbank.app.acorns.com
 searchportal-dev.app.acorns.com
