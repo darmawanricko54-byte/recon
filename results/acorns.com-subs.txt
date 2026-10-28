@@ -103,6 +103,7 @@
 59jjjm.acorns.com
 5on-sysonamu1315cpanel.acorns.com
 5on-sysonamu1315cpanel.papt.blogmonboarding.build.acorns.com
+5on-sysonamu1315cpanelo.acorns.com
 5on.acorns.com
 64j-m21.ci.fr-kusanagiommunityaime-demo-kubectl.docs.acorns.com
 6uqacebookapp-xsrvjpinsys-staging-simulatorsbento4api.acorns.com
@@ -914,6 +915,7 @@ core.acorns.com
 corp-poc.aws.acorns.com
 corp.acorns.com
 corp3.build.acorns.com
+corp7.corp.acorns.com
 corpmail.acorns.com
 covidk.ppmail1.artifactory-edge01.acorns.com
 cp-av-con-lovepager-011-17h-api.cs.build.acorns.com
@@ -946,6 +948,7 @@ cursow.acorns.com
 cust.acorns.com
 cust115.acorns.com
 cust115a.acorns.com
+cust2.acorns.com
 cust2u.acorns.com
 cust65.acorns.com
 cust90.acorns.com
@@ -2776,6 +2779,7 @@ www.beta.app.acorns.com
 www.blog.app.acorns.com
 www.blogs.app.acorns.com
 www.build.acorns.com
+www.builder.app.acorns.com
 www.c.app.acorns.com
 www.capi-g.acorns.com
 www.capi.acorns.com

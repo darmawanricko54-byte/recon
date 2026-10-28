@@ -1582,6 +1582,7 @@ linkpop-staging.shopify.io
 linkpop-stagingq.shopify.io
 lipstickmageddon.shopify.io
 lipstickmageddono.shopify.io
+liquid.mock-shop-storefront-staging.shopify.io
 liris.shopify.io
 lit.shopify.io
 live-site-rotation.shopify.io
@@ -2496,6 +2497,7 @@ trust-battery-global9.shopify.io
 trust-battery-signals-staging.shopify.io
 trust-battery-signals.shopify.io
 trust-battery-staging.shopify.io
+trust-battery-staging5.shopify.io
 trust-battery.shopify.io
 trust-platform-staging.shopify.io
 trust-platform-stagingu.shopify.io
@@ -2760,6 +2762,7 @@ www.skai-train.shopify.io
 www.speedscope.shopify.io
 www.splunk-hec-canada.shopify.io
 www.splunk-hec-edge.shopify.io
+www.splunk-hec-staging.shopify.io
 www.splunk-hec.shopify.io
 www.spy-staging.shopify.io
 www.spy.shopify.io
