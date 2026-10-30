@@ -506,6 +506,7 @@ bookings-turinga.shopify.io
 bookings-usage-service-edge-us-central.shopify.io
 bookings-usage-service-edge-us-centraly.shopify.io
 bookings.emojiserver.shopify.io
+bookings.incident-simulator.shopify.io
 bookings.macstadium.shopify.io
 bookings.notify-service.shopify.io
 bookings.nzupdates.shopify.io
@@ -1847,6 +1848,7 @@ pixel-validatoro.shopify.io
 pkgs.shopify.io
 pla.shopify.io
 platform-docs.docs.shopify.io
+platform-docsa.docs.shopify.io
 plinko-sandbox.shopify.io
 plinko-staging.shopify.io
 plinko.shopify.io
@@ -1978,6 +1980,7 @@ revenue-funnel-search.shopify.io
 revenue-funnel-staging.shopify.io
 revenue-funnel.shopify.io
 revenue-rules-engine-staging.shopify.io
+revenue-rules-engine.shopify.io
 review.aquifer.shopify.io
 rewardswallet-staging.shopify.io
 rewardswallet-stagingk.shopify.io
@@ -2666,6 +2669,7 @@ www.docs.shopify.io
 www.downrigger.shopify.io
 www.ec2.shopify.io
 www.employerbrand.shopify.io
+www.eventmarketing.shopify.io
 www.events.shopify.io
 www.factures.shopify.io
 www.fast.shopify.io

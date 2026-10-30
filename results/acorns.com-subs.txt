@@ -435,6 +435,7 @@ asw41swd-wwwwapi.acorns.com
 asw41swd-wwwwapi.apih1mb7api.build.acorns.com
 asw41swd-wwwwapi5.acorns.com
 asw41swd.acorns.com
+asw41swdm.acorns.com
 athena.acorns.com
 athena.dns.apps.acorns.com
 atik.app.acorns.com
@@ -769,6 +770,7 @@ cim-geo-devk.mec-youngmoney-admin6.build.acorns.com
 cim.acorns.com
 cioclk.acorns.com
 ciot.acorns.com
+cisco-uds.app.acorns.com
 cisco-uds.tcp.app.acorns.com
 cisco-udsa.tcp.app.acorns.com
 citg-m.acorns.com
@@ -2030,6 +2032,7 @@ offer.acorns.com
 offersys.acorns.com
 office.app.acorns.com
 office5.app.acorns.com
+ohanaband.acorns.com
 ohanaband.build.acorns.com
 oilotaku.app.acorns.com
 okta.app.acorns.com

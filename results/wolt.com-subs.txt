@@ -1597,6 +1597,7 @@ ricsun.wolt.com
 riddik-worldhacker.wolt.com
 riddle.wolt.com
 riddler.wolt.com
+riddles.wolt.com
 rideau.wolt.com
 ridertua.wolt.com
 ridgeback.wolt.com
