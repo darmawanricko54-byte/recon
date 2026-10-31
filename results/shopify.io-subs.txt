@@ -666,6 +666,7 @@ brand-esx4.ottawa.shopify.io
 brand-esx7o.ottawa.shopify.io
 brand-growth-labs.shopify.io
 brand-growth-labss.shopify.io
+brand-help-content.shopify.io
 brand-help-contentc.shopify.io
 brand-incentives.shopify.io
 brand-incentives1.shopify.io
@@ -2642,6 +2643,7 @@ www.borg.shopify.io
 www.bourgeois-staging-ui.shopify.io
 www.bourgeois-staging.shopify.io
 www.bourgeois-ui.shopify.io
+www.bourgeois.shopify.io
 www.brisk.shopify.io
 www.cassandrath.shopify.io
 www.cdn.shopify.io
