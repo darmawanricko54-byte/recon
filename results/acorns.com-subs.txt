@@ -427,6 +427,7 @@ assetsmoneyplan.a.build.acorns.com
 assetsmoneyplan.acorns.com
 assetsmoneyplan.scraper.build.acorns.com
 assetsmoneyplanc.a.build.acorns.com
+assetsmoneyplank.app.acorns.com
 assetsmoneyplanm.acorns.com
 assword.acorns.com
 assword3.acorns.com

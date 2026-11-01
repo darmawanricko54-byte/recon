@@ -2263,6 +2263,7 @@ shopimap.shopify.io
 shopimapm.shopify.io
 shopp-e-k8s.shopify.io
 shopp-e.shopify.io
+shopp-es.shopify.io
 shopstatus-staging.shopify.io
 shopstatus-stagingo.shopify.io
 sidekick-staging-6.shopify.io
