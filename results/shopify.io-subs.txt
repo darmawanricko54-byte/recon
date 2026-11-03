@@ -1557,6 +1557,7 @@ lb2a.ash.shopify.io
 lb2i.chi2.shopify.io
 lb3.ash.shopify.io
 lb3.chi2.shopify.io
+lb3c.chi2.shopify.io
 lb3i.ash.shopify.io
 lb4.ash.shopify.io
 lb4.chi2.shopify.io
@@ -2488,6 +2489,7 @@ traffic-fastly.shopify.io
 traffic-light.growth-labs.shopify.io
 traffic-lighti.growth-labs.shopify.io
 traffic.shopify.io
+traffic5.shopify.io
 translation-platform-staging.shopify.io
 translation-platform.shopify.io
 translation-platformw.shopify.io
