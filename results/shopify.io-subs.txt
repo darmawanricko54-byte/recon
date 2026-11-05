@@ -1636,6 +1636,7 @@ mail.sra.shopify.io
 mail.src.shopify.io
 mail.storybook.shopify.io
 mail.vaultbot.shopify.io
+main.foundry.shopify.io
 manage.shopify.io
 manual-billing-staging.shopify.io
 manual-billing.shopify.io
@@ -1754,6 +1755,7 @@ mozart-staging2.shopify.io
 mozart-staging23.shopify.io
 mozart.shopify.io
 museum.shopify.io
+my.main.foundry.shopify.io
 mycars.shopify.io
 n8n.shopify.io
 na-ne1-3-ingress-staging.shopify.io
@@ -2422,6 +2424,8 @@ talentsystems-uat1.shopify.io
 talentsystems.shopify.io
 talespin-event-observatory.shopify.io
 talespin.shopify.io
+tamarack-controlplane-staging.security.shopify.io
+tamarack-policy-staging.security.shopify.io
 tangle-dw-staging.shopify.io
 tangle-dw.shopify.io
 tangle.shopify.io
@@ -2429,6 +2433,7 @@ tartarus.shopify.io
 tasker.shopify.io
 telescope-staging.it.shopify.io
 telescope.it.shopify.io
+terraform-actuator-world.shopify.io
 terraform-private-registry-staging.shopify.io
 terraform-private-registry.shopify.io
 terraform-private-registrye.shopify.io
