@@ -80,6 +80,7 @@ api.shopify.io
 api.staging-1.gitstream.shopify.io
 api.staging-2.gitstream.shopify.io
 api.staging-3.gitstream.shopify.io
+api.tectonix.shopify.io
 api.testing-1.gitstream.shopify.io
 api9.api.shopify.io
 apidocs-stagi.shopify.io
@@ -2213,6 +2214,7 @@ shard3o.notary-shops.shopify.io
 shard4.notary-shops.shopify.io
 shard4k.notary-shops.shopify.io
 shard5.notary-shops.shopify.io
+shard5w.notary-shops.shopify.io
 shard6.notary-shops.shopify.io
 shard6g.notary-shops.shopify.io
 shardlifter-manager.shopify.io
@@ -2431,6 +2433,7 @@ tangle-dw.shopify.io
 tangle.shopify.io
 tartarus.shopify.io
 tasker.shopify.io
+tectonix.shopify.io
 telescope-staging.it.shopify.io
 telescope.it.shopify.io
 terraform-actuator-world.shopify.io
