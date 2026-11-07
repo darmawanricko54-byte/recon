@@ -1642,6 +1642,7 @@ manage.shopify.io
 manual-billing-staging.shopify.io
 manual-billing.shopify.io
 map.shopify.io
+marginalia.shopify.io
 marker-cursor.shopify.io
 marketing.shopify.io
 marketingguidelines.shopify.io
@@ -1940,6 +1941,7 @@ radiance.museum.shopify.io
 radio-staging.shopify.io
 radio.shopify.io
 rails-ivm-frontend-staging.shopify.io
+rain-staging.shopify.io
 rain.shopify.io
 ranq.shopify.io
 rare-emojis-staging.shopify.io
@@ -2248,6 +2250,7 @@ shop-promise-toolsk.shopify.io
 shop-server-rusty-staging.shopify.io
 shop-server-rusty.shopify.io
 shop-server.storybook.shopify.io
+shop-web-rusty.shopify.io
 shop.docs.shopify.io
 shop.shopify.io
 shopcodes-staging.shopify.io
