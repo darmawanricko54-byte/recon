@@ -1349,6 +1349,7 @@ melinksbillingchante.util.wolt.com
 merchant-access-control.wolt.com
 merchant-api.wolt.com
 merchant-apiw.wolt.com
+merchant-app-bff.wolt.com
 merchant-enterprise-service.wolt.com
 merchant-gateway.wolt.com
 merchant-onboarding-service.wolt.com

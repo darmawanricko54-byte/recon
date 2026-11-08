@@ -82,6 +82,7 @@ api.staging-2.gitstream.shopify.io
 api.staging-3.gitstream.shopify.io
 api.tectonix.shopify.io
 api.testing-1.gitstream.shopify.io
+api.worldsupply.shopify.io
 api9.api.shopify.io
 apidocs-stagi.shopify.io
 apidocs-staging.shopify.io
@@ -1849,6 +1850,8 @@ pay-internal-adming.shopify.io
 payments-platform.docs.shopify.io
 payments.shopify.io
 peek.shopify.io
+pi-tranquility.shopify.io
+pi.shopify.io
 pixel-validator.shopify.io
 pixel-validatoro.shopify.io
 pkgs.shopify.io
@@ -2633,6 +2636,7 @@ wolb-cohort-2.shopify.io
 wordpress-sales-channel.shopify.io
 work01s.growth-labs.shopify.io
 world.shopify.io
+worldsupply.shopify.io
 worldtree-staging.shopify.io
 worldtree.shopify.io
 www.1867lt-staging.shopify.io
