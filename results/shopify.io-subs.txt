@@ -840,6 +840,7 @@ brazilthehive.shopify.io
 braziltrace.shopify.io
 brazilw.delphi-staging.shopify.io
 brazily.speedscope.shopify.io
+brds-hub.shopify.io
 brisk-staging.shopify.io
 brisk.shopify.io
 broadcast-ip-arfy.shopify.io
@@ -927,6 +928,7 @@ bursting.shopify.io
 burstinge.shopify.io
 buy-button-staging.shopify.io
 buy-button-staginge.shopify.io
+buyer-behavioral-session.shopify.io
 buyer-profile-staging.shopify.io
 buyer-profile.shopify.io
 c.shopify.io
@@ -1162,6 +1164,7 @@ domainify.shopify.io
 domainify9.shopify.io
 domains-dobby.shopify.io
 downrigger.shopify.io
+draw-mint.skai-train.shopify.io
 draw.shopify.io
 drawmatic.skai-train.shopify.io
 dream-stg.shopify.io
@@ -1729,6 +1732,7 @@ mint.shopify.io
 mint.src.shopify.io
 misp-demo.trust.shopify.io
 misp-demom.trust.shopify.io
+ml-control-plane-staging-2.shopify.io
 ml-control-plane-staging.shopify.io
 ml-control-plane.shopify.io
 mobile-polaris-coverage.shopify.io
@@ -2307,6 +2311,7 @@ soar-stg.shopify.io
 soar-stgg.shopify.io
 solid-track.shopify.io
 solid-trackc.shopify.io
+spcc.shopify.io
 speedscope-staging.shopify.io
 speedscope.shopify.io
 speedscopec.shopify.io
