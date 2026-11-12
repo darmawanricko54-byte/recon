@@ -928,6 +928,7 @@ bursting.shopify.io
 burstinge.shopify.io
 buy-button-staging.shopify.io
 buy-button-staginge.shopify.io
+buyer-behavioral-session-prod-test.shopify.io
 buyer-behavioral-session.shopify.io
 buyer-profile-staging.shopify.io
 buyer-profile.shopify.io
@@ -1172,6 +1173,7 @@ dream-stgk.shopify.io
 dream.shopify.io
 dreamo.shopify.io
 dreamy.shopify.io
+drill-coordinator.shopify.io
 drill.shopify.io
 ds.shopify.io
 dsl.shopify.io
