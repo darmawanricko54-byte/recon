@@ -704,6 +704,7 @@ brand7.esx4.ottawa.shopify.io
 brand7.shopify.io
 branda.growth-labs.shopify.io
 branda.mozart-staging.shopify.io
+brandaehub.shopify.io
 brandbursting.shopify.io
 brandcaptain-hook.shopify.io
 brandcaptain-hooke.shopify.io
@@ -1265,6 +1266,7 @@ flight-simulator-dev.shopify.io
 flight-simulator-prod.shopify.io
 flight-simulator-proto.shopify.io
 flight-simulator-stg.shopify.io
+flink.shopify.io
 flint.shopify.io
 fna.shopify.io
 foo.tunnel.shopify.io
@@ -1604,6 +1606,7 @@ local-relay.security.shopify.io
 local.shopify.io
 locust01-stg.shopify.io
 locust02-stg.shopify.io
+lode-staging.shopify.io
 logi.dart.shopify.io
 logs-api.shopify.io
 logs-api7.shopify.io
