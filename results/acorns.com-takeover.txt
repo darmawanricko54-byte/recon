@@ -660,3 +660,4 @@ ruby.pkg.acorns.com => ruby-wqlehpxvb5g0.cloudsmith.io
 press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
