@@ -661,3 +661,6 @@ press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
 swift.pkg.acorns.com => swift-b0y8ozbszugz.cloudsmith.io
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
 youngmoneyplan.acorns.com => youngmoney.acorns.com.s3-website-us-west-1.amazonaws.com
+cargo.pkg.acorns.com => cargo-dzw2ccq83duj.cloudsmith.io
+invite.acorns.com => invite.acorns.com.s3-website-us-east-1.amazonaws.com
+press.acorns.com => press.acorns.com.s3-website-us-east-1.amazonaws.com
