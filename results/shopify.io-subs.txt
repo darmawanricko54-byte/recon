@@ -101,6 +101,7 @@ appsec-dashboard-stagingg.shopify.io
 appsec-dashboard.shopify.io
 appsec-dashboarde.shopify.io
 aquifer-canary.shopify.io
+aquifer-staging-10.shopify.io
 aquifer-staging-2.shopify.io
 aquifer-staging-3.shopify.io
 aquifer-staging-4.shopify.io
@@ -1609,6 +1610,7 @@ local.shopify.io
 locust01-stg.shopify.io
 locust02-stg.shopify.io
 lode-staging.shopify.io
+lode.shopify.io
 logi.dart.shopify.io
 logs-api.shopify.io
 logs-api7.shopify.io
