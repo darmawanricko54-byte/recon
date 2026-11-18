@@ -1,34 +1,6 @@
 [
   {
-    "subdomain": "access.github.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "2014-fet.github.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "2014-social.github.latitudefinancial.com",
+    "subdomain": "2014.github.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -56,7 +28,35 @@
     "vulnerable": false
   },
   {
-    "subdomain": "2014.github.latitudefinancial.com",
+    "subdomain": "2014-social.github.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "2014eaccess.github.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "access.github.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -98,20 +98,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "2014eaccess.github.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "admin.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -140,7 +126,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "admin.github.latitudefinancial.com",
+    "subdomain": "ads.id.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -154,7 +140,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "ads.id.latitudefinancial.com",
+    "subdomain": "2014-fet.github.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -182,7 +168,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "admin.github.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "alpha.auth.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api-inactivea.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -224,20 +238,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api-inactivea.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "api-inactivey.preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -253,104 +253,6 @@
   },
   {
     "subdomain": "api.dev.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api-inactive.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api-inactive.sit.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api.dev.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api-inactive.preprod.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api.test.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api1.preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -392,7 +294,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apig.cit.latitudefinancial.com",
+    "subdomain": "api-inactive.preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -406,7 +308,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apia.checkout.latitudefinancial.com",
+    "subdomain": "api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -420,7 +322,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apii.dev.checkout.latitudefinancial.com",
+    "subdomain": "api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -434,7 +336,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apiq.prod.latitudefinancial.com",
+    "subdomain": "api-inactive.sit.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -448,21 +350,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apie.sit.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "apixs.latitudefinancial.com",
+    "subdomain": "api.test.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -504,7 +392,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apixy.dev.latitudefinancial.com",
+    "subdomain": "api1.preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -518,7 +406,105 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apiy.dev.latitudefinancial.com",
+    "subdomain": "apia.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apie.sit.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apig.cit.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apiq.prod.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apii.dev.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apixs.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api.dev.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apixy.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -546,7 +532,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "app.id.latitudefinancial.com",
+    "subdomain": "apiy.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -560,7 +546,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "assets.auth.latitudefinancial.com",
+    "subdomain": "app.id.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -588,7 +574,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "applyandbuy.latitudefinancial.com",
+    "subdomain": "assets.auth.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -616,8 +602,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "assets.test.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "assets.sandbox.checkout.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -630,8 +616,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "assets.sandbox.checkout.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "applyandbuy.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -672,63 +658,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api.checkout.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api.sit.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "api.preprod.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "apix.dev.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "authc.dev.latitudefinancial.com",
+    "subdomain": "assets.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -756,7 +686,63 @@
     "vulnerable": false
   },
   {
-    "subdomain": "authq.latitudefinancial.com",
+    "subdomain": "assisted-apply.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api.checkout.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api.test.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "authc.dev.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "api.preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -784,7 +770,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "api.test.latitudefinancial.com",
+    "subdomain": "api.sit.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -798,21 +784,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "assisted-apply.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "blog.api.latitudefinancial.com",
+    "subdomain": "apix.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -854,7 +826,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cardapp-dev.latitudefinancial.com",
+    "subdomain": "authq.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -882,7 +854,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apix.test.latitudefinancial.com",
+    "subdomain": "cardapp-dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -896,7 +868,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "apix.latitudefinancial.com",
+    "subdomain": "blog.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -952,7 +924,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "apix.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "cardsi.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "apix.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1106,20 +1106,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cardapp-preprod.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "datam.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -1148,8 +1134,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cardapp-sandbox.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "demo.auth.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1162,7 +1148,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "demo.auth.latitudefinancial.com",
+    "subdomain": "demo.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1190,7 +1176,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "demo.checkout.latitudefinancial.com",
+    "subdomain": "dev.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1246,8 +1232,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "dev.checkout.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "auth.dev.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1260,7 +1246,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "auth.dev.latitudefinancial.com",
+    "subdomain": "developer.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -1316,7 +1302,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "digicerttest.latitudefinancial.com",
+    "subdomain": "di.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1330,7 +1316,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "di.latitudefinancial.com",
+    "subdomain": "digicerttest.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1414,6 +1400,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "developer.test.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "external.auth.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -1456,20 +1456,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "developer.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "files.id.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -1498,35 +1484,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "developer.test.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "enterpriseenrollment.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "gcp.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "git.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1554,7 +1526,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "git.api.latitudefinancial.com",
+    "subdomain": "github.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1596,21 +1568,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "cardapp-test.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "help.latitudefinancial.com",
+    "subdomain": "hardshipcare.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1624,7 +1582,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "github.latitudefinancial.com",
+    "subdomain": "hardshipcaree.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1652,8 +1610,22 @@
     "vulnerable": false
   },
   {
-    "subdomain": "hardshipcaree.latitudefinancial.com",
+    "subdomain": "help.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "enterpriseenrollment.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1722,48 +1694,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "identity-orionq.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "hardshipcare.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "identityu.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "identity-orion.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
@@ -1778,7 +1708,35 @@
     "vulnerable": false
   },
   {
-    "subdomain": "imap.auth.latitudefinancial.com",
+    "subdomain": "identity-orionq.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "identity.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "identityu.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1806,8 +1764,36 @@
     "vulnerable": false
   },
   {
+    "subdomain": "imap.auth.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "img.auth.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "cards.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1848,8 +1834,22 @@
     "vulnerable": false
   },
   {
-    "subdomain": "incomea.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "income.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "inactive.cards.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1890,7 +1890,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "int.auth.latitudefinancial.com",
+    "subdomain": "incomea.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -1904,8 +1904,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "auth.servicecentre.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "int.auth.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -1946,20 +1946,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "inactive.cards.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "kiwibanku.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -1988,49 +1974,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "auth.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "auth.test.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "latitudecmgk.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "login.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2058,8 +2002,36 @@
     "vulnerable": false
   },
   {
+    "subdomain": "login.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "login.auth.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "auth.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2086,7 +2058,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "lscw.assets.test.latitudefinancial.com",
+    "subdomain": "lscu.assets.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2100,7 +2072,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "lscu.assets.latitudefinancial.com",
+    "subdomain": "lscw.assets.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2156,7 +2128,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "income.latitudefinancial.com",
+    "subdomain": "auth.servicecentre.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2184,7 +2156,63 @@
     "vulnerable": false
   },
   {
+    "subdomain": "auth.test.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "kiwibank.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "lsc.assets.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "cardapp-sandbox.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "cardapp-preprod.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2212,20 +2240,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "identity.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "mfa.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -2240,21 +2254,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "metrics.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "merchants.latitudefinancial.com",
+    "subdomain": "cardapp-test.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2296,7 +2296,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "merchantreporting.checkout.latitudefinancial.com",
+    "subdomain": "metrics.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2310,22 +2310,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "lsc.assets.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "cards.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "nss.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2352,7 +2338,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "nss.latitudefinancial.com",
+    "subdomain": "onlinepaymentintegration-sit.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2381,20 +2367,6 @@
   },
   {
     "subdomain": "origin.auth.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "onlinepaymentintegration-sit.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2450,20 +2422,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "orion-testa.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "orion-test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -2478,7 +2436,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "orion-testa.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "orion.coreadmin.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "orion.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2534,20 +2520,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "orion.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "orioni.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -2564,6 +2536,20 @@
   {
     "subdomain": "orionu.coreadmin.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "oscassets.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2604,6 +2590,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "merchantreporting.checkout.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "mobile.assets.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
@@ -2618,7 +2618,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "mobile.assets.test.latitudefinancial.com",
+    "subdomain": "merchants.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2632,7 +2632,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "oscassets.latitudefinancial.com",
+    "subdomain": "mobile.assets.test.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2730,7 +2730,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "merchanttraining.sandbox.checkout.latitudefinancial.com",
+    "subdomain": "merchanttraining.checkout.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2772,36 +2772,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "p.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "payments-sftps.latitudefinancial.com",
     "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "payments-api.latitudefinancial.com",
-    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2828,7 +2800,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "merchanttraining.checkout.latitudefinancial.com",
+    "subdomain": "p.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "merchanttraining.sandbox.checkout.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -2884,6 +2870,34 @@
     "vulnerable": false
   },
   {
+    "subdomain": "pcc.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "payments.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "pccg.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -2926,7 +2940,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "pccs.api.latitudefinancial.com",
+    "subdomain": "pcc.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2954,8 +2968,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "payments.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "pccs.api.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -2968,7 +2982,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "pcc.api.dev.latitudefinancial.com",
+    "subdomain": "privacya.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -2996,34 +3010,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "privacya.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "pcc.api.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "pcc.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3038,7 +3024,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "partner-auth.test.latitudefinancial.com",
+    "subdomain": "payments-api.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -3080,20 +3066,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "private.api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "private.id.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3122,7 +3094,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "privatei.api.latitudefinancial.com",
+    "subdomain": "private.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3164,6 +3136,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "privatei.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "privatey.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3179,6 +3165,20 @@
   },
   {
     "subdomain": "prod.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "private.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3220,7 +3220,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "private.api.dev.latitudefinancial.com",
+    "subdomain": "private.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3248,20 +3248,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "private.api.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "private.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3276,7 +3262,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "resources.latitudefinancial.com",
+    "status": "not vulnerable",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "rsa-enc.api.dev.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "rsa-ence.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3318,22 +3332,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "rsa-ence.api.latitudefinancial.com",
+    "subdomain": "rsa-enc.api.test.latitudefinancial.com",
     "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "resources.latitudefinancial.com",
-    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3361,20 +3361,6 @@
   },
   {
     "subdomain": "rsa-signs.api.dev.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "rsa-enc.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3458,6 +3444,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "rsa.api-inactive.test.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "rsaa.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3486,7 +3486,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "rsas.api.latitudefinancial.com",
+    "subdomain": "rsa.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3501,6 +3501,20 @@
   },
   {
     "subdomain": "rsaw.api-inactive.dev.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "rsas.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3570,20 +3584,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "salesforce.api.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "salesforce.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3598,21 +3598,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "rsa.api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "rsa.api.dev.latitudefinancial.com",
+    "subdomain": "salesforce.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3627,6 +3613,34 @@
   },
   {
     "subdomain": "salesforcec.api-inactive.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "rsa.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "salesforceu.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3682,21 +3696,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "salesforceu.api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "rsa.api.latitudefinancial.com",
+    "subdomain": "sandboxq.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -3738,20 +3738,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "sandboxq.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "secure.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3766,8 +3752,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "rsa.api.test.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "selfserve.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3808,8 +3794,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "selfserve.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "rsa.api.test.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -3850,20 +3836,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "shopify.api-inactive.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "shopify.api-inactive.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -3878,8 +3850,22 @@
     "vulnerable": false
   },
   {
-    "subdomain": "shopify.api-inactive.test.latitudefinancial.com",
+    "subdomain": "shopify.api-inactive.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "partner-auth.test.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4004,6 +3990,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "shopify.api-inactive.test.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "smartdochubclient.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -4088,20 +4088,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "smetrics.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "staffportal.checkout.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
@@ -4116,8 +4102,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "shopify.api.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "staffportal.sandbox.checkout.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4131,6 +4117,20 @@
   },
   {
     "subdomain": "staffportalg.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "staffportals.sandbox.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4158,49 +4158,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "staffportal.sandbox.checkout.latitudefinancial.com",
-    "status": "not vulnerable",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "staffportals.sandbox.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "statementsq.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "stream.checkout.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4228,7 +4186,35 @@
     "vulnerable": false
   },
   {
+    "subdomain": "stream.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "sts.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "shopify.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4244,6 +4230,20 @@
   {
     "subdomain": "t.latitudefinancial.com",
     "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "smetrics.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4466,7 +4466,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "test-payments-api.latitudefinancial.com",
+    "subdomain": "verify.latitudefinancial.com",
     "status": "not vulnerable",
     "engine": "",
     "documentation": "",
@@ -4508,8 +4508,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "verify.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "visa.api-inactive.dev.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4522,8 +4522,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "visa.api-inactive.dev.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "test-payments-api.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -4550,7 +4550,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "visa.api-inactive.test.latitudefinancial.com",
+    "subdomain": "visa.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4564,7 +4564,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "visa.api.dev.latitudefinancial.com",
+    "subdomain": "visa.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4718,7 +4718,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "visa.api.latitudefinancial.com",
+    "subdomain": "www.api-inactive.cit.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4746,7 +4746,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.api-inactive.cit.latitudefinancial.com",
+    "subdomain": "www.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4761,20 +4761,6 @@
   },
   {
     "subdomain": "www.api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "www.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4844,20 +4830,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.api.test.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -4872,7 +4844,21 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.apix.latitudefinancial.com",
+    "subdomain": "www.api.test.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4900,7 +4886,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.applyandbuy.latitudefinancial.com",
+    "subdomain": "www.apix.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -4914,7 +4900,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.api.test.latitudefinancial.com",
+    "subdomain": "www.applyandbuy.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5012,20 +4998,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.cardapp-preprod.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.cardapp-test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5040,35 +5012,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.cards.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "www.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "www.cit.latitudefinancial.com",
+    "subdomain": "www.cardapp-preprod.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5096,7 +5040,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.connect.latitudefinancial.com",
+    "subdomain": "www.cards.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5110,7 +5054,35 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.data.latitudefinancial.com",
+    "subdomain": "www.cit.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.checkout.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.connect.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5152,7 +5124,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.id.latitudefinancial.com",
+    "subdomain": "www.data.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5180,7 +5152,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.github.latitudefinancial.com",
+    "subdomain": "www.id.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5195,6 +5167,20 @@
   },
   {
     "subdomain": "www.identity-orion.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.github.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5362,8 +5348,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.orion.smartdochub.latitudefinancial.com",
-    "status": "http error",
+    "subdomain": "www.latitudefinancial.com",
+    "status": "not vulnerable",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -5390,7 +5376,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.p.latitudefinancial.com",
+    "subdomain": "www.orion.smartdochub.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5432,6 +5418,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "www.p.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "www.partner-auth.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5446,7 +5446,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.payments-api.latitudefinancial.com",
+    "subdomain": "www.partner.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5460,7 +5460,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.partner.latitudefinancial.com",
+    "subdomain": "www.payments-api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5502,20 +5502,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.pcc.api-inactive.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.pcc.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5530,7 +5516,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.pcc.api.test.latitudefinancial.com",
+    "subdomain": "www.pcc.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5545,6 +5531,20 @@
   },
   {
     "subdomain": "www.pcc.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.pcc.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5586,20 +5586,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.private.api-inactive.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.private.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5614,7 +5600,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.private.api.dev.latitudefinancial.com",
+    "subdomain": "www.private.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5642,7 +5628,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.resources.latitudefinancial.com",
+    "subdomain": "www.private.api.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5712,6 +5698,20 @@
     "vulnerable": false
   },
   {
+    "subdomain": "www.resources.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
     "subdomain": "www.rsa.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5740,7 +5740,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.rsa.api.test.latitudefinancial.com",
+    "subdomain": "www.rsa.api.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5754,7 +5754,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.rsa.api.latitudefinancial.com",
+    "subdomain": "www.rsa.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5852,20 +5852,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.shopify.api-inactive.dev.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.shopify.api-inactive.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -5880,7 +5866,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.shopify.api.dev.latitudefinancial.com",
+    "subdomain": "www.shopify.api-inactive.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5908,8 +5894,8 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.latitudefinancial.com",
-    "status": "not vulnerable",
+    "subdomain": "www.shopify.api.dev.latitudefinancial.com",
+    "status": "http error",
     "engine": "",
     "documentation": "",
     "discussion": "",
@@ -5923,6 +5909,20 @@
   },
   {
     "subdomain": "www.shopify.api.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.shopify.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -5951,20 +5951,6 @@
   },
   {
     "subdomain": "www.staffportal.checkout.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
-    "subdomain": "www.shopify.api.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -6020,20 +6006,6 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.test.latitudefinancial.com",
-    "status": "http error",
-    "engine": "",
-    "documentation": "",
-    "discussion": "",
-    "cicd_pass": false,
-    "cname": null,
-    "fingerprint": "",
-    "http_status": null,
-    "nxdomain": false,
-    "service": "",
-    "vulnerable": false
-  },
-  {
     "subdomain": "www.test-payments.latitudefinancial.com",
     "status": "http error",
     "engine": "",
@@ -6048,7 +6020,7 @@
     "vulnerable": false
   },
   {
-    "subdomain": "www.visa.api-inactive.dev.latitudefinancial.com",
+    "subdomain": "www.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -6063,6 +6035,20 @@
   },
   {
     "subdomain": "www.test.partner.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "www.visa.api-inactive.dev.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",
@@ -6175,6 +6161,20 @@
   },
   {
     "subdomain": "www.statements.latitudefinancial.com",
+    "status": "http error",
+    "engine": "",
+    "documentation": "",
+    "discussion": "",
+    "cicd_pass": false,
+    "cname": null,
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "",
+    "vulnerable": false
+  },
+  {
+    "subdomain": "visa.api-inactive.test.latitudefinancial.com",
     "status": "http error",
     "engine": "",
     "documentation": "",

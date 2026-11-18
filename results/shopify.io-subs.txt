@@ -932,6 +932,7 @@ buy-button-staging.shopify.io
 buy-button-staginge.shopify.io
 buyer-behavioral-session-prod-test.shopify.io
 buyer-behavioral-session.shopify.io
+buyer-profile-domain-builder-staging.shopify.io
 buyer-profile-staging.shopify.io
 buyer-profile.shopify.io
 c.shopify.io
@@ -1695,6 +1696,8 @@ merchant-account-email-relay.shopify.io
 merchant-explorer-staging.shopify.io
 merchant-explorer.shopify.io
 merchant-growth-recommender-inference-sandbox.shopify.io
+merchant-growth-recommender-inference-staging-2.shopify.io
+merchant-growth-recommender-inference-staging-3.shopify.io
 merchant-growth-recommender-inference-staging.shopify.io
 merchant-growth-recommender-inference.shopify.io
 merchant-growth-recommender-staging.shopify.io
