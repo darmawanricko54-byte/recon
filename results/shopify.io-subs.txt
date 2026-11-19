@@ -30,6 +30,7 @@ ads.shopify.io
 advisor-learning-staging.shopify.io
 advisor-learning.shopify.io
 advisor-training.shopify.io
+affiliate-forecast-mcp.shopify.io
 agent-plane.shopify.io
 agent.aquifer-staging-2.shopify.io
 agent.aquifer-staging-3.shopify.io
@@ -1072,6 +1073,10 @@ corp.shopify.io
 coverage.polaris.shopify.io
 coverageg.polaris.shopify.io
 cps.shopify.io
+crm-api-staging.shopify.io
+crm-api.shopify.io
+crm-staging.shopify.io
+crm.shopify.io
 cronograma-staging.shopify.io
 cronograma-staging5.shopify.io
 cronograma.shopify.io
@@ -1092,6 +1097,8 @@ customer-behaviour-api-staging-lft7a.shopify.io
 customer-behaviour-api-staging.shopify.io
 customer-behaviour-api.shopify.io
 customer-behaviour-apim.shopify.io
+customer-data-platform-admin.shopify.io
+customer-data-platform-staging-admin.shopify.io
 customer-identity-staging.shopify.io
 customer-identity-staging5.shopify.io
 cyber-stress-test.shopify.io
@@ -2036,6 +2043,7 @@ river-staging-8.shopify.io
 river-staging.shopify.io
 river-super-mla-staging.shopify.io
 river.shopify.io
+robin.shopify.io
 routify.ash.shopify.io
 routify.chi.shopify.io
 routify7.chi.shopify.io
@@ -2585,6 +2593,8 @@ unicorn.shopify.io
 unicorno.shopify.io
 universal-catalog-ingestion.shopify.io
 upgrow.shopify.io
+uprise-api.shopify.io
+uprise.shopify.io
 usage-service-api.shopify.io
 usage-service-apia.shopify.io
 usage-service-edge-eu-germany.shopify.io
@@ -2634,6 +2644,7 @@ web.storybook.shopify.io
 webdisk.docs.shopify.io
 webhooks-end-to-end.shopify.io
 webhooks-staging.shopify.io
+webhooks.shopify.io
 wedge.shopify.io
 welcome.shopify.io
 welcomea.shopify.io
@@ -2657,6 +2668,7 @@ wolb-cohort-2.shopify.io
 wordpress-sales-channel.shopify.io
 work01s.growth-labs.shopify.io
 world.shopify.io
+worldgraph.shopify.io
 worldsupply.shopify.io
 worldtree-staging.shopify.io
 worldtree.shopify.io
