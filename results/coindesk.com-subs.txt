@@ -220,6 +220,7 @@ downloadsh.coindesk.com
 edge.coindesk.com
 edge2.coindesk.com
 edge2s.coindesk.com
+email.coindesk.com
 embed.coindesk.com
 embed7.coindesk.com
 events.api.coindesk.com

@@ -150,6 +150,7 @@ atlantis-staginge.shopify.io
 atlantis.shopify.io
 atlantisw.shopify.io
 au.shopify.io
+aube.shopify.io
 aurora.shopify.io
 austin.shopify.io
 authme.shopify.io
@@ -1202,6 +1203,8 @@ efrjanhz6g70ci2buhlcswkltrb4md3mjpyenyoz.shopify.io
 ejson-keyring-staging.shopify.io
 ejson-keyring-staging9.shopify.io
 ejson-keyring.shopify.io
+elevate-scorm-staging.shopify.io
+elevate-scorm.shopify.io
 elevate-staging-world.shopify.io
 elevate-staging.shopify.io
 elevate-world.shopify.io
@@ -1265,6 +1268,11 @@ finance-ai-sandbox.shopify.io
 finance-ai-staging.shopify.io
 finance-ai.shopify.io
 firstonscene.shopify.io
+flamethrower-staging-a.shopify.io
+flamethrower-staging-b.shopify.io
+flamethrower-staging-c.shopify.io
+flamethrower-staging.shopify.io
+flamethrower.shopify.io
 flashday.shopify.io
 flex.shopify.io
 flight-recorder-dev.shopify.io
@@ -1379,6 +1387,8 @@ grotto-staging.shopify.io
 grotto.shopify.io
 growth-labs.shopify.io
 growth-labs7.shopify.io
+growth-tools-staging.shopify.io
+growth-tools.shopify.io
 growthorg.shopify.io
 growthorgg.shopify.io
 gsd-prioritization.shopify.io
@@ -1617,6 +1627,7 @@ local-relay.security.shopify.io
 local.shopify.io
 locust01-stg.shopify.io
 locust02-stg.shopify.io
+lode-catalog.shopify.io
 lode-staging.shopify.io
 lode.shopify.io
 logi.dart.shopify.io
@@ -1793,6 +1804,7 @@ neo4j-bolt9.shopify.io
 neo4j-staging.shopify.io
 neo4j.shopify.io
 neo4js.shopify.io
+neogsd.shopify.io
 neon-staging.shopify.io
 neon.shopify.io
 net.shopify.io
@@ -1857,6 +1869,8 @@ overseer-staging.shopify.io
 overseer-staging1.shopify.io
 overseer.shopify.io
 overseerq.shopify.io
+oxygen-observability-service-staging.shopify.io
+oxygen-observability-service.shopify.io
 pac.shopify.io
 package-proxy-staging.shopify.io
 package-proxy.shopify.io
@@ -2288,6 +2302,15 @@ shopify-agent.shopify.io
 shopify-bookbar.shopify.io
 shopify-bookbar3.shopify.io
 shopify-debug.shopify.io
+shopify-dev-staging-10.shopify.io
+shopify-dev-staging-11.shopify.io
+shopify-dev-staging-2.shopify.io
+shopify-dev-staging-3.shopify.io
+shopify-dev-staging-4.shopify.io
+shopify-dev-staging-6.shopify.io
+shopify-dev-staging-7.shopify.io
+shopify-dev-staging-8.shopify.io
+shopify-dev-staging-9.shopify.io
 shopify-dev.shopify.io
 shopify-slack-bot-staging.shopify.io
 shopify-slack-bot-stagings.shopify.io
@@ -2444,6 +2467,7 @@ supportonboardingo.shopify.io
 supportoperations.shopify.io
 sys.metal.shopify.io
 sysi.metal.shopify.io
+talent-pr-review.shopify.io
 talent-sensitive-uat.shopify.io
 talent-staging.shopify.io
 talent-systems-staging.shopify.io
