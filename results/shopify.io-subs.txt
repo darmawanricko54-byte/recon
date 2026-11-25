@@ -1116,6 +1116,7 @@ data-chi.shopify.io
 data-chis.shopify.io
 data-handbook.shopify.io
 data-notebooks.shopify.io
+data-portal-staging-2.shopify.io
 data-portal-staging.shopify.io
 data-portal.shopify.io
 data-publishing-dev.shopify.io
@@ -1527,6 +1528,7 @@ internal-identity-graphi.shopify.io
 internal.shopify.io
 interviewing.shopify.io
 intranet.shopify.io
+investigate-api-staging.shopify.io
 invoices.shopify.io
 invoicesm.shopify.io
 ip.shopify.io
@@ -2489,6 +2491,7 @@ tamarack-policy-staging.security.shopify.io
 tangle-dw-staging.shopify.io
 tangle-dw.shopify.io
 tangle.shopify.io
+target-registry-staging.shopify.io
 tartarus.shopify.io
 tasker.shopify.io
 tectonix.shopify.io
@@ -2510,6 +2513,7 @@ testability9.shopify.io
 testing-1.gitstream.shopify.io
 testing-ssd.gitstream.shopify.io
 textstring.quick.shopify.io
+thanos-global-staging.shopify.io
 thehive-staging.shopify.io
 thehive.shopify.io
 thehiveg.shopify.io
