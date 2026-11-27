@@ -1100,6 +1100,8 @@ customer-behaviour-api.shopify.io
 customer-behaviour-apim.shopify.io
 customer-data-platform-admin.shopify.io
 customer-data-platform-staging-admin.shopify.io
+customer-data-platform-staging-us-central1.shopify.io
+customer-data-platform-staging-us-east1.shopify.io
 customer-identity-staging.shopify.io
 customer-identity-staging5.shopify.io
 cyber-stress-test.shopify.io
@@ -2492,6 +2494,7 @@ tangle-dw-staging.shopify.io
 tangle-dw.shopify.io
 tangle.shopify.io
 target-registry-staging.shopify.io
+target-registry.shopify.io
 tartarus.shopify.io
 tasker.shopify.io
 tectonix.shopify.io
